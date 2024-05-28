@@ -1,0 +1,1159 @@
+id_client;sexe;age;enfant_conduite_accompagne;nombre_enfants;revenus;valeur_residence_prin;usage_vehicule;type_vehicule;points_perdus;age_vehicule;type_conduite;date_demande;formule;tarif_devis
+1000101;F;23;Non;Oui;100k - 150k;0 - 100k;Commercial;Sports Car;0;7.0;Highly Urban/ Urban;25/02/2022 16:13;dev_integral;300 - 400
+1000102;F;91;Oui;Oui;50k - 75k;0 - 100k;Private;Minivan;2;1.0;Highly Urban/ Urban;24/05/2022 21:07;dev_express;200 - 300
+1000103;F;45;Non;Oui;10k - 25k;0 - 100k;Private;Pickup;0;4.0;z_Highly Rural/ Rural;24/01/2022 08:17;dev_express;200 - 300
+1000104;F;2;Non;Non;0 - 10k;100k - 200k;Private;z_SUV;3;5.0;Highly Urban/ Urban;20/04/2022 03:46;dev_integral;300 - 400
+1000105;M;67;Non;Non;Non renseigné;200k - 300k;Commercial;Panel Truck;2;12.0;Highly Urban/ Urban;23/03/2022 01:32;dev_vip;600 - 700
+1000106;F;31;Non;Oui;75k - 100k;200k - 300k;Private;z_SUV;2;15.0;z_Highly Rural/ Rural;23/03/2022 22:20;dev_premium;400 - 500
+1000107;F;82;Oui;Oui;100k - 150k;300k - 400k;Commercial;Minivan;0;9.0;z_Highly Rural/ Rural;13/03/2022 01:10;dev_express;200 - 300
+1000108;M;67;Non;Non;50k - 75k;200k - 300k;Private;z_SUV;1;10.0;Highly Urban/ Urban;09/03/2022 03:43;dev_premium;300 - 400
+1000109;M;67;Non;Non;100k - 150k;300k - 400k;Private;Minivan;0;14.0;Highly Urban/ Urban;29/01/2022 10:17;dev_premium;300 - 400
+1000110;F;49;Non;Non;Non renseigné;200k - 300k;Commercial;Panel Truck;1;10.0;Highly Urban/ Urban;26/03/2022 07:37;dev_integral;300 - 400
+1000111;F;56;Oui;Oui;10k - 25k;0 - 100k;Private;Minivan;0;10.0;Highly Urban/ Urban;26/05/2022 05:51;dev_express;200 - 300
+1000112;M;6;Non;Oui;10k - 25k;0 - 100k;Private;z_SUV;0;1.0;Highly Urban/ Urban;27/01/2022 09:33;dev_premium;300 - 400
+1000113;F;72;Non;Non;50k - 75k;0 - 100k;Private;z_SUV;0;18.0;Highly Urban/ Urban;08/05/2022 13:32;dev_express;200 - 300
+1000114;M;6;Non;Non;0 - 10k;0 - 100k;Commercial;Van;5;6.0;z_Highly Rural/ Rural;02/05/2022 08:44;dev_integral;300 - 400
+1000115;M;77;Non;Oui;25k - 50k;200k - 300k;Private;Minivan;0;1.0;Highly Urban/ Urban;15/04/2022 13:09;dev_integral;300 - 400
+1000116;M;85;Non;Non;25k - 50k;100k - 200k;Private;Minivan;0;13.0;Highly Urban/ Urban;11/05/2022 02:24;dev_express;200 - 300
+1000117;F;50;Non;Non;100k - 150k;300k - 400k;Private;z_SUV;0;15.0;Highly Urban/ Urban;12/04/2022 01:20;dev_integral;300 - 400
+1000118;F;87;Non;Non;50k - 75k;0 - 100k;Commercial;Van;1;8.0;Highly Urban/ Urban;04/03/2022 09:15;dev_express;200 - 300
+1000119;F;68;Non;Non;75k - 100k;200k - 300k;Private;Minivan;0;11.0;Highly Urban/ Urban;05/02/2022 17:39;dev_express;200 - 300
+1000120;F;83;Non;Non;25k - 50k;100k - 200k;Private;z_SUV;0;10.0;Highly Urban/ Urban;25/04/2022 14:43;dev_integral;200 - 300
+1000121;M;35;Non;Oui;50k - 75k;200k - 300k;Private;Minivan;0;16.0;z_Highly Rural/ Rural;20/03/2022 03:44;dev_express;200 - 300
+1000122;M;91;Oui;Oui;25k - 50k;100k - 200k;Private;Minivan;1;;Highly Urban/ Urban;27/03/2022 09:22;dev_premium;300 - 400
+1000123;F;23;Non;Non;Non renseigné;100k - 200k;Commercial;Van;0;7.0;Highly Urban/ Urban;16/05/2022 02:39;dev_premium;300 - 400
+1000124;F;82;Non;Oui;25k - 50k;200k - 300k;Commercial;Sports Car;5;1.0;Highly Urban/ Urban;06/02/2022 07:52;dev_premium;400 - 500
+1000125;M;18;Non;Non;10k - 25k;100k - 200k;Commercial;Pickup;1;1.0;Highly Urban/ Urban;27/04/2022 15:06;dev_express;200 - 300
+1000126;M;66;Non;Non;Non renseigné;Non renseigné;Private;Minivan;1;;z_Highly Rural/ Rural;13/04/2022 00:52;dev_express;200 - 300
+1000127;F;24;Non;Non;25k - 50k;0 - 100k;Private;Sports Car;0;1.0;z_Highly Rural/ Rural;22/03/2022 13:32;dev_integral;200 - 300
+1000128;F;44;Non;Non;75k - 100k;200k - 300k;Private;z_SUV;5;;Highly Urban/ Urban;22/04/2022 03:39;dev_integral;200 - 300
+1000129;F;54;Non;Non;50k - 75k;100k - 200k;Private;z_SUV;0;1.0;Highly Urban/ Urban;23/03/2022 22:44;dev_vip;800 - 900
+1000130;F;16;Non;Non;100k - 150k;300k - 400k;Private;z_SUV;0;17.0;Highly Urban/ Urban;12/02/2022 20:23;dev_premium;300 - 400
+1000131;F;49;Non;Oui;25k - 50k;100k - 200k;Private;z_SUV;0;1.0;Highly Urban/ Urban;14/01/2022 07:11;dev_express;200 - 300
+1000132;M;39;Non;Oui;25k - 50k;0 - 100k;Commercial;Minivan;6;5.0;z_Highly Rural/ Rural;09/04/2022 11:49;dev_integral;300 - 400
+1000133;F;66;Non;Non;100k - 150k;0 - 100k;Private;z_SUV;3;9.0;Highly Urban/ Urban;23/03/2022 06:12;dev_express;200 - 300
+1000134;M;5;Non;Non;25k - 50k;100k - 200k;Private;z_SUV;2;6.0;z_Highly Rural/ Rural;04/02/2022 17:14;dev_premium;400 - 500
+1000135;M;45;Oui;Oui;50k - 75k;200k - 300k;Private;Sports Car;0;12.0;Highly Urban/ Urban;05/02/2022 18:50;dev_express;200 - 300
+1000136;F;69;Non;Non;10k - 25k;100k - 200k;Private;z_SUV;0;9.0;Highly Urban/ Urban;08/02/2022 09:59;dev_integral;300 - 400
+1000137;F;62;Non;Non;25k - 50k;100k - 200k;Commercial;Sports Car;0;15.0;Highly Urban/ Urban;06/02/2022 22:30;dev_express;200 - 300
+1000138;F;7;Non;Oui;75k - 100k;300k - 400k;Private;z_SUV;2;14.0;Highly Urban/ Urban;09/02/2022 14:28;dev_integral;200 - 300
+1000139;F;56;Non;Non;150k - 200k;0 - 100k;Private;Minivan;0;15.0;Highly Urban/ Urban;26/05/2022 21:39;dev_integral;200 - 300
+1000140;M;35;Non;Non;50k - 75k;100k - 200k;Private;z_SUV;1;11.0;z_Highly Rural/ Rural;04/03/2022 15:36;dev_premium;400 - 500
+1000141;F;19;Oui;Oui;Non renseigné;0 - 100k;Private;Sports Car;0;10.0;Highly Urban/ Urban;31/05/2022 13:11;dev_express;200 - 300
+1000142;F;86;Non;Oui;0 - 10k;0 - 100k;Private;z_SUV;5;8.0;Highly Urban/ Urban;30/04/2022 23:20;dev_express;200 - 300
+1000143;M;59;Non;Oui;0 - 10k;0 - 100k;Commercial;Pickup;0;10.0;Highly Urban/ Urban;20/03/2022 04:00;dev_express;200 - 300
+1000144;F;58;Oui;Oui;50k - 75k;100k - 200k;Private;Pickup;0;;Highly Urban/ Urban;02/04/2022 11:25;dev_premium;400 - 500
+1000145;M;52;Non;Non;75k - 100k;0 - 100k;Private;z_SUV;0;13.0;Highly Urban/ Urban;02/01/2022 20:05;dev_integral;300 - 400
+1000146;F;66;Non;Non;75k - 100k;200k - 300k;Private;z_SUV;4;15.0;Highly Urban/ Urban;24/02/2022 21:52;dev_express;200 - 300
+1000147;M;77;Non;Oui;0 - 10k;0 - 100k;Private;z_SUV;1;1.0;Highly Urban/ Urban;05/04/2022 02:47;dev_express;200 - 300
+1000148;F;42;Non;Non;100k - 150k;300k - 400k;Commercial;Panel Truck;1;13.0;Highly Urban/ Urban;21/02/2022 11:50;dev_integral;300 - 400
+1000149;M;77;Non;Non;75k - 100k;0 - 100k;Commercial;Van;0;7.0;Highly Urban/ Urban;21/03/2022 00:37;dev_integral;200 - 300
+1000150;F;39;Oui;Oui;50k - 75k;100k - 200k;Private;Van;1;1.0;z_Highly Rural/ Rural;03/04/2022 12:30;dev_integral;200 - 300
+1000151;F;25;Non;Non;25k - 50k;100k - 200k;Commercial;Pickup;7;1.0;Highly Urban/ Urban;28/03/2022 23:57;dev_integral;300 - 400
+1000152;F;49;Non;Oui;25k - 50k;100k - 200k;Private;Minivan;1;5.0;Highly Urban/ Urban;21/03/2022 07:59;dev_express;200 - 300
+1000153;M;19;Non;Non;100k - 150k;200k - 300k;Private;Minivan;0;7.0;Highly Urban/ Urban;23/05/2022 09:33;dev_express;200 - 300
+1000154;F;48;Non;Non;50k - 75k;0 - 100k;Private;Sports Car;0;19.0;Highly Urban/ Urban;03/05/2022 20:20;dev_express;200 - 300
+1000155;F;6;Non;Non;75k - 100k;200k - 300k;Commercial;Minivan;5;8.0;z_Highly Rural/ Rural;11/04/2022 14:51;dev_express;200 - 300
+1000156;M;49;Non;Non;75k - 100k;300k - 400k;Private;Van;0;13.0;Highly Urban/ Urban;05/01/2022 09:29;dev_premium;300 - 400
+1000157;F;56;Non;Oui;25k - 50k;100k - 200k;Commercial;Van;4;9.0;Highly Urban/ Urban;14/05/2022 13:46;dev_integral;200 - 300
+1000158;M;33;Non;Non;50k - 75k;200k - 300k;Private;z_SUV;2;12.0;Highly Urban/ Urban;20/04/2022 10:04;dev_express;200 - 300
+1000159;F;73;Oui;Oui;25k - 50k;Non renseigné;Private;Van;0;1.0;Highly Urban/ Urban;22/01/2022 11:01;dev_express;200 - 300
+1000160;F;31;Oui;Oui;25k - 50k;0 - 100k;Private;Sports Car;1;7.0;Highly Urban/ Urban;26/04/2022 16:17;dev_express;200 - 300
+1000161;F;72;Non;Non;75k - 100k;200k - 300k;Private;Minivan;0;16.0;Highly Urban/ Urban;23/03/2022 15:45;dev_integral;200 - 300
+1000162;F;54;Non;Non;25k - 50k;100k - 200k;Private;Pickup;0;8.0;Highly Urban/ Urban;27/04/2022 03:37;dev_express;200 - 300
+1000163;F;71;Non;Oui;50k - 75k;200k - 300k;Commercial;Van;0;5.0;Highly Urban/ Urban;24/05/2022 02:44;dev_integral;200 - 300
+1000164;F;80;Non;Oui;25k - 50k;0 - 100k;Private;Sports Car;0;1.0;Highly Urban/ Urban;09/05/2022 23:43;dev_express;200 - 300
+1000165;F;4;Non;Non;10k - 25k;100k - 200k;Private;z_SUV;0;6.0;Highly Urban/ Urban;22/04/2022 08:38;dev_integral;200 - 300
+1000166;M;51;Non;Non;50k - 75k;200k - 300k;Private;z_SUV;5;1.0;Highly Urban/ Urban;17/05/2022 07:36;dev_express;200 - 300
+1000167;M;69;Non;Non;75k - 100k;200k - 300k;Private;Pickup;0;7.0;Highly Urban/ Urban;01/05/2022 22:37;dev_express;200 - 300
+1000168;M;51;Non;Non;0 - 10k;0 - 100k;Private;Minivan;3;5.0;z_Highly Rural/ Rural;29/05/2022 10:50;dev_express;200 - 300
+1000169;M;72;Non;Oui;10k - 25k;0 - 100k;Private;z_SUV;2;13.0;Highly Urban/ Urban;04/04/2022 09:48;dev_express;200 - 300
+1000170;F;24;Non;Non;75k - 100k;0 - 100k;Commercial;Pickup;1;3.0;Highly Urban/ Urban;27/01/2022 21:31;dev_integral;300 - 400
+1000171;F;3;Non;Non;75k - 100k;0 - 100k;Private;z_SUV;0;9.0;Highly Urban/ Urban;13/01/2022 03:29;dev_integral;300 - 400
+1000172;M;34;Non;Non;150k - 200k;400k - 500k;Private;z_SUV;2;12.0;Highly Urban/ Urban;08/01/2022 11:18;dev_express;200 - 300
+1000173;M;9;Non;Non;75k - 100k;200k - 300k;Private;Minivan;2;9.0;Highly Urban/ Urban;05/04/2022 09:02;dev_integral;200 - 300
+1000174;F;80;Non;Oui;75k - 100k;Non renseigné;Private;Minivan;2;9.0;z_Highly Rural/ Rural;14/02/2022 02:00;dev_premium;400 - 500
+1000175;M;79;Non;Non;25k - 50k;100k - 200k;Private;Pickup;0;8.0;Highly Urban/ Urban;14/01/2022 13:12;dev_express;200 - 300
+1000176;F;29;Non;Non;100k - 150k;0 - 100k;Private;z_SUV;1;18.0;Highly Urban/ Urban;20/04/2022 02:38;dev_integral;300 - 400
+1000177;F;72;Non;Non;50k - 75k;200k - 300k;Commercial;Minivan;5;1.0;Highly Urban/ Urban;10/05/2022 13:40;dev_express;200 - 300
+1000178;M;52;Non;Non;25k - 50k;0 - 100k;Commercial;Panel Truck;4;11.0;Highly Urban/ Urban;24/01/2022 17:35;dev_premium;300 - 400
+1000179;F;52;Non;Non;25k - 50k;100k - 200k;Private;Minivan;4;6.0;Highly Urban/ Urban;01/02/2022 04:48;dev_express;200 - 300
+1000180;M;61;Non;Non;100k - 150k;0 - 100k;Private;Minivan;1;1.0;Highly Urban/ Urban;20/04/2022 07:29;dev_premium;300 - 400
+1000181;M;83;Non;Non;0 - 10k;0 - 100k;Private;Sports Car;0;3.0;z_Highly Rural/ Rural;02/01/2022 10:07;dev_express;200 - 300
+1000182;M;63;Non;Non;100k - 150k;0 - 100k;Commercial;Van;0;8.0;z_Highly Rural/ Rural;18/02/2022 08:51;dev_express;200 - 300
+1000183;F;64;Non;Oui;25k - 50k;Non renseigné;Commercial;z_SUV;0;4.0;Highly Urban/ Urban;27/04/2022 19:14;dev_express;200 - 300
+1000184;M;63;Non;Non;10k - 25k;0 - 100k;Private;Sports Car;1;;z_Highly Rural/ Rural;09/05/2022 03:37;dev_express;200 - 300
+1000185;M;61;Non;Non;50k - 75k;Non renseigné;Commercial;Pickup;2;8.0;Highly Urban/ Urban;14/01/2022 21:13;dev_express;200 - 300
+1000186;M;41;Non;Non;25k - 50k;100k - 200k;Private;Minivan;0;9.0;Highly Urban/ Urban;30/03/2022 13:20;dev_express;200 - 300
+1000187;M;53;Non;Non;Non renseigné;0 - 100k;Private;Minivan;0;17.0;Highly Urban/ Urban;25/01/2022 00:58;dev_premium;400 - 500
+1000188;F;22;Oui;Oui;10k - 25k;0 - 100k;Private;z_SUV;0;1.0;z_Highly Rural/ Rural;28/05/2022 07:13;dev_express;200 - 300
+1000189;M;49;Non;Non;25k - 50k;200k - 300k;Private;Minivan;0;13.0;Highly Urban/ Urban;12/02/2022 08:10;dev_premium;500 - 600
+1000190;M;57;Non;Oui;25k - 50k;100k - 200k;Private;Sports Car;0;2.0;z_Highly Rural/ Rural;11/01/2022 16:57;dev_integral;200 - 300
+1000191;M;80;Non;Non;50k - 75k;100k - 200k;Commercial;Minivan;3;1.0;Highly Urban/ Urban;15/04/2022 05:20;dev_express;200 - 300
+1000192;F;11;Non;Oui;10k - 25k;100k - 200k;Private;Minivan;1;1.0;Highly Urban/ Urban;28/03/2022 10:41;dev_premium;300 - 400
+1000193;F;5;Non;Non;75k - 100k;200k - 300k;Private;Sports Car;6;1.0;Highly Urban/ Urban;26/02/2022 21:26;dev_premium;400 - 500
+1000194;M;62;Non;Non;50k - 75k;0 - 100k;Private;Van;0;1.0;Highly Urban/ Urban;17/01/2022 08:39;dev_express;200 - 300
+1000195;F;69;Non;Non;50k - 75k;100k - 200k;Private;Pickup;4;11.0;Highly Urban/ Urban;16/04/2022 00:13;dev_integral;200 - 300
+1000196;F;51;Non;Non;25k - 50k;Non renseigné;Commercial;Pickup;1;5.0;z_Highly Rural/ Rural;12/01/2022 03:39;dev_integral;300 - 400
+1000197;M;61;Non;Non;25k - 50k;0 - 100k;Private;Minivan;7;1.0;Highly Urban/ Urban;23/03/2022 01:48;dev_express;200 - 300
+1000198;F;36;Oui;Oui;50k - 75k;100k - 200k;Private;Minivan;0;6.0;Highly Urban/ Urban;17/04/2022 15:27;dev_integral;200 - 300
+1000199;M;42;Non;Oui;50k - 75k;200k - 300k;Private;Van;1;8.0;Highly Urban/ Urban;05/05/2022 04:13;dev_integral;300 - 400
+1000200;M;18;Non;Non;50k - 75k;0 - 100k;Commercial;z_SUV;0;1.0;Highly Urban/ Urban;28/02/2022 07:30;dev_integral;300 - 400
+1000201;M;66;Non;Oui;10k - 25k;0 - 100k;Commercial;Pickup;2;12.0;Highly Urban/ Urban;12/02/2022 17:39;dev_integral;300 - 400
+1000202;F;23;Non;Oui;50k - 75k;200k - 300k;Private;Minivan;0;1.0;Highly Urban/ Urban;07/01/2022 19:37;dev_integral;300 - 400
+1000203;M;52;Non;Non;100k - 150k;0 - 100k;Private;Minivan;6;11.0;Highly Urban/ Urban;07/01/2022 13:02;dev_integral;300 - 400
+1000204;M;10;Non;Non;200k +;0 - 100k;Commercial;Panel Truck;4;17.0;Highly Urban/ Urban;12/01/2022 00:08;dev_express;200 - 300
+1000205;M;61;Non;Non;50k - 75k;0 - 100k;Private;Minivan;1;12.0;Highly Urban/ Urban;24/05/2022 14:39;dev_premium;400 - 500
+1000206;M;24;Non;Oui;Non renseigné;400k - 500k;Commercial;Panel Truck;0;14.0;Highly Urban/ Urban;25/03/2022 12:49;dev_integral;200 - 300
+1000207;F;71;Oui;Oui;10k - 25k;100k - 200k;Private;Minivan;0;5.0;Highly Urban/ Urban;02/01/2022 00:52;dev_integral;300 - 400
+1000208;M;40;Non;Oui;50k - 75k;200k - 300k;Commercial;Minivan;1;12.0;z_Highly Rural/ Rural;01/03/2022 04:35;dev_integral;300 - 400
+1000209;F;57;Non;Oui;100k - 150k;300k - 400k;Private;Minivan;5;11.0;Highly Urban/ Urban;28/01/2022 11:20;dev_express;200 - 300
+1000210;M;91;Non;Non;10k - 25k;100k - 200k;Private;z_SUV;0;9.0;Highly Urban/ Urban;29/04/2022 08:01;dev_premium;300 - 400
+1000211;M;53;Non;Non;50k - 75k;100k - 200k;Commercial;z_SUV;0;9.0;Highly Urban/ Urban;20/01/2022 00:10;dev_integral;200 - 300
+1000212;M;55;Oui;Oui;100k - 150k;200k - 300k;Commercial;Minivan;0;12.0;Highly Urban/ Urban;06/05/2022 14:07;dev_express;200 - 300
+1000213;M;69;Non;Oui;0 - 10k;100k - 200k;Private;z_SUV;0;8.0;Highly Urban/ Urban;14/03/2022 17:19;dev_express;200 - 300
+1000214;F;65;Non;Oui;25k - 50k;100k - 200k;Commercial;Minivan;2;6.0;Highly Urban/ Urban;20/03/2022 10:44;dev_express;200 - 300
+1000215;F;56;Non;Non;75k - 100k;200k - 300k;Private;z_SUV;0;14.0;Highly Urban/ Urban;18/01/2022 01:43;dev_premium;300 - 400
+1000216;F;51;Oui;Oui;10k - 25k;100k - 200k;Private;Minivan;0;1.0;z_Highly Rural/ Rural;23/01/2022 11:52;dev_premium;400 - 500
+1000217;F;78;Oui;Oui;25k - 50k;100k - 200k;Private;Sports Car;0;11.0;z_Highly Rural/ Rural;07/01/2022 23:42;dev_express;200 - 300
+1000218;F;61;Oui;Oui;10k - 25k;100k - 200k;Private;Pickup;0;7.0;Highly Urban/ Urban;02/01/2022 23:14;dev_integral;300 - 400
+1000219;M;8;Oui;Oui;50k - 75k;0 - 100k;Commercial;Sports Car;2;1.0;Highly Urban/ Urban;23/05/2022 03:25;dev_integral;300 - 400
+1000220;M;3;Non;Non;75k - 100k;200k - 300k;Private;Minivan;0;15.0;Highly Urban/ Urban;29/05/2022 09:22;dev_integral;300 - 400
+1000221;M;70;Non;Non;0 - 10k;100k - 200k;Private;z_SUV;0;13.0;z_Highly Rural/ Rural;09/02/2022 09:54;dev_integral;300 - 400
+1000222;M;57;Non;Oui;75k - 100k;300k - 400k;Private;Minivan;2;11.0;Highly Urban/ Urban;17/02/2022 21:50;dev_express;200 - 300
+1000223;M;70;Non;Non;100k - 150k;0 - 100k;Private;z_SUV;0;12.0;Highly Urban/ Urban;06/05/2022 08:05;dev_integral;300 - 400
+1000224;F;48;Non;Non;50k - 75k;200k - 300k;Private;Pickup;0;11.0;Highly Urban/ Urban;25/01/2022 10:57;dev_integral;300 - 400
+1000225;F;29;Non;Oui;25k - 50k;100k - 200k;Private;Van;4;9.0;Highly Urban/ Urban;01/01/2022 10:42;dev_integral;300 - 400
+1000226;M;33;Non;Non;75k - 100k;0 - 100k;Private;Minivan;0;8.0;Highly Urban/ Urban;02/04/2022 23:05;dev_integral;200 - 300
+1000227;M;69;Non;Non;100k - 150k;200k - 300k;Private;Minivan;2;1.0;Highly Urban/ Urban;14/04/2022 03:03;dev_integral;200 - 300
+1000228;M;16;Non;Non;0 - 10k;0 - 100k;Commercial;Minivan;7;1.0;z_Highly Rural/ Rural;07/03/2022 01:04;dev_express;200 - 300
+1000229;M;21;Non;Non;50k - 75k;200k - 300k;Commercial;Sports Car;1;;Highly Urban/ Urban;04/04/2022 21:37;dev_premium;500 - 600
+1000230;M;59;Non;Non;100k - 150k;300k - 400k;Private;Minivan;1;13.0;Highly Urban/ Urban;20/04/2022 04:58;dev_express;200 - 300
+1000231;F;69;Non;Oui;0 - 10k;0 - 100k;Private;Sports Car;0;13.0;Highly Urban/ Urban;25/02/2022 11:43;dev_express;200 - 300
+1000232;F;71;Non;Oui;25k - 50k;0 - 100k;Private;Minivan;8;9.0;Highly Urban/ Urban;28/05/2022 00:32;dev_vip;600 - 700
+1000233;M;8;Non;Oui;0 - 10k;0 - 100k;Private;z_SUV;0;1.0;z_Highly Rural/ Rural;18/03/2022 05:26;dev_express;200 - 300
+1000234;M;55;Non;Non;25k - 50k;100k - 200k;Private;Minivan;3;5.0;Highly Urban/ Urban;25/02/2022 19:06;dev_express;200 - 300
+1000235;F;4;Oui;Oui;25k - 50k;100k - 200k;Private;z_SUV;0;9.0;Highly Urban/ Urban;08/04/2022 14:50;dev_integral;200 - 300
+1000236;F;91;Non;Oui;75k - 100k;0 - 100k;Private;Minivan;0;16.0;Highly Urban/ Urban;01/05/2022 13:47;dev_integral;300 - 400
+1000237;M;12;Non;Non;25k - 50k;200k - 300k;Commercial;Van;2;15.0;Highly Urban/ Urban;27/03/2022 09:47;dev_integral;300 - 400
+1000238;M;36;Oui;Oui;100k - 150k;300k - 400k;Commercial;Van;4;9.0;Highly Urban/ Urban;11/05/2022 02:14;dev_express;200 - 300
+1000239;M;52;Non;Oui;25k - 50k;100k - 200k;Commercial;z_SUV;4;1.0;Highly Urban/ Urban;31/05/2022 03:31;dev_express;200 - 300
+1000240;F;46;Non;Oui;Non renseigné;0 - 100k;Private;Sports Car;6;7.0;Highly Urban/ Urban;24/04/2022 23:44;dev_premium;500 - 600
+1000241;M;51;Non;Non;75k - 100k;200k - 300k;Commercial;Sports Car;2;9.0;Highly Urban/ Urban;06/03/2022 04:31;dev_integral;300 - 400
+1000242;F;52;Non;Non;100k - 150k;300k - 400k;Private;Minivan;0;9.0;Highly Urban/ Urban;18/02/2022 17:27;dev_integral;200 - 300
+1000243;F;6;Non;Oui;100k - 150k;400k - 500k;Private;Pickup;0;12.0;Highly Urban/ Urban;05/01/2022 05:06;dev_integral;300 - 400
+1000244;M;82;Non;Non;25k - 50k;0 - 100k;Private;z_SUV;5;15.0;Highly Urban/ Urban;19/02/2022 05:07;dev_premium;500 - 600
+1000245;M;87;Non;Oui;0 - 10k;0 - 100k;Commercial;z_SUV;7;;Highly Urban/ Urban;21/05/2022 17:06;dev_express;200 - 300
+1000246;M;51;Non;Non;25k - 50k;100k - 200k;Private;z_SUV;2;11.0;Highly Urban/ Urban;13/05/2022 05:41;dev_express;200 - 300
+1000247;M;61;Non;Non;75k - 100k;200k - 300k;Private;z_SUV;0;7.0;Highly Urban/ Urban;20/02/2022 18:23;dev_integral;300 - 400
+1000248;M;41;Oui;Oui;10k - 25k;0 - 100k;Private;z_SUV;1;10.0;z_Highly Rural/ Rural;16/04/2022 08:28;dev_integral;200 - 300
+1000249;F;72;Non;Non;75k - 100k;200k - 300k;Private;z_SUV;0;19.0;Highly Urban/ Urban;03/03/2022 11:37;dev_integral;200 - 300
+1000250;F;75;Non;Non;75k - 100k;200k - 300k;Private;Minivan;0;15.0;z_Highly Rural/ Rural;26/02/2022 20:58;dev_express;200 - 300
+1000251;M;77;Non;Non;25k - 50k;200k - 300k;Private;Minivan;0;10.0;Highly Urban/ Urban;19/02/2022 07:35;dev_integral;300 - 400
+1000252;F;64;Non;Non;50k - 75k;0 - 100k;Private;z_SUV;2;5.0;Highly Urban/ Urban;05/03/2022 12:14;dev_express;200 - 300
+1000253;F;60;Non;Oui;Non renseigné;300k - 400k;Private;Minivan;3;1.0;Highly Urban/ Urban;11/01/2022 23:53;dev_express;200 - 300
+1000254;M;31;Non;Non;25k - 50k;100k - 200k;Private;Minivan;1;4.0;Highly Urban/ Urban;25/03/2022 21:08;dev_express;200 - 300
+1000255;F;75;Non;Oui;25k - 50k;0 - 100k;Commercial;Pickup;0;9.0;z_Highly Rural/ Rural;22/02/2022 18:20;dev_integral;200 - 300
+1000256;M;81;Oui;Oui;100k - 150k;400k - 500k;Commercial;Van;0;12.0;Highly Urban/ Urban;14/01/2022 04:38;dev_integral;300 - 400
+1000257;F;68;Non;Oui;10k - 25k;100k - 200k;Private;Sports Car;5;4.0;Highly Urban/ Urban;08/04/2022 21:31;dev_express;200 - 300
+1000258;M;72;Non;Non;75k - 100k;200k - 300k;Private;Pickup;0;15.0;Highly Urban/ Urban;17/04/2022 13:11;dev_integral;300 - 400
+1000259;M;83;Non;Non;100k - 150k;300k - 400k;Commercial;Minivan;0;9.0;z_Highly Rural/ Rural;14/05/2022 20:36;dev_integral;300 - 400
+1000260;M;64;Non;Non;75k - 100k;200k - 300k;Commercial;z_SUV;6;1.0;Highly Urban/ Urban;02/02/2022 00:42;dev_integral;200 - 300
+1000261;M;68;Oui;Oui;75k - 100k;200k - 300k;Private;Sports Car;0;8.0;Highly Urban/ Urban;21/05/2022 22:35;dev_integral;200 - 300
+1000262;M;32;Non;Non;100k - 150k;300k - 400k;Private;z_SUV;2;12.0;Highly Urban/ Urban;09/03/2022 16:06;dev_premium;400 - 500
+1000263;F;48;Oui;Oui;150k - 200k;300k - 400k;Private;Minivan;1;12.0;z_Highly Rural/ Rural;27/02/2022 09:10;dev_integral;300 - 400
+1000264;F;71;Non;Oui;25k - 50k;100k - 200k;Private;Minivan;0;14.0;Highly Urban/ Urban;03/04/2022 03:15;dev_integral;300 - 400
+1000265;F;54;Non;Non;0 - 10k;0 - 100k;Private;Sports Car;1;8.0;z_Highly Rural/ Rural;02/04/2022 11:55;dev_express;200 - 300
+1000266;F;51;Oui;Oui;0 - 10k;0 - 100k;Private;Minivan;1;1.0;Highly Urban/ Urban;08/04/2022 07:47;dev_express;200 - 300
+1000267;F;91;Non;Oui;50k - 75k;200k - 300k;Private;Sports Car;0;17.0;Highly Urban/ Urban;31/05/2022 15:46;dev_integral;200 - 300
+1000268;F;23;Non;Oui;25k - 50k;0 - 100k;Commercial;Pickup;0;4.0;Highly Urban/ Urban;16/05/2022 17:40;dev_integral;200 - 300
+1000269;F;55;Non;Non;100k - 150k;300k - 400k;Commercial;Panel Truck;1;;Highly Urban/ Urban;22/04/2022 13:14;dev_integral;200 - 300
+1000270;F;72;Non;Non;25k - 50k;100k - 200k;Commercial;z_SUV;2;11.0;Highly Urban/ Urban;30/05/2022 08:43;dev_integral;300 - 400
+1000271;M;38;Non;Oui;75k - 100k;200k - 300k;Private;Pickup;1;11.0;Highly Urban/ Urban;01/02/2022 00:03;dev_express;200 - 300
+1000272;F;28;Non;Non;0 - 10k;100k - 200k;Commercial;Minivan;2;1.0;Highly Urban/ Urban;31/05/2022 16:23;dev_integral;300 - 400
+1000273;M;56;Non;Non;75k - 100k;200k - 300k;Commercial;Minivan;0;11.0;z_Highly Rural/ Rural;16/02/2022 07:07;dev_integral;300 - 400
+1000274;F;50;Non;Oui;50k - 75k;100k - 200k;Private;Minivan;0;20.0;Highly Urban/ Urban;21/05/2022 22:01;dev_integral;300 - 400
+1000275;M;53;Non;Non;0 - 10k;0 - 100k;Private;z_SUV;2;1.0;Highly Urban/ Urban;26/04/2022 15:07;dev_express;200 - 300
+1000276;M;75;Non;Non;100k - 150k;300k - 400k;Commercial;Pickup;6;;Highly Urban/ Urban;14/01/2022 19:18;dev_integral;200 - 300
+1000277;F;58;Non;Non;0 - 10k;0 - 100k;Commercial;Van;0;12.0;Highly Urban/ Urban;16/02/2022 23:39;dev_express;200 - 300
+1000278;M;30;Non;Non;Non renseigné;0 - 100k;Private;Sports Car;0;16.0;Highly Urban/ Urban;01/01/2022 22:26;dev_express;200 - 300
+1000279;M;63;Non;Oui;10k - 25k;100k - 200k;Private;z_SUV;0;1.0;z_Highly Rural/ Rural;14/01/2022 11:21;dev_integral;200 - 300
+1000280;F;55;Non;Oui;25k - 50k;100k - 200k;Commercial;Van;0;6.0;Highly Urban/ Urban;10/05/2022 08:25;dev_premium;500 - 600
+1000281;F;81;Non;Non;50k - 75k;200k - 300k;Commercial;Pickup;1;;Highly Urban/ Urban;02/05/2022 22:21;dev_express;200 - 300
+1000282;F;24;Oui;Oui;25k - 50k;200k - 300k;Commercial;Van;1;6.0;z_Highly Rural/ Rural;10/02/2022 04:16;dev_express;200 - 300
+1000283;M;53;Non;Non;150k - 200k;400k - 500k;Commercial;Panel Truck;0;13.0;z_Highly Rural/ Rural;08/01/2022 11:44;dev_integral;300 - 400
+1000284;F;85;Non;Non;100k - 150k;0 - 100k;Private;Van;0;10.0;Highly Urban/ Urban;12/01/2022 23:08;dev_premium;300 - 400
+1000285;F;67;Non;Non;0 - 10k;100k - 200k;Private;Pickup;1;1.0;Highly Urban/ Urban;27/05/2022 23:47;dev_express;200 - 300
+1000286;M;23;Oui;Oui;25k - 50k;200k - 300k;Commercial;z_SUV;6;5.0;Highly Urban/ Urban;10/04/2022 22:38;dev_premium;400 - 500
+1000287;F;65;Non;Non;10k - 25k;Non renseigné;Private;z_SUV;0;1.0;Highly Urban/ Urban;23/03/2022 18:01;dev_integral;300 - 400
+1000288;F;19;Non;Oui;10k - 25k;0 - 100k;Private;z_SUV;0;9.0;Highly Urban/ Urban;24/05/2022 20:26;dev_integral;300 - 400
+1000289;F;70;Non;Non;10k - 25k;100k - 200k;Private;z_SUV;0;1.0;Highly Urban/ Urban;05/01/2022 12:35;dev_premium;400 - 500
+1000290;F;11;Non;Non;75k - 100k;0 - 100k;Private;Minivan;0;11.0;Highly Urban/ Urban;17/05/2022 21:03;dev_vip;500 - 600
+1000291;M;48;Non;Non;75k - 100k;0 - 100k;Commercial;Van;5;;Highly Urban/ Urban;30/05/2022 12:05;dev_express;200 - 300
+1000292;M;5;Non;Non;25k - 50k;100k - 200k;Private;Sports Car;3;1.0;Highly Urban/ Urban;25/01/2022 11:38;dev_premium;400 - 500
+1000293;F;67;Non;Non;100k - 150k;300k - 400k;Private;Sports Car;0;7.0;z_Highly Rural/ Rural;30/01/2022 11:59;dev_integral;300 - 400
+1000294;F;28;Non;Non;50k - 75k;100k - 200k;Commercial;Panel Truck;1;1.0;Highly Urban/ Urban;04/01/2022 16:07;dev_premium;400 - 500
+1000295;F;51;Non;Non;150k - 200k;400k - 500k;Private;z_SUV;0;15.0;Highly Urban/ Urban;11/02/2022 19:58;dev_integral;300 - 400
+1000296;F;66;Non;Oui;50k - 75k;200k - 300k;Private;Sports Car;3;7.0;Highly Urban/ Urban;07/04/2022 02:19;dev_premium;300 - 400
+1000297;F;54;Non;Oui;50k - 75k;0 - 100k;Private;Minivan;4;17.0;Highly Urban/ Urban;09/02/2022 23:54;dev_express;200 - 300
+1000298;M;84;Non;Non;100k - 150k;300k - 400k;Commercial;Panel Truck;2;13.0;Highly Urban/ Urban;27/04/2022 04:09;dev_express;200 - 300
+1000299;F;49;Non;Oui;25k - 50k;100k - 200k;Private;z_SUV;0;4.0;Highly Urban/ Urban;25/05/2022 06:02;dev_integral;300 - 400
+1000300;F;65;Non;Non;25k - 50k;100k - 200k;Commercial;Minivan;0;;z_Highly Rural/ Rural;10/02/2022 21:22;dev_express;200 - 300
+1000301;M;15;Non;Non;25k - 50k;0 - 100k;Private;Sports Car;9;8.0;Highly Urban/ Urban;14/03/2022 03:24;dev_express;200 - 300
+1000302;M;72;Non;Non;50k - 75k;200k - 300k;Commercial;Pickup;4;7.0;Highly Urban/ Urban;11/05/2022 10:53;dev_integral;300 - 400
+1000303;M;63;Oui;Oui;25k - 50k;100k - 200k;Commercial;Minivan;0;1.0;Highly Urban/ Urban;09/04/2022 06:44;dev_premium;400 - 500
+1000304;F;76;Non;Non;50k - 75k;200k - 300k;Commercial;z_SUV;2;14.0;z_Highly Rural/ Rural;14/04/2022 10:57;dev_premium;500 - 600
+1000305;M;82;Non;Oui;25k - 50k;100k - 200k;Private;Sports Car;3;7.0;Highly Urban/ Urban;18/04/2022 10:41;dev_express;200 - 300
+1000306;M;51;Non;Non;50k - 75k;0 - 100k;Commercial;Minivan;0;1.0;Highly Urban/ Urban;23/03/2022 00:19;dev_express;200 - 300
+1000307;M;82;Non;Non;50k - 75k;Non renseigné;Commercial;Minivan;6;;Highly Urban/ Urban;09/05/2022 19:49;dev_integral;300 - 400
+1000308;M;58;Non;Non;10k - 25k;0 - 100k;Private;Minivan;0;12.0;z_Highly Rural/ Rural;04/02/2022 03:00;dev_express;200 - 300
+1000309;M;61;Oui;Oui;25k - 50k;100k - 200k;Commercial;Panel Truck;1;8.0;Highly Urban/ Urban;19/04/2022 01:02;dev_premium;500 - 600
+1000310;F;52;Non;Oui;25k - 50k;100k - 200k;Private;z_SUV;0;5.0;z_Highly Rural/ Rural;03/04/2022 22:13;dev_integral;300 - 400
+1000311;F;18;Oui;Oui;50k - 75k;100k - 200k;Private;Minivan;1;8.0;z_Highly Rural/ Rural;18/01/2022 05:21;dev_integral;200 - 300
+1000312;F;49;Non;Non;100k - 150k;300k - 400k;Commercial;Panel Truck;1;16.0;Highly Urban/ Urban;23/03/2022 16:17;dev_express;200 - 300
+1000313;F;63;Non;Non;25k - 50k;0 - 100k;Private;z_SUV;1;;Highly Urban/ Urban;02/05/2022 16:43;dev_integral;200 - 300
+1000314;F;50;Non;Non;25k - 50k;200k - 300k;Commercial;Van;1;5.0;Highly Urban/ Urban;19/01/2022 00:38;dev_express;200 - 300
+1000315;M;56;Non;Oui;25k - 50k;100k - 200k;Commercial;Van;5;;Highly Urban/ Urban;15/02/2022 23:41;dev_integral;200 - 300
+1000316;M;64;Non;Non;100k - 150k;300k - 400k;Private;z_SUV;0;13.0;Highly Urban/ Urban;03/01/2022 06:55;dev_premium;500 - 600
+1000317;F;52;Non;Oui;25k - 50k;100k - 200k;Private;Pickup;2;6.0;Highly Urban/ Urban;27/03/2022 02:40;dev_express;200 - 300
+1000318;F;6;Non;Non;50k - 75k;0 - 100k;Private;z_SUV;8;19.0;Highly Urban/ Urban;02/04/2022 14:20;dev_premium;400 - 500
+1000319;M;63;Non;Non;10k - 25k;0 - 100k;Private;Sports Car;0;1.0;Highly Urban/ Urban;30/04/2022 22:44;dev_premium;500 - 600
+1000320;M;69;Oui;Oui;25k - 50k;100k - 200k;Private;Minivan;1;1.0;z_Highly Rural/ Rural;07/04/2022 11:09;dev_integral;300 - 400
+1000321;M;72;Non;Oui;100k - 150k;200k - 300k;Private;Sports Car;0;16.0;Highly Urban/ Urban;22/01/2022 06:45;dev_integral;300 - 400
+1000322;M;68;Oui;Oui;Non renseigné;100k - 200k;Commercial;Pickup;0;18.0;z_Highly Rural/ Rural;07/05/2022 03:05;dev_integral;300 - 400
+1000323;F;29;Non;Non;75k - 100k;200k - 300k;Private;z_SUV;4;3.0;Highly Urban/ Urban;07/01/2022 07:53;dev_premium;500 - 600
+1000324;F;3;Non;Oui;100k - 150k;300k - 400k;Commercial;z_SUV;5;5.0;Highly Urban/ Urban;05/01/2022 18:21;dev_integral;300 - 400
+1000325;F;82;Non;Non;25k - 50k;100k - 200k;Commercial;Minivan;0;1.0;Highly Urban/ Urban;13/05/2022 15:01;dev_integral;300 - 400
+1000326;M;55;Non;Non;100k - 150k;300k - 400k;Private;Minivan;4;10.0;Highly Urban/ Urban;11/05/2022 05:29;dev_express;200 - 300
+1000327;F;65;Non;Non;25k - 50k;0 - 100k;Private;z_SUV;3;9.0;Highly Urban/ Urban;29/03/2022 05:23;dev_integral;300 - 400
+1000328;M;25;Non;Oui;25k - 50k;100k - 200k;Private;z_SUV;0;3.0;z_Highly Rural/ Rural;12/02/2022 09:30;dev_premium;400 - 500
+1000329;F;68;Non;Non;0 - 10k;0 - 100k;Private;Minivan;0;1.0;Highly Urban/ Urban;18/03/2022 03:20;dev_premium;300 - 400
+1000330;F;82;Non;Non;25k - 50k;100k - 200k;Private;Pickup;5;1.0;Highly Urban/ Urban;25/01/2022 12:09;dev_express;200 - 300
+1000331;F;25;Non;Non;50k - 75k;100k - 200k;Private;z_SUV;3;;Highly Urban/ Urban;11/05/2022 03:18;dev_express;200 - 300
+1000332;M;3;Oui;Oui;50k - 75k;200k - 300k;Private;Minivan;0;7.0;Highly Urban/ Urban;04/05/2022 06:00;dev_express;200 - 300
+1000333;F;31;Non;Non;75k - 100k;200k - 300k;Private;Minivan;3;;Highly Urban/ Urban;22/01/2022 22:28;dev_express;200 - 300
+1000334;F;42;Non;Non;50k - 75k;0 - 100k;Commercial;z_SUV;2;10.0;Highly Urban/ Urban;06/01/2022 14:38;dev_express;200 - 300
+1000335;F;67;Non;Oui;10k - 25k;0 - 100k;Private;z_SUV;2;7.0;z_Highly Rural/ Rural;11/04/2022 02:23;dev_integral;300 - 400
+1000336;M;67;Non;Non;25k - 50k;100k - 200k;Private;Pickup;0;16.0;Highly Urban/ Urban;22/03/2022 21:40;dev_integral;200 - 300
+1000337;F;36;Non;Non;150k - 200k;400k - 500k;Commercial;Panel Truck;0;15.0;Highly Urban/ Urban;31/03/2022 19:09;dev_premium;500 - 600
+1000338;F;66;Non;Non;150k - 200k;400k - 500k;Private;z_SUV;0;15.0;Highly Urban/ Urban;09/03/2022 15:11;dev_integral;200 - 300
+1000339;M;72;Non;Oui;25k - 50k;0 - 100k;Private;z_SUV;5;1.0;Highly Urban/ Urban;07/05/2022 11:43;dev_integral;200 - 300
+1000340;F;69;Non;Non;75k - 100k;200k - 300k;Private;Minivan;3;10.0;Highly Urban/ Urban;24/02/2022 02:03;dev_integral;300 - 400
+1000341;F;42;Non;Non;50k - 75k;Non renseigné;Private;Minivan;0;15.0;Highly Urban/ Urban;24/05/2022 09:47;dev_express;200 - 300
+1000342;M;63;Non;Non;75k - 100k;300k - 400k;Commercial;z_SUV;0;7.0;Highly Urban/ Urban;25/02/2022 23:45;dev_express;200 - 300
+1000343;F;83;Non;Non;0 - 10k;0 - 100k;Commercial;Pickup;0;11.0;Highly Urban/ Urban;29/03/2022 07:38;dev_express;200 - 300
+1000344;F;78;Oui;Oui;75k - 100k;Non renseigné;Private;Sports Car;6;12.0;Highly Urban/ Urban;10/05/2022 14:59;dev_express;200 - 300
+1000345;M;10;Non;Oui;25k - 50k;0 - 100k;Private;z_SUV;3;5.0;Highly Urban/ Urban;14/05/2022 19:19;dev_integral;200 - 300
+1000346;F;85;Non;Non;Non renseigné;200k - 300k;Private;Van;3;12.0;Highly Urban/ Urban;19/01/2022 01:48;dev_integral;200 - 300
+1000347;M;32;Oui;Oui;50k - 75k;100k - 200k;Commercial;Pickup;0;7.0;Highly Urban/ Urban;27/05/2022 14:41;dev_premium;400 - 500
+1000348;M;7;Non;Oui;10k - 25k;100k - 200k;Commercial;Van;0;1.0;z_Highly Rural/ Rural;13/01/2022 11:51;dev_integral;300 - 400
+1000349;M;35;Non;Non;25k - 50k;100k - 200k;Private;Pickup;0;10.0;Highly Urban/ Urban;08/04/2022 01:47;dev_integral;300 - 400
+1000350;F;29;Non;Non;75k - 100k;200k - 300k;Private;Minivan;2;15.0;Highly Urban/ Urban;26/04/2022 15:04;dev_integral;200 - 300
+1000351;M;16;Non;Non;100k - 150k;300k - 400k;Private;z_SUV;1;20.0;Highly Urban/ Urban;30/01/2022 17:15;dev_integral;300 - 400
+1000352;F;35;Non;Non;50k - 75k;0 - 100k;Commercial;z_SUV;5;12.0;z_Highly Rural/ Rural;18/05/2022 05:21;dev_express;200 - 300
+1000353;M;54;Non;Non;25k - 50k;100k - 200k;Commercial;Minivan;3;6.0;Highly Urban/ Urban;27/01/2022 08:09;dev_premium;400 - 500
+1000354;F;57;Non;Non;100k - 150k;300k - 400k;Private;Van;0;18.0;Highly Urban/ Urban;13/02/2022 22:32;dev_express;200 - 300
+1000355;M;7;Non;Non;25k - 50k;0 - 100k;Private;Minivan;0;8.0;Highly Urban/ Urban;26/04/2022 23:23;dev_integral;300 - 400
+1000356;M;60;Non;Oui;75k - 100k;200k - 300k;Commercial;Van;2;;z_Highly Rural/ Rural;26/05/2022 00:20;dev_premium;400 - 500
+1000357;M;57;Non;Oui;Non renseigné;100k - 200k;Private;Minivan;0;16.0;Highly Urban/ Urban;06/02/2022 07:26;dev_integral;300 - 400
+1000358;F;21;Oui;Oui;25k - 50k;Non renseigné;Private;Minivan;0;5.0;Highly Urban/ Urban;05/02/2022 06:43;dev_express;200 - 300
+1000359;F;86;Non;Non;10k - 25k;0 - 100k;Private;Minivan;0;1.0;z_Highly Rural/ Rural;26/03/2022 06:02;dev_premium;400 - 500
+1000360;F;69;Non;Non;25k - 50k;Non renseigné;Commercial;Panel Truck;4;10.0;Highly Urban/ Urban;14/02/2022 17:36;dev_express;200 - 300
+1000361;F;8;Non;Non;50k - 75k;200k - 300k;Commercial;Panel Truck;5;8.0;Highly Urban/ Urban;17/04/2022 16:52;dev_integral;300 - 400
+1000362;F;79;Non;Oui;75k - 100k;300k - 400k;Commercial;Van;1;9.0;Highly Urban/ Urban;12/02/2022 04:17;dev_express;200 - 300
+1000363;M;8;Non;Non;150k - 200k;0 - 100k;Commercial;Pickup;0;17.0;Highly Urban/ Urban;20/03/2022 21:08;dev_integral;200 - 300
+1000364;M;13;Non;Non;75k - 100k;0 - 100k;Commercial;Van;7;10.0;Highly Urban/ Urban;24/03/2022 00:32;dev_express;200 - 300
+1000365;M;76;Non;Non;10k - 25k;100k - 200k;Private;z_SUV;4;;Highly Urban/ Urban;28/05/2022 16:57;dev_integral;300 - 400
+1000366;M;56;Non;Non;50k - 75k;200k - 300k;Private;z_SUV;1;7.0;Highly Urban/ Urban;27/04/2022 16:49;dev_integral;300 - 400
+1000367;M;50;Non;Non;75k - 100k;200k - 300k;Private;z_SUV;1;1.0;z_Highly Rural/ Rural;28/01/2022 09:25;dev_premium;300 - 400
+1000368;M;14;Non;Non;150k - 200k;400k - 500k;Commercial;Panel Truck;4;11.0;Highly Urban/ Urban;21/03/2022 10:05;dev_express;200 - 300
+1000369;F;70;Non;Non;50k - 75k;200k - 300k;Private;z_SUV;0;12.0;Highly Urban/ Urban;07/01/2022 09:45;dev_integral;300 - 400
+1000370;F;58;Non;Non;100k - 150k;200k - 300k;Private;Minivan;4;13.0;Highly Urban/ Urban;15/05/2022 03:11;dev_premium;300 - 400
+1000371;F;35;Non;Non;25k - 50k;100k - 200k;Commercial;Sports Car;4;12.0;Highly Urban/ Urban;09/02/2022 14:04;dev_integral;300 - 400
+1000372;M;68;Non;Non;150k - 200k;500k +;Commercial;Pickup;3;13.0;Highly Urban/ Urban;04/02/2022 16:41;dev_express;200 - 300
+1000373;F;42;Non;Non;75k - 100k;200k - 300k;Commercial;Van;3;8.0;Highly Urban/ Urban;30/04/2022 22:43;dev_integral;300 - 400
+1000374;M;22;Non;Non;50k - 75k;200k - 300k;Private;Van;0;1.0;Highly Urban/ Urban;06/01/2022 19:41;dev_express;200 - 300
+1000375;M;49;Non;Oui;50k - 75k;0 - 100k;Private;z_SUV;2;1.0;Highly Urban/ Urban;12/04/2022 12:00;dev_express;200 - 300
+1000376;F;84;Non;Non;75k - 100k;200k - 300k;Commercial;Panel Truck;5;10.0;Highly Urban/ Urban;25/04/2022 16:57;dev_express;200 - 300
+1000377;M;34;Oui;Oui;75k - 100k;200k - 300k;Commercial;Pickup;4;8.0;Highly Urban/ Urban;01/01/2022 07:42;dev_integral;300 - 400
+1000378;M;57;Non;Non;25k - 50k;0 - 100k;Commercial;Pickup;5;1.0;Highly Urban/ Urban;16/03/2022 12:46;dev_express;200 - 300
+1000379;M;23;Non;Non;100k - 150k;300k - 400k;Commercial;Panel Truck;3;20.0;Highly Urban/ Urban;20/03/2022 11:43;dev_integral;300 - 400
+1000380;M;72;Non;Non;0 - 10k;0 - 100k;Private;z_SUV;3;2.0;Highly Urban/ Urban;20/01/2022 09:01;dev_integral;200 - 300
+1000381;M;57;Non;Non;50k - 75k;100k - 200k;Private;Minivan;0;12.0;Highly Urban/ Urban;10/05/2022 05:21;dev_integral;300 - 400
+1000382;M;5;Non;Non;0 - 10k;0 - 100k;Private;Sports Car;5;11.0;Highly Urban/ Urban;10/01/2022 01:26;dev_premium;500 - 600
+1000383;F;5;Non;Non;50k - 75k;0 - 100k;Private;Sports Car;0;12.0;z_Highly Rural/ Rural;28/03/2022 12:26;dev_integral;300 - 400
+1000384;F;45;Non;Non;25k - 50k;100k - 200k;Private;Minivan;4;11.0;Highly Urban/ Urban;13/04/2022 14:44;dev_integral;300 - 400
+1000385;F;85;Non;Non;75k - 100k;200k - 300k;Private;z_SUV;0;1.0;Highly Urban/ Urban;21/02/2022 23:21;dev_integral;300 - 400
+1000386;F;17;Non;Non;25k - 50k;100k - 200k;Private;Pickup;2;1.0;Highly Urban/ Urban;15/01/2022 01:35;dev_integral;300 - 400
+1000387;F;40;Non;Non;25k - 50k;100k - 200k;Commercial;Pickup;0;10.0;z_Highly Rural/ Rural;25/01/2022 15:18;dev_integral;300 - 400
+1000388;M;71;Non;Non;Non renseigné;100k - 200k;Private;Minivan;2;7.0;Highly Urban/ Urban;18/01/2022 08:22;dev_integral;300 - 400
+1000389;F;75;Non;Non;200k +;0 - 100k;Commercial;Panel Truck;0;17.0;Highly Urban/ Urban;15/02/2022 23:56;dev_express;200 - 300
+1000390;M;58;Non;Oui;75k - 100k;100k - 200k;Private;Pickup;1;14.0;Highly Urban/ Urban;27/01/2022 03:55;dev_premium;500 - 600
+1000391;M;57;Non;Non;25k - 50k;100k - 200k;Private;Pickup;4;9.0;Highly Urban/ Urban;18/03/2022 07:40;dev_express;200 - 300
+1000392;M;17;Non;Non;50k - 75k;200k - 300k;Private;Pickup;0;8.0;Highly Urban/ Urban;22/03/2022 07:46;dev_integral;300 - 400
+1000393;M;2;Non;Non;25k - 50k;100k - 200k;Private;Minivan;3;;Highly Urban/ Urban;07/03/2022 03:55;dev_integral;300 - 400
+1000394;M;6;Non;Non;50k - 75k;200k - 300k;Commercial;Van;0;4.0;Highly Urban/ Urban;18/05/2022 22:10;dev_integral;300 - 400
+1000395;F;22;Non;Oui;25k - 50k;100k - 200k;Private;z_SUV;1;1.0;Highly Urban/ Urban;01/05/2022 17:43;dev_express;200 - 300
+1000396;F;45;Non;Oui;75k - 100k;200k - 300k;Private;z_SUV;0;11.0;Highly Urban/ Urban;26/05/2022 22:40;dev_integral;300 - 400
+1000397;F;12;Non;Non;25k - 50k;0 - 100k;Private;z_SUV;6;;Highly Urban/ Urban;23/04/2022 11:29;dev_premium;500 - 600
+1000398;F;89;Oui;Oui;100k - 150k;300k - 400k;Private;Minivan;1;11.0;Highly Urban/ Urban;27/02/2022 02:58;dev_express;200 - 300
+1000399;F;67;Non;Non;50k - 75k;0 - 100k;Private;Pickup;2;10.0;Highly Urban/ Urban;16/04/2022 10:28;dev_integral;200 - 300
+1000400;F;19;Non;Oui;25k - 50k;100k - 200k;Commercial;Panel Truck;1;21.0;Highly Urban/ Urban;21/03/2022 00:34;dev_express;200 - 300
+1000401;M;44;Non;Non;10k - 25k;100k - 200k;Commercial;Sports Car;0;1.0;z_Highly Rural/ Rural;10/05/2022 09:58;dev_integral;200 - 300
+1000402;F;2;Non;Oui;75k - 100k;0 - 100k;Private;Pickup;0;10.0;z_Highly Rural/ Rural;11/04/2022 21:52;dev_integral;200 - 300
+1000403;F;50;Non;Oui;10k - 25k;0 - 100k;Private;z_SUV;0;1.0;z_Highly Rural/ Rural;13/05/2022 22:59;dev_express;200 - 300
+1000404;F;69;Oui;Oui;0 - 10k;0 - 100k;Private;Minivan;3;1.0;Highly Urban/ Urban;26/05/2022 20:49;dev_integral;300 - 400
+1000405;F;80;Non;Non;25k - 50k;200k - 300k;Private;Pickup;0;10.0;z_Highly Rural/ Rural;03/03/2022 14:18;dev_express;200 - 300
+1000406;F;69;Non;Non;200k +;0 - 100k;Private;Sports Car;0;12.0;Highly Urban/ Urban;26/01/2022 19:37;dev_express;200 - 300
+1000407;M;9;Non;Non;100k - 150k;300k - 400k;Commercial;Pickup;4;20.0;Highly Urban/ Urban;22/01/2022 01:15;dev_express;200 - 300
+1000408;F;72;Non;Non;0 - 10k;0 - 100k;Private;z_SUV;0;3.0;Highly Urban/ Urban;25/05/2022 07:24;dev_express;200 - 300
+1000409;F;18;Non;Non;50k - 75k;200k - 300k;Private;Minivan;0;11.0;Highly Urban/ Urban;03/02/2022 17:35;dev_premium;400 - 500
+1000410;F;51;Non;Non;100k - 150k;0 - 100k;Commercial;Panel Truck;5;19.0;Highly Urban/ Urban;08/01/2022 02:38;dev_express;200 - 300
+1000411;F;47;Non;Non;0 - 10k;Non renseigné;Commercial;Minivan;0;11.0;z_Highly Rural/ Rural;02/05/2022 00:05;dev_express;200 - 300
+1000412;M;35;Non;Non;25k - 50k;100k - 200k;Commercial;Sports Car;0;7.0;Highly Urban/ Urban;18/05/2022 16:18;dev_express;200 - 300
+1000413;M;38;Non;Non;25k - 50k;100k - 200k;Private;Minivan;0;8.0;z_Highly Rural/ Rural;25/05/2022 08:12;dev_premium;400 - 500
+1000414;M;66;Oui;Oui;25k - 50k;100k - 200k;Private;Sports Car;2;1.0;Highly Urban/ Urban;04/05/2022 10:23;dev_integral;300 - 400
+1000415;F;61;Non;Oui;100k - 150k;300k - 400k;Private;Pickup;2;12.0;Highly Urban/ Urban;16/04/2022 07:28;dev_integral;300 - 400
+1000416;M;20;Non;Non;10k - 25k;0 - 100k;Private;Minivan;0;1.0;Highly Urban/ Urban;17/02/2022 11:37;dev_integral;300 - 400
+1000417;M;82;Non;Non;100k - 150k;Non renseigné;Private;Minivan;0;11.0;Highly Urban/ Urban;25/04/2022 08:56;dev_premium;300 - 400
+1000418;F;11;Non;Non;25k - 50k;100k - 200k;Commercial;Panel Truck;0;7.0;Highly Urban/ Urban;24/03/2022 18:04;dev_integral;200 - 300
+1000419;F;49;Non;Oui;0 - 10k;0 - 100k;Private;z_SUV;0;5.0;z_Highly Rural/ Rural;24/01/2022 04:40;dev_express;200 - 300
+1000420;M;84;Oui;Oui;Non renseigné;0 - 100k;Private;Pickup;0;9.0;z_Highly Rural/ Rural;03/03/2022 06:41;dev_integral;300 - 400
+1000421;F;61;Non;Non;100k - 150k;300k - 400k;Private;Van;0;14.0;Highly Urban/ Urban;29/01/2022 15:32;dev_integral;300 - 400
+1000422;F;92;Oui;Oui;10k - 25k;100k - 200k;Private;z_SUV;0;4.0;z_Highly Rural/ Rural;29/04/2022 12:31;dev_integral;300 - 400
+1000423;F;73;Non;Non;75k - 100k;200k - 300k;Private;Sports Car;0;6.0;Highly Urban/ Urban;11/01/2022 18:54;dev_integral;300 - 400
+1000424;F;43;Non;Oui;10k - 25k;0 - 100k;Commercial;Pickup;7;1.0;z_Highly Rural/ Rural;11/05/2022 07:38;dev_express;200 - 300
+1000425;F;55;Non;Oui;25k - 50k;0 - 100k;Private;z_SUV;6;1.0;Highly Urban/ Urban;07/05/2022 22:16;dev_express;200 - 300
+1000426;M;5;Non;Non;75k - 100k;0 - 100k;Commercial;Minivan;3;1.0;Highly Urban/ Urban;08/02/2022 23:25;dev_express;200 - 300
+1000427;F;72;Non;Non;75k - 100k;300k - 400k;Private;Minivan;2;19.0;Highly Urban/ Urban;01/02/2022 06:20;dev_integral;300 - 400
+1000428;F;60;Non;Non;25k - 50k;0 - 100k;Commercial;z_SUV;3;12.0;Highly Urban/ Urban;10/03/2022 16:31;dev_integral;300 - 400
+1000429;F;53;Non;Non;25k - 50k;0 - 100k;Private;Minivan;1;1.0;Highly Urban/ Urban;08/03/2022 15:24;dev_integral;300 - 400
+1000430;F;60;Non;Non;25k - 50k;100k - 200k;Private;z_SUV;1;9.0;z_Highly Rural/ Rural;27/05/2022 17:51;dev_premium;400 - 500
+1000431;F;49;Non;Non;50k - 75k;200k - 300k;Private;Pickup;2;9.0;Highly Urban/ Urban;07/01/2022 08:08;dev_vip;600 - 700
+1000432;M;81;Oui;Oui;10k - 25k;100k - 200k;Private;Minivan;0;1.0;Highly Urban/ Urban;14/02/2022 20:28;dev_express;200 - 300
+1000433;M;34;Non;Non;25k - 50k;100k - 200k;Private;Sports Car;0;4.0;Highly Urban/ Urban;21/02/2022 01:00;dev_express;200 - 300
+1000434;M;52;Non;Oui;25k - 50k;100k - 200k;Commercial;Van;0;7.0;z_Highly Rural/ Rural;09/04/2022 20:12;dev_integral;200 - 300
+1000435;F;64;Non;Oui;50k - 75k;200k - 300k;Commercial;Minivan;5;9.0;Highly Urban/ Urban;25/03/2022 02:23;dev_integral;300 - 400
+1000436;F;46;Non;Oui;75k - 100k;200k - 300k;Private;z_SUV;0;20.0;Highly Urban/ Urban;31/03/2022 08:06;dev_express;200 - 300
+1000437;M;16;Non;Non;50k - 75k;0 - 100k;Private;Sports Car;0;15.0;Highly Urban/ Urban;02/02/2022 02:18;dev_integral;200 - 300
+1000438;M;50;Non;Non;25k - 50k;100k - 200k;Commercial;Pickup;0;7.0;Highly Urban/ Urban;08/05/2022 12:04;dev_integral;300 - 400
+1000439;M;38;Non;Oui;100k - 150k;300k - 400k;Commercial;z_SUV;0;9.0;Highly Urban/ Urban;04/04/2022 21:09;dev_integral;200 - 300
+1000440;F;30;Oui;Oui;0 - 10k;0 - 100k;Private;Sports Car;3;6.0;Highly Urban/ Urban;11/01/2022 12:37;dev_express;200 - 300
+1000441;M;61;Non;Oui;100k - 150k;300k - 400k;Commercial;Panel Truck;4;8.0;Highly Urban/ Urban;22/03/2022 14:39;dev_express;200 - 300
+1000442;M;81;Non;Oui;25k - 50k;100k - 200k;Commercial;Sports Car;0;1.0;Highly Urban/ Urban;30/01/2022 05:24;dev_integral;300 - 400
+1000443;M;34;Non;Non;50k - 75k;200k - 300k;Private;z_SUV;7;1.0;Highly Urban/ Urban;09/05/2022 02:49;dev_integral;300 - 400
+1000444;M;74;Non;Non;25k - 50k;100k - 200k;Commercial;Minivan;3;5.0;Highly Urban/ Urban;11/04/2022 20:56;dev_integral;200 - 300
+1000445;M;55;Non;Non;100k - 150k;0 - 100k;Commercial;Van;1;8.0;Highly Urban/ Urban;10/01/2022 18:15;dev_integral;300 - 400
+1000446;M;55;Non;Non;100k - 150k;300k - 400k;Private;z_SUV;2;;Highly Urban/ Urban;26/03/2022 19:37;dev_premium;400 - 500
+1000447;F;22;Non;Non;50k - 75k;Non renseigné;Commercial;Panel Truck;10;14.0;Highly Urban/ Urban;24/02/2022 04:11;dev_express;200 - 300
+1000448;F;20;Non;Oui;100k - 150k;300k - 400k;Commercial;Panel Truck;3;3.0;Highly Urban/ Urban;05/03/2022 20:32;dev_integral;200 - 300
+1000449;F;81;Non;Non;0 - 10k;0 - 100k;Private;Minivan;0;10.0;Highly Urban/ Urban;30/04/2022 22:26;dev_express;200 - 300
+1000450;M;34;Non;Non;10k - 25k;100k - 200k;Private;Sports Car;0;1.0;z_Highly Rural/ Rural;26/01/2022 05:23;dev_integral;300 - 400
+1000451;F;86;Oui;Oui;100k - 150k;200k - 300k;Private;Minivan;4;10.0;Highly Urban/ Urban;06/01/2022 03:41;dev_vip;600 - 700
+1000452;M;29;Non;Non;50k - 75k;100k - 200k;Private;Minivan;0;13.0;Highly Urban/ Urban;09/01/2022 12:44;dev_integral;300 - 400
+1000453;M;67;Non;Oui;75k - 100k;200k - 300k;Commercial;z_SUV;1;1.0;Highly Urban/ Urban;13/01/2022 00:17;dev_integral;300 - 400
+1000454;F;82;Non;Non;150k - 200k;0 - 100k;Private;Sports Car;8;20.0;Highly Urban/ Urban;10/05/2022 08:42;dev_integral;300 - 400
+1000455;M;79;Non;Oui;75k - 100k;200k - 300k;Commercial;Panel Truck;0;1.0;z_Highly Rural/ Rural;02/03/2022 15:25;dev_integral;300 - 400
+1000456;F;48;Non;Oui;75k - 100k;Non renseigné;Private;Minivan;2;18.0;Highly Urban/ Urban;30/01/2022 12:21;dev_express;200 - 300
+1000457;F;53;Non;Non;Non renseigné;100k - 200k;Private;z_SUV;0;25.0;Highly Urban/ Urban;14/04/2022 07:57;dev_integral;200 - 300
+1000458;M;29;Non;Oui;100k - 150k;0 - 100k;Commercial;Panel Truck;0;19.0;Highly Urban/ Urban;29/05/2022 01:33;dev_integral;300 - 400
+1000459;M;5;Non;Oui;25k - 50k;100k - 200k;Private;Pickup;0;17.0;Highly Urban/ Urban;24/05/2022 02:16;dev_express;200 - 300
+1000460;F;52;Non;Non;50k - 75k;200k - 300k;Commercial;Pickup;2;11.0;z_Highly Rural/ Rural;27/01/2022 13:08;dev_integral;300 - 400
+1000461;F;57;Non;Non;50k - 75k;200k - 300k;Private;Van;3;13.0;Highly Urban/ Urban;07/05/2022 12:43;dev_express;200 - 300
+1000462;M;72;Non;Oui;25k - 50k;100k - 200k;Commercial;z_SUV;0;8.0;z_Highly Rural/ Rural;06/03/2022 05:37;dev_premium;400 - 500
+1000463;M;19;Non;Oui;25k - 50k;0 - 100k;Commercial;z_SUV;1;5.0;Highly Urban/ Urban;06/05/2022 19:28;dev_express;200 - 300
+1000464;F;54;Non;Oui;50k - 75k;0 - 100k;Private;Minivan;0;1.0;z_Highly Rural/ Rural;23/01/2022 05:32;dev_premium;500 - 600
+1000465;M;24;Non;Oui;0 - 10k;Non renseigné;Commercial;z_SUV;3;1.0;Highly Urban/ Urban;21/01/2022 14:17;dev_integral;200 - 300
+1000466;M;62;Non;Oui;Non renseigné;0 - 100k;Private;Minivan;1;;Highly Urban/ Urban;24/05/2022 23:51;dev_integral;300 - 400
+1000467;F;40;Non;Oui;25k - 50k;100k - 200k;Private;Minivan;4;8.0;z_Highly Rural/ Rural;23/04/2022 17:43;dev_integral;200 - 300
+1000468;F;62;Non;Non;100k - 150k;300k - 400k;Private;z_SUV;0;9.0;Highly Urban/ Urban;19/02/2022 18:27;dev_express;200 - 300
+1000469;F;68;Non;Non;25k - 50k;0 - 100k;Private;Minivan;0;7.0;z_Highly Rural/ Rural;10/01/2022 09:54;dev_express;200 - 300
+1000470;M;9;Non;Oui;25k - 50k;0 - 100k;Private;Sports Car;0;13.0;Highly Urban/ Urban;26/02/2022 17:17;dev_premium;400 - 500
+1000471;F;34;Oui;Oui;0 - 10k;0 - 100k;Private;z_SUV;0;10.0;Highly Urban/ Urban;03/01/2022 08:13;dev_express;200 - 300
+1000472;M;60;Non;Non;Non renseigné;100k - 200k;Private;Minivan;0;;Highly Urban/ Urban;27/01/2022 16:05;dev_integral;300 - 400
+1000473;M;85;Non;Non;25k - 50k;Non renseigné;Commercial;Panel Truck;2;8.0;z_Highly Rural/ Rural;26/05/2022 01:19;dev_integral;300 - 400
+1000474;F;49;Non;Oui;0 - 10k;0 - 100k;Private;Minivan;3;1.0;Highly Urban/ Urban;07/03/2022 14:13;dev_integral;300 - 400
+1000475;F;50;Non;Non;25k - 50k;0 - 100k;Private;z_SUV;3;;Highly Urban/ Urban;16/04/2022 20:05;dev_express;200 - 300
+1000476;M;44;Non;Oui;25k - 50k;100k - 200k;Private;z_SUV;3;6.0;Highly Urban/ Urban;23/05/2022 01:28;dev_express;200 - 300
+1000477;F;68;Non;Oui;25k - 50k;100k - 200k;Private;z_SUV;0;11.0;Highly Urban/ Urban;08/01/2022 06:18;dev_premium;400 - 500
+1000478;M;21;Non;Oui;50k - 75k;200k - 300k;Private;Minivan;0;21.0;Highly Urban/ Urban;29/05/2022 04:55;dev_integral;300 - 400
+1000479;M;71;Oui;Oui;25k - 50k;100k - 200k;Private;Minivan;1;8.0;Highly Urban/ Urban;10/01/2022 03:39;dev_integral;300 - 400
+1000480;F;56;Non;Non;75k - 100k;200k - 300k;Private;Minivan;0;;Highly Urban/ Urban;18/04/2022 14:58;dev_integral;300 - 400
+1000481;M;11;Non;Oui;150k - 200k;300k - 400k;Private;Minivan;1;18.0;Highly Urban/ Urban;16/01/2022 03:51;dev_express;200 - 300
+1000482;M;77;Non;Non;50k - 75k;100k - 200k;Commercial;Van;2;7.0;Highly Urban/ Urban;02/01/2022 13:57;dev_express;200 - 300
+1000483;M;68;Non;Non;100k - 150k;0 - 100k;Commercial;Van;3;16.0;Highly Urban/ Urban;18/03/2022 04:49;dev_integral;300 - 400
+1000484;M;74;Non;Non;100k - 150k;400k - 500k;Private;Sports Car;0;14.0;Highly Urban/ Urban;19/01/2022 09:26;dev_premium;400 - 500
+1000485;M;11;Non;Oui;75k - 100k;100k - 200k;Commercial;z_SUV;0;11.0;Highly Urban/ Urban;06/05/2022 19:13;dev_integral;200 - 300
+1000486;F;66;Non;Oui;25k - 50k;100k - 200k;Commercial;z_SUV;3;4.0;Highly Urban/ Urban;27/04/2022 00:03;dev_express;200 - 300
+1000487;M;13;Non;Non;100k - 150k;0 - 100k;Private;Minivan;4;19.0;Highly Urban/ Urban;16/02/2022 20:52;dev_express;200 - 300
+1000488;F;89;Non;Non;Non renseigné;100k - 200k;Private;Pickup;0;14.0;Highly Urban/ Urban;06/03/2022 03:04;dev_integral;200 - 300
+1000489;M;40;Non;Non;25k - 50k;0 - 100k;Private;z_SUV;0;5.0;z_Highly Rural/ Rural;07/01/2022 02:54;dev_express;200 - 300
+1000490;M;72;Non;Oui;100k - 150k;0 - 100k;Private;Minivan;0;16.0;Highly Urban/ Urban;23/02/2022 11:01;dev_express;200 - 300
+1000491;F;42;Oui;Oui;100k - 150k;300k - 400k;Private;z_SUV;0;12.0;Highly Urban/ Urban;11/04/2022 10:47;dev_integral;200 - 300
+1000492;F;38;Non;Non;Non renseigné;300k - 400k;Private;Sports Car;1;15.0;Highly Urban/ Urban;16/03/2022 21:12;dev_integral;300 - 400
+1000493;F;43;Non;Non;0 - 10k;0 - 100k;Commercial;Minivan;2;11.0;Highly Urban/ Urban;13/05/2022 08:26;dev_express;200 - 300
+1000494;M;48;Non;Non;100k - 150k;300k - 400k;Commercial;Panel Truck;1;7.0;Highly Urban/ Urban;08/01/2022 21:15;dev_express;200 - 300
+1000495;F;72;Non;Non;100k - 150k;300k - 400k;Private;Van;0;3.0;Highly Urban/ Urban;13/03/2022 10:59;dev_express;200 - 300
+1000496;M;77;Non;Non;25k - 50k;100k - 200k;Commercial;Pickup;3;8.0;Highly Urban/ Urban;05/01/2022 22:40;dev_express;200 - 300
+1000497;F;38;Oui;Oui;50k - 75k;100k - 200k;Commercial;Pickup;1;8.0;Highly Urban/ Urban;17/02/2022 01:45;dev_premium;400 - 500
+1000498;M;91;Non;Non;0 - 10k;0 - 100k;Private;z_SUV;0;16.0;z_Highly Rural/ Rural;14/04/2022 05:13;dev_premium;300 - 400
+1000499;M;78;Non;Non;0 - 10k;100k - 200k;Private;z_SUV;2;10.0;Highly Urban/ Urban;10/02/2022 01:05;dev_express;200 - 300
+1000500;M;71;Oui;Oui;75k - 100k;0 - 100k;Commercial;Minivan;0;9.0;z_Highly Rural/ Rural;17/04/2022 21:45;dev_integral;200 - 300
+1000501;F;14;Non;Non;Non renseigné;200k - 300k;Commercial;Sports Car;7;1.0;Highly Urban/ Urban;15/02/2022 14:51;dev_integral;300 - 400
+1000502;M;4;Non;Non;100k - 150k;Non renseigné;Commercial;Panel Truck;0;5.0;Highly Urban/ Urban;07/04/2022 15:44;dev_integral;300 - 400
+1000503;M;88;Non;Oui;0 - 10k;0 - 100k;Private;z_SUV;8;5.0;Highly Urban/ Urban;11/01/2022 21:36;dev_express;200 - 300
+1000504;M;64;Non;Non;200k +;0 - 100k;Commercial;Panel Truck;0;16.0;Highly Urban/ Urban;29/01/2022 06:11;dev_express;200 - 300
+1000505;M;59;Non;Non;200k +;0 - 100k;Commercial;Panel Truck;5;19.0;Highly Urban/ Urban;27/01/2022 10:26;dev_express;200 - 300
+1000506;F;4;Non;Oui;50k - 75k;0 - 100k;Private;Minivan;0;7.0;Highly Urban/ Urban;09/04/2022 17:13;dev_integral;200 - 300
+1000507;F;21;Non;Oui;75k - 100k;200k - 300k;Commercial;z_SUV;0;8.0;Highly Urban/ Urban;04/02/2022 22:31;dev_integral;200 - 300
+1000508;M;10;Non;Oui;75k - 100k;200k - 300k;Private;Minivan;2;9.0;Highly Urban/ Urban;13/04/2022 19:59;dev_premium;300 - 400
+1000509;M;39;Non;Non;Non renseigné;200k - 300k;Commercial;Van;1;14.0;Highly Urban/ Urban;01/03/2022 04:29;dev_premium;300 - 400
+1000510;F;62;Non;Non;0 - 10k;0 - 100k;Private;z_SUV;0;1.0;Highly Urban/ Urban;13/02/2022 11:48;dev_premium;300 - 400
+1000511;M;64;Non;Oui;25k - 50k;100k - 200k;Commercial;Van;2;1.0;Highly Urban/ Urban;27/03/2022 04:34;dev_integral;300 - 400
+1000512;M;49;Non;Non;100k - 150k;200k - 300k;Private;Sports Car;0;14.0;Highly Urban/ Urban;26/03/2022 22:33;dev_express;200 - 300
+1000513;F;81;Non;Non;75k - 100k;300k - 400k;Private;Pickup;0;;Highly Urban/ Urban;05/04/2022 17:32;dev_premium;400 - 500
+1000514;F;9;Non;Non;0 - 10k;0 - 100k;Private;z_SUV;2;16.0;z_Highly Rural/ Rural;23/01/2022 22:34;dev_premium;400 - 500
+1000515;M;76;Non;Non;75k - 100k;0 - 100k;Commercial;Pickup;0;16.0;Highly Urban/ Urban;14/02/2022 23:26;dev_integral;200 - 300
+1000516;F;55;Non;Non;25k - 50k;100k - 200k;Private;Pickup;0;;Highly Urban/ Urban;31/03/2022 03:07;dev_express;200 - 300
+1000517;M;51;Non;Non;0 - 10k;0 - 100k;Private;Pickup;1;1.0;Highly Urban/ Urban;11/05/2022 06:47;dev_integral;300 - 400
+1000518;F;38;Non;Oui;0 - 10k;0 - 100k;Private;z_SUV;7;1.0;Highly Urban/ Urban;24/03/2022 15:19;dev_integral;300 - 400
+1000519;M;73;Non;Non;0 - 10k;100k - 200k;Private;Pickup;6;1.0;Highly Urban/ Urban;29/03/2022 12:51;dev_express;200 - 300
+1000520;F;36;Non;Oui;Non renseigné;0 - 100k;Commercial;Panel Truck;0;1.0;Highly Urban/ Urban;02/01/2022 23:38;dev_integral;300 - 400
+1000521;M;69;Oui;Oui;25k - 50k;100k - 200k;Commercial;Pickup;5;1.0;Highly Urban/ Urban;29/05/2022 03:14;dev_integral;300 - 400
+1000522;M;16;Non;Non;75k - 100k;0 - 100k;Private;Van;11;16.0;Highly Urban/ Urban;18/04/2022 23:11;dev_integral;300 - 400
+1000523;M;66;Non;Non;10k - 25k;100k - 200k;Private;Minivan;2;1.0;z_Highly Rural/ Rural;17/04/2022 11:37;dev_integral;300 - 400
+1000524;M;83;Non;Non;75k - 100k;Non renseigné;Commercial;Minivan;6;7.0;Highly Urban/ Urban;08/03/2022 08:49;dev_integral;300 - 400
+1000525;F;89;Non;Non;75k - 100k;Non renseigné;Private;Sports Car;0;12.0;Highly Urban/ Urban;28/04/2022 19:59;dev_express;200 - 300
+1000526;M;47;Non;Non;75k - 100k;0 - 100k;Commercial;z_SUV;1;7.0;z_Highly Rural/ Rural;05/04/2022 14:33;dev_premium;400 - 500
+1000527;M;42;Oui;Oui;10k - 25k;100k - 200k;Commercial;Minivan;0;5.0;Highly Urban/ Urban;30/03/2022 17:39;dev_premium;500 - 600
+1000528;F;58;Non;Non;50k - 75k;200k - 300k;Private;Minivan;2;1.0;Highly Urban/ Urban;09/04/2022 15:27;dev_integral;300 - 400
+1000529;F;63;Non;Non;100k - 150k;300k - 400k;Commercial;Panel Truck;6;18.0;Highly Urban/ Urban;06/05/2022 19:05;dev_express;200 - 300
+1000530;F;71;Oui;Oui;25k - 50k;100k - 200k;Private;z_SUV;4;11.0;z_Highly Rural/ Rural;29/04/2022 01:23;dev_integral;300 - 400
+1000531;F;48;Non;Non;25k - 50k;100k - 200k;Commercial;z_SUV;3;1.0;Highly Urban/ Urban;03/01/2022 09:08;dev_express;200 - 300
+1000532;M;20;Non;Non;50k - 75k;200k - 300k;Commercial;Panel Truck;1;4.0;z_Highly Rural/ Rural;09/05/2022 02:38;dev_vip;900 - 1000
+1000533;F;92;Non;Non;Non renseigné;100k - 200k;Commercial;Pickup;0;17.0;Highly Urban/ Urban;22/01/2022 15:35;dev_integral;200 - 300
+1000534;F;9;Non;Non;25k - 50k;100k - 200k;Private;Minivan;0;15.0;Highly Urban/ Urban;29/04/2022 09:35;dev_express;200 - 300
+1000535;F;72;Non;Non;50k - 75k;100k - 200k;Commercial;Panel Truck;5;;Highly Urban/ Urban;24/02/2022 09:29;dev_integral;300 - 400
+1000536;F;57;Non;Non;0 - 10k;0 - 100k;Commercial;Pickup;0;1.0;Highly Urban/ Urban;01/04/2022 04:04;dev_express;200 - 300
+1000537;F;82;Non;Non;75k - 100k;0 - 100k;Commercial;Pickup;3;13.0;Highly Urban/ Urban;12/02/2022 03:31;dev_express;200 - 300
+1000538;F;58;Non;Oui;25k - 50k;200k - 300k;Private;Van;0;12.0;Highly Urban/ Urban;19/04/2022 19:52;dev_integral;300 - 400
+1000539;M;78;Non;Oui;0 - 10k;Non renseigné;Commercial;z_SUV;2;6.0;Highly Urban/ Urban;06/02/2022 22:10;dev_premium;400 - 500
+1000540;F;59;Non;Oui;0 - 10k;0 - 100k;Private;Sports Car;0;9.0;Highly Urban/ Urban;07/01/2022 04:46;dev_integral;200 - 300
+1000541;F;29;Non;Non;0 - 10k;0 - 100k;Commercial;Pickup;0;1.0;Highly Urban/ Urban;19/03/2022 01:46;dev_premium;300 - 400
+1000542;F;72;Non;Non;Non renseigné;300k - 400k;Private;Pickup;0;;Highly Urban/ Urban;10/03/2022 21:24;dev_integral;300 - 400
+1000543;F;49;Non;Non;25k - 50k;100k - 200k;Commercial;Pickup;0;19.0;Highly Urban/ Urban;08/05/2022 21:30;dev_integral;300 - 400
+1000544;F;87;Non;Oui;50k - 75k;100k - 200k;Commercial;z_SUV;0;7.0;Highly Urban/ Urban;09/03/2022 21:30;dev_express;200 - 300
+1000545;M;72;Non;Non;0 - 10k;100k - 200k;Private;z_SUV;2;15.0;Highly Urban/ Urban;20/04/2022 18:29;dev_express;200 - 300
+1000546;F;80;Non;Non;100k - 150k;0 - 100k;Commercial;Pickup;3;1.0;Highly Urban/ Urban;05/04/2022 00:30;dev_integral;300 - 400
+1000547;M;48;Non;Oui;75k - 100k;200k - 300k;Private;z_SUV;4;9.0;Highly Urban/ Urban;20/05/2022 14:23;dev_integral;200 - 300
+1000548;M;64;Non;Oui;0 - 10k;100k - 200k;Private;z_SUV;1;6.0;Highly Urban/ Urban;03/03/2022 09:25;dev_integral;200 - 300
+1000549;F;69;Oui;Oui;10k - 25k;100k - 200k;Private;z_SUV;2;1.0;Highly Urban/ Urban;12/03/2022 08:44;dev_express;200 - 300
+1000550;F;82;Non;Oui;50k - 75k;0 - 100k;Private;Sports Car;0;12.0;Highly Urban/ Urban;06/01/2022 12:56;dev_express;200 - 300
+1000551;M;27;Non;Non;Non renseigné;200k - 300k;Commercial;Pickup;7;4.0;Highly Urban/ Urban;17/01/2022 08:56;dev_express;200 - 300
+1000552;F;91;Non;Oui;10k - 25k;0 - 100k;Private;z_SUV;1;8.0;Highly Urban/ Urban;04/03/2022 00:51;dev_integral;300 - 400
+1000553;F;52;Non;Non;100k - 150k;300k - 400k;Private;z_SUV;0;20.0;Highly Urban/ Urban;28/02/2022 08:01;dev_premium;400 - 500
+1000554;M;38;Non;Non;50k - 75k;0 - 100k;Commercial;Van;0;4.0;Highly Urban/ Urban;22/03/2022 17:53;dev_express;200 - 300
+1000555;F;24;Non;Oui;25k - 50k;100k - 200k;Commercial;Minivan;0;10.0;Highly Urban/ Urban;09/05/2022 14:13;dev_express;200 - 300
+1000556;F;35;Non;Non;75k - 100k;200k - 300k;Commercial;Pickup;0;;Highly Urban/ Urban;11/03/2022 14:38;dev_integral;200 - 300
+1000557;F;51;Non;Non;75k - 100k;0 - 100k;Commercial;Van;5;1.0;Highly Urban/ Urban;19/02/2022 23:44;dev_integral;300 - 400
+1000558;F;36;Non;Oui;0 - 10k;100k - 200k;Private;Sports Car;2;8.0;Highly Urban/ Urban;28/04/2022 20:05;dev_premium;400 - 500
+1000559;M;27;Non;Non;150k - 200k;400k - 500k;Private;Pickup;0;1.0;Highly Urban/ Urban;01/03/2022 15:58;dev_integral;200 - 300
+1000560;M;36;Oui;Oui;75k - 100k;300k - 400k;Private;Minivan;1;1.0;Highly Urban/ Urban;17/01/2022 02:58;dev_integral;200 - 300
+1000561;M;58;Non;Non;10k - 25k;100k - 200k;Private;z_SUV;0;9.0;z_Highly Rural/ Rural;12/03/2022 07:57;dev_premium;300 - 400
+1000562;M;47;Non;Non;75k - 100k;200k - 300k;Private;Sports Car;1;5.0;Highly Urban/ Urban;14/04/2022 03:21;dev_express;200 - 300
+1000563;M;33;Non;Non;75k - 100k;200k - 300k;Commercial;Panel Truck;0;12.0;Highly Urban/ Urban;17/02/2022 11:06;dev_express;200 - 300
+1000564;F;58;Non;Non;50k - 75k;100k - 200k;Private;Minivan;2;11.0;Highly Urban/ Urban;19/04/2022 19:04;dev_integral;200 - 300
+1000565;M;74;Oui;Oui;10k - 25k;100k - 200k;Commercial;Pickup;0;5.0;z_Highly Rural/ Rural;18/05/2022 10:53;dev_integral;200 - 300
+1000566;M;86;Non;Non;50k - 75k;200k - 300k;Commercial;Pickup;1;12.0;z_Highly Rural/ Rural;13/03/2022 05:28;dev_express;200 - 300
+1000567;F;1;Oui;Oui;200k +;0 - 100k;Commercial;Van;0;;Highly Urban/ Urban;11/05/2022 14:01;dev_express;200 - 300
+1000568;F;11;Non;Non;75k - 100k;0 - 100k;Commercial;Panel Truck;1;;Highly Urban/ Urban;11/01/2022 02:15;dev_premium;400 - 500
+1000569;F;19;Non;Non;10k - 25k;100k - 200k;Private;z_SUV;2;6.0;Highly Urban/ Urban;09/05/2022 11:12;dev_integral;300 - 400
+1000570;F;56;Oui;Oui;10k - 25k;100k - 200k;Commercial;Minivan;6;1.0;Highly Urban/ Urban;04/01/2022 12:36;dev_integral;300 - 400
+1000571;F;55;Non;Oui;10k - 25k;0 - 100k;Private;z_SUV;7;6.0;Highly Urban/ Urban;30/05/2022 20:12;dev_express;200 - 300
+1000572;M;27;Non;Non;75k - 100k;0 - 100k;Private;Minivan;1;9.0;Highly Urban/ Urban;06/03/2022 00:29;dev_express;200 - 300
+1000573;M;22;Non;Oui;25k - 50k;100k - 200k;Private;z_SUV;7;4.0;Highly Urban/ Urban;19/01/2022 12:12;dev_premium;400 - 500
+1000574;F;5;Non;Oui;50k - 75k;200k - 300k;Private;Pickup;2;9.0;Highly Urban/ Urban;20/04/2022 02:39;dev_integral;300 - 400
+1000575;M;56;Non;Non;0 - 10k;0 - 100k;Private;z_SUV;1;1.0;Highly Urban/ Urban;24/05/2022 17:45;dev_express;200 - 300
+1000576;F;21;Non;Oui;0 - 10k;0 - 100k;Private;z_SUV;8;1.0;Highly Urban/ Urban;26/03/2022 13:13;dev_express;200 - 300
+1000577;F;76;Non;Non;10k - 25k;0 - 100k;Private;z_SUV;1;8.0;Highly Urban/ Urban;23/03/2022 14:10;dev_integral;300 - 400
+1000578;M;28;Non;Non;100k - 150k;0 - 100k;Commercial;Panel Truck;0;18.0;Highly Urban/ Urban;12/04/2022 00:22;dev_integral;200 - 300
+1000579;M;29;Non;Non;150k - 200k;300k - 400k;Private;Minivan;0;11.0;Highly Urban/ Urban;15/04/2022 13:43;dev_integral;300 - 400
+1000580;F;68;Non;Non;50k - 75k;100k - 200k;Commercial;Pickup;1;6.0;Highly Urban/ Urban;20/04/2022 01:02;dev_express;200 - 300
+1000581;F;70;Non;Non;10k - 25k;0 - 100k;Private;z_SUV;0;1.0;z_Highly Rural/ Rural;02/05/2022 23:12;dev_integral;300 - 400
+1000582;F;67;Non;Oui;10k - 25k;Non renseigné;Private;Van;6;1.0;Highly Urban/ Urban;21/05/2022 08:38;dev_express;200 - 300
+1000583;F;24;Non;Oui;50k - 75k;0 - 100k;Private;z_SUV;0;;Highly Urban/ Urban;01/03/2022 18:29;dev_express;200 - 300
+1000584;F;52;Oui;Oui;50k - 75k;200k - 300k;Private;Minivan;3;7.0;Highly Urban/ Urban;10/05/2022 11:14;dev_premium;400 - 500
+1000585;F;71;Non;Non;100k - 150k;300k - 400k;Private;Sports Car;1;10.0;Highly Urban/ Urban;06/03/2022 05:10;dev_integral;300 - 400
+1000586;F;3;Non;Non;10k - 25k;100k - 200k;Private;Minivan;0;1.0;z_Highly Rural/ Rural;26/05/2022 01:21;dev_integral;200 - 300
+1000587;F;21;Oui;Oui;25k - 50k;100k - 200k;Private;Sports Car;1;1.0;Highly Urban/ Urban;25/04/2022 09:36;dev_integral;200 - 300
+1000588;M;60;Non;Non;25k - 50k;100k - 200k;Commercial;z_SUV;0;1.0;z_Highly Rural/ Rural;29/05/2022 19:59;dev_premium;300 - 400
+1000589;M;8;Non;Oui;25k - 50k;100k - 200k;Private;Sports Car;5;10.0;Highly Urban/ Urban;03/02/2022 15:04;dev_express;200 - 300
+1000590;M;28;Non;Oui;25k - 50k;0 - 100k;Commercial;Minivan;0;8.0;Highly Urban/ Urban;16/05/2022 00:02;dev_express;200 - 300
+1000591;F;58;Oui;Oui;50k - 75k;200k - 300k;Private;z_SUV;1;10.0;Highly Urban/ Urban;15/05/2022 09:25;dev_express;200 - 300
+1000592;M;73;Non;Oui;50k - 75k;100k - 200k;Private;z_SUV;2;6.0;Highly Urban/ Urban;28/05/2022 03:24;dev_express;200 - 300
+1000593;F;75;Non;Non;10k - 25k;0 - 100k;Commercial;Pickup;2;11.0;z_Highly Rural/ Rural;27/03/2022 17:26;dev_integral;200 - 300
+1000594;M;49;Non;Non;25k - 50k;100k - 200k;Private;z_SUV;4;1.0;Highly Urban/ Urban;03/02/2022 09:48;dev_integral;300 - 400
+1000595;F;8;Non;Non;100k - 150k;300k - 400k;Commercial;Panel Truck;4;8.0;Highly Urban/ Urban;06/05/2022 15:53;dev_premium;500 - 600
+1000596;F;20;Non;Non;25k - 50k;100k - 200k;Private;Minivan;3;;z_Highly Rural/ Rural;12/05/2022 06:56;dev_premium;300 - 400
+1000597;F;72;Non;Non;75k - 100k;200k - 300k;Commercial;Van;1;13.0;Highly Urban/ Urban;15/01/2022 18:39;dev_integral;200 - 300
+1000598;M;13;Oui;Oui;10k - 25k;100k - 200k;Commercial;Pickup;1;1.0;Highly Urban/ Urban;24/01/2022 13:18;dev_integral;300 - 400
+1000599;M;48;Non;Non;150k - 200k;0 - 100k;Private;Pickup;0;19.0;Highly Urban/ Urban;17/03/2022 06:56;dev_integral;300 - 400
+1000600;M;91;Non;Non;0 - 10k;Non renseigné;Private;z_SUV;1;9.0;z_Highly Rural/ Rural;29/03/2022 02:50;dev_integral;300 - 400
+1000601;M;19;Non;Non;50k - 75k;0 - 100k;Private;Pickup;0;;Highly Urban/ Urban;10/05/2022 07:12;dev_express;200 - 300
+1000602;F;60;Non;Non;100k - 150k;0 - 100k;Private;Minivan;0;15.0;Highly Urban/ Urban;14/03/2022 05:41;dev_express;200 - 300
+1000603;F;74;Non;Non;25k - 50k;100k - 200k;Private;Pickup;0;10.0;z_Highly Rural/ Rural;31/05/2022 13:57;dev_premium;500 - 600
+1000604;F;6;Non;Non;100k - 150k;400k - 500k;Private;z_SUV;0;7.0;Highly Urban/ Urban;10/05/2022 23:39;dev_integral;300 - 400
+1000605;F;58;Non;Oui;25k - 50k;100k - 200k;Commercial;Pickup;0;1.0;Highly Urban/ Urban;14/05/2022 00:58;dev_express;200 - 300
+1000606;F;85;Non;Non;100k - 150k;0 - 100k;Commercial;Van;2;12.0;Highly Urban/ Urban;07/05/2022 14:05;dev_express;200 - 300
+1000607;F;53;Non;Non;50k - 75k;0 - 100k;Private;Pickup;1;1.0;z_Highly Rural/ Rural;17/05/2022 22:41;dev_integral;300 - 400
+1000608;M;52;Non;Non;0 - 10k;0 - 100k;Commercial;Minivan;0;8.0;Highly Urban/ Urban;17/03/2022 06:05;dev_integral;200 - 300
+1000609;F;44;Non;Non;100k - 150k;0 - 100k;Commercial;Van;3;10.0;Highly Urban/ Urban;15/03/2022 03:25;dev_premium;400 - 500
+1000610;F;52;Non;Non;100k - 150k;0 - 100k;Private;Minivan;0;13.0;Highly Urban/ Urban;30/03/2022 17:24;dev_express;200 - 300
+1000611;F;58;Non;Non;75k - 100k;200k - 300k;Private;z_SUV;0;1.0;Highly Urban/ Urban;21/01/2022 20:42;dev_express;200 - 300
+1000612;M;62;Non;Oui;0 - 10k;0 - 100k;Commercial;z_SUV;2;1.0;Highly Urban/ Urban;18/01/2022 19:29;dev_express;200 - 300
+1000613;F;18;Non;Non;0 - 10k;Non renseigné;Commercial;Minivan;1;17.0;Highly Urban/ Urban;19/04/2022 21:43;dev_integral;200 - 300
+1000614;M;57;Non;Non;25k - 50k;100k - 200k;Commercial;Pickup;0;7.0;z_Highly Rural/ Rural;18/05/2022 13:33;dev_premium;300 - 400
+1000615;M;56;Non;Non;75k - 100k;200k - 300k;Private;Minivan;0;21.0;Highly Urban/ Urban;04/04/2022 15:50;dev_express;200 - 300
+1000616;M;55;Non;Oui;100k - 150k;300k - 400k;Private;Minivan;0;8.0;Highly Urban/ Urban;25/03/2022 07:11;dev_integral;300 - 400
+1000617;F;61;Non;Oui;75k - 100k;200k - 300k;Commercial;Minivan;7;1.0;Highly Urban/ Urban;23/03/2022 12:28;dev_integral;200 - 300
+1000618;F;33;Non;Non;100k - 150k;200k - 300k;Commercial;Panel Truck;0;11.0;Highly Urban/ Urban;25/03/2022 13:33;dev_express;200 - 300
+1000619;M;29;Non;Non;Non renseigné;0 - 100k;Private;Minivan;0;22.0;Highly Urban/ Urban;23/02/2022 20:23;dev_integral;300 - 400
+1000620;F;82;Non;Non;100k - 150k;300k - 400k;Commercial;z_SUV;4;10.0;Highly Urban/ Urban;08/04/2022 12:44;dev_premium;500 - 600
+1000621;M;69;Non;Non;25k - 50k;0 - 100k;Private;Minivan;0;;Highly Urban/ Urban;25/02/2022 05:54;dev_integral;300 - 400
+1000622;F;67;Non;Non;25k - 50k;200k - 300k;Private;z_SUV;2;8.0;Highly Urban/ Urban;07/02/2022 00:44;dev_integral;200 - 300
+1000623;M;4;Oui;Oui;0 - 10k;0 - 100k;Commercial;Minivan;0;4.0;z_Highly Rural/ Rural;01/04/2022 01:13;dev_integral;300 - 400
+1000624;M;16;Non;Non;100k - 150k;300k - 400k;Private;Minivan;3;;Highly Urban/ Urban;25/05/2022 18:59;dev_express;200 - 300
+1000625;F;80;Non;Non;25k - 50k;Non renseigné;Private;z_SUV;5;7.0;Highly Urban/ Urban;21/04/2022 16:29;dev_express;200 - 300
+1000626;F;59;Non;Non;10k - 25k;100k - 200k;Private;Minivan;0;1.0;Highly Urban/ Urban;31/05/2022 05:19;dev_premium;300 - 400
+1000627;M;32;Non;Non;Non renseigné;200k - 300k;Commercial;Pickup;0;1.0;Highly Urban/ Urban;19/02/2022 08:11;dev_express;200 - 300
+1000628;F;60;Oui;Oui;25k - 50k;100k - 200k;Private;z_SUV;9;6.0;Highly Urban/ Urban;23/05/2022 14:29;dev_integral;300 - 400
+1000629;M;84;Non;Oui;75k - 100k;200k - 300k;Commercial;Pickup;0;4.0;z_Highly Rural/ Rural;24/02/2022 11:57;dev_integral;300 - 400
+1000630;M;82;Non;Oui;50k - 75k;100k - 200k;Private;Sports Car;0;;Highly Urban/ Urban;28/05/2022 16:47;dev_express;200 - 300
+1000631;F;77;Non;Non;25k - 50k;100k - 200k;Private;Minivan;0;9.0;Highly Urban/ Urban;18/05/2022 20:48;dev_express;200 - 300
+1000632;M;54;Non;Oui;25k - 50k;100k - 200k;Commercial;Panel Truck;4;1.0;Highly Urban/ Urban;12/03/2022 12:59;dev_express;200 - 300
+1000633;M;52;Oui;Oui;50k - 75k;0 - 100k;Commercial;Pickup;2;8.0;z_Highly Rural/ Rural;06/03/2022 13:23;dev_express;200 - 300
+1000634;M;89;Non;Non;Non renseigné;200k - 300k;Commercial;Pickup;3;1.0;Highly Urban/ Urban;04/03/2022 01:37;dev_express;200 - 300
+1000635;M;71;Non;Oui;25k - 50k;100k - 200k;Commercial;Pickup;2;13.0;z_Highly Rural/ Rural;10/05/2022 23:21;dev_premium;300 - 400
+1000636;M;46;Non;Oui;Non renseigné;200k - 300k;Private;Pickup;3;9.0;Highly Urban/ Urban;08/04/2022 22:16;dev_express;200 - 300
+1000637;F;58;Non;Non;50k - 75k;200k - 300k;Commercial;z_SUV;1;1.0;Highly Urban/ Urban;20/01/2022 06:01;dev_express;200 - 300
+1000638;F;65;Non;Oui;Non renseigné;200k - 300k;Private;Minivan;2;;z_Highly Rural/ Rural;06/01/2022 05:05;dev_express;200 - 300
+1000639;F;36;Non;Oui;0 - 10k;0 - 100k;Private;Sports Car;2;8.0;z_Highly Rural/ Rural;07/01/2022 02:17;dev_integral;200 - 300
+1000640;F;49;Non;Non;10k - 25k;0 - 100k;Private;Pickup;1;1.0;Highly Urban/ Urban;04/05/2022 21:01;dev_express;200 - 300
+1000641;M;5;Non;Non;100k - 150k;400k - 500k;Private;Pickup;2;15.0;Highly Urban/ Urban;05/05/2022 07:55;dev_integral;300 - 400
+1000642;F;3;Oui;Oui;75k - 100k;0 - 100k;Private;Sports Car;7;18.0;Highly Urban/ Urban;14/03/2022 00:41;dev_express;200 - 300
+1000643;M;88;Non;Non;50k - 75k;0 - 100k;Private;Minivan;2;12.0;Highly Urban/ Urban;13/02/2022 12:27;dev_express;200 - 300
+1000644;M;85;Non;Non;25k - 50k;100k - 200k;Private;Minivan;0;17.0;z_Highly Rural/ Rural;27/03/2022 16:30;dev_integral;300 - 400
+1000645;F;55;Non;Non;50k - 75k;200k - 300k;Private;Sports Car;0;1.0;Highly Urban/ Urban;02/02/2022 14:25;dev_integral;300 - 400
+1000646;F;82;Oui;Oui;75k - 100k;200k - 300k;Commercial;Panel Truck;0;14.0;z_Highly Rural/ Rural;22/05/2022 06:17;dev_integral;300 - 400
+1000647;M;58;Non;Non;25k - 50k;100k - 200k;Private;Sports Car;2;9.0;Highly Urban/ Urban;03/02/2022 18:51;dev_integral;200 - 300
+1000648;M;27;Non;Non;25k - 50k;100k - 200k;Private;z_SUV;3;7.0;Highly Urban/ Urban;17/04/2022 11:05;dev_express;200 - 300
+1000649;F;67;Non;Non;50k - 75k;200k - 300k;Private;Sports Car;0;9.0;Highly Urban/ Urban;30/01/2022 11:38;dev_integral;200 - 300
+1000650;M;72;Non;Non;150k - 200k;400k - 500k;Private;z_SUV;3;12.0;Highly Urban/ Urban;04/01/2022 23:37;dev_integral;200 - 300
+1000651;F;28;Non;Oui;25k - 50k;100k - 200k;Private;Pickup;2;11.0;z_Highly Rural/ Rural;20/02/2022 01:38;dev_premium;400 - 500
+1000652;M;36;Non;Non;75k - 100k;200k - 300k;Private;z_SUV;0;18.0;Highly Urban/ Urban;22/03/2022 18:25;dev_integral;300 - 400
+1000653;M;71;Non;Non;Non renseigné;500k +;Private;Sports Car;0;20.0;Highly Urban/ Urban;14/04/2022 03:08;dev_integral;300 - 400
+1000654;M;85;Non;Non;25k - 50k;100k - 200k;Commercial;z_SUV;4;9.0;Highly Urban/ Urban;28/03/2022 18:19;dev_integral;300 - 400
+1000655;M;44;Non;Non;25k - 50k;0 - 100k;Commercial;z_SUV;0;5.0;Highly Urban/ Urban;15/01/2022 01:30;dev_integral;300 - 400
+1000656;M;91;Oui;Oui;25k - 50k;100k - 200k;Commercial;Pickup;1;7.0;Highly Urban/ Urban;30/03/2022 17:09;dev_express;200 - 300
+1000657;M;15;Non;Non;Non renseigné;0 - 100k;Private;Minivan;0;1.0;z_Highly Rural/ Rural;03/04/2022 06:29;dev_express;200 - 300
+1000658;M;3;Non;Oui;50k - 75k;200k - 300k;Private;Minivan;0;;Highly Urban/ Urban;11/04/2022 23:33;dev_integral;300 - 400
+1000659;F;65;Non;Non;0 - 10k;100k - 200k;Commercial;Panel Truck;0;;Highly Urban/ Urban;18/05/2022 18:08;dev_integral;300 - 400
+1000660;M;88;Non;Non;0 - 10k;Non renseigné;Private;Pickup;4;1.0;Highly Urban/ Urban;02/04/2022 09:07;dev_integral;300 - 400
+1000661;M;1;Non;Non;50k - 75k;0 - 100k;Private;Minivan;0;19.0;Highly Urban/ Urban;09/03/2022 14:39;dev_express;200 - 300
+1000662;M;17;Non;Non;0 - 10k;0 - 100k;Private;Sports Car;0;10.0;Highly Urban/ Urban;13/04/2022 11:26;dev_integral;300 - 400
+1000663;M;34;Non;Non;25k - 50k;0 - 100k;Commercial;Van;3;18.0;Highly Urban/ Urban;14/03/2022 13:17;dev_integral;300 - 400
+1000664;M;51;Non;Oui;10k - 25k;0 - 100k;Private;Minivan;1;10.0;Highly Urban/ Urban;12/05/2022 14:47;dev_express;200 - 300
+1000665;F;23;Non;Oui;10k - 25k;100k - 200k;Private;Van;0;1.0;Highly Urban/ Urban;01/01/2022 20:24;dev_integral;200 - 300
+1000666;M;24;Oui;Oui;75k - 100k;200k - 300k;Private;z_SUV;4;16.0;Highly Urban/ Urban;25/05/2022 20:36;dev_express;200 - 300
+1000667;F;55;Non;Non;0 - 10k;0 - 100k;Private;z_SUV;0;9.0;Highly Urban/ Urban;16/05/2022 05:07;dev_express;200 - 300
+1000668;M;13;Oui;Oui;10k - 25k;100k - 200k;Private;Pickup;1;7.0;Highly Urban/ Urban;27/02/2022 02:15;dev_integral;300 - 400
+1000669;F;85;Non;Non;150k - 200k;400k - 500k;Private;Pickup;0;15.0;Highly Urban/ Urban;09/03/2022 09:41;dev_integral;200 - 300
+1000670;M;30;Non;Non;50k - 75k;200k - 300k;Private;z_SUV;4;13.0;Highly Urban/ Urban;31/05/2022 15:49;dev_express;200 - 300
+1000671;F;61;Non;Non;150k - 200k;400k - 500k;Private;Minivan;0;14.0;Highly Urban/ Urban;02/03/2022 14:10;dev_premium;300 - 400
+1000672;F;20;Non;Oui;75k - 100k;200k - 300k;Commercial;Panel Truck;0;24.0;Highly Urban/ Urban;24/04/2022 21:41;dev_premium;500 - 600
+1000673;F;66;Non;Non;0 - 10k;0 - 100k;Commercial;Pickup;3;10.0;Highly Urban/ Urban;21/01/2022 07:59;dev_express;200 - 300
+1000674;F;72;Non;Non;75k - 100k;0 - 100k;Private;z_SUV;4;13.0;Highly Urban/ Urban;07/03/2022 19:35;dev_express;200 - 300
+1000675;F;7;Non;Non;0 - 10k;100k - 200k;Private;Pickup;0;17.0;z_Highly Rural/ Rural;31/05/2022 11:14;dev_express;200 - 300
+1000676;M;84;Non;Oui;75k - 100k;200k - 300k;Commercial;Van;4;8.0;Highly Urban/ Urban;13/05/2022 02:36;dev_integral;200 - 300
+1000677;F;63;Non;Non;50k - 75k;0 - 100k;Private;Pickup;0;15.0;Highly Urban/ Urban;23/05/2022 03:01;dev_integral;200 - 300
+1000678;M;16;Non;Non;0 - 10k;0 - 100k;Commercial;Minivan;1;10.0;Highly Urban/ Urban;11/05/2022 03:02;dev_express;200 - 300
+1000679;M;56;Non;Non;0 - 10k;100k - 200k;Private;Minivan;3;1.0;Highly Urban/ Urban;05/04/2022 00:02;dev_integral;300 - 400
+1000680;M;45;Non;Non;75k - 100k;200k - 300k;Private;z_SUV;8;1.0;Highly Urban/ Urban;27/05/2022 18:51;dev_integral;300 - 400
+1000681;M;54;Non;Oui;25k - 50k;0 - 100k;Private;Minivan;2;1.0;Highly Urban/ Urban;20/04/2022 23:17;dev_premium;300 - 400
+1000682;M;49;Non;Oui;0 - 10k;0 - 100k;Commercial;Panel Truck;0;10.0;Highly Urban/ Urban;25/01/2022 19:36;dev_express;200 - 300
+1000683;M;54;Non;Oui;50k - 75k;200k - 300k;Private;Minivan;1;13.0;Highly Urban/ Urban;08/04/2022 01:19;dev_express;200 - 300
+1000684;M;88;Non;Non;0 - 10k;0 - 100k;Private;Minivan;0;7.0;z_Highly Rural/ Rural;18/02/2022 12:19;dev_integral;300 - 400
+1000685;F;37;Non;Non;75k - 100k;200k - 300k;Commercial;Minivan;0;;Highly Urban/ Urban;12/01/2022 18:29;dev_integral;300 - 400
+1000686;M;87;Non;Non;0 - 10k;0 - 100k;Private;Sports Car;2;1.0;Highly Urban/ Urban;10/01/2022 15:03;dev_integral;300 - 400
+1000687;M;91;Oui;Oui;50k - 75k;200k - 300k;Private;z_SUV;1;5.0;Highly Urban/ Urban;10/05/2022 11:42;dev_premium;400 - 500
+1000688;M;86;Non;Oui;Non renseigné;0 - 100k;Private;z_SUV;0;10.0;z_Highly Rural/ Rural;23/03/2022 10:29;dev_premium;400 - 500
+1000689;M;61;Non;Non;10k - 25k;0 - 100k;Private;z_SUV;5;3.0;Highly Urban/ Urban;19/02/2022 03:28;dev_integral;200 - 300
+1000690;M;36;Oui;Oui;Non renseigné;0 - 100k;Private;z_SUV;0;1.0;z_Highly Rural/ Rural;27/04/2022 20:44;dev_express;200 - 300
+1000691;F;78;Non;Non;25k - 50k;100k - 200k;Private;Pickup;0;1.0;Highly Urban/ Urban;23/04/2022 04:43;dev_express;200 - 300
+1000692;F;49;Non;Non;100k - 150k;300k - 400k;Commercial;Panel Truck;5;10.0;Highly Urban/ Urban;21/05/2022 08:25;dev_integral;300 - 400
+1000693;M;5;Non;Non;100k - 150k;0 - 100k;Private;Van;6;;Highly Urban/ Urban;06/01/2022 08:39;dev_express;200 - 300
+1000694;M;3;Non;Oui;75k - 100k;200k - 300k;Private;z_SUV;0;14.0;Highly Urban/ Urban;08/04/2022 00:39;dev_integral;300 - 400
+1000695;F;81;Non;Non;50k - 75k;0 - 100k;Private;z_SUV;0;6.0;Highly Urban/ Urban;25/04/2022 11:54;dev_integral;300 - 400
+1000696;M;84;Non;Non;25k - 50k;100k - 200k;Private;Sports Car;1;19.0;Highly Urban/ Urban;09/01/2022 11:28;dev_express;200 - 300
+1000697;M;41;Non;Non;0 - 10k;0 - 100k;Private;Minivan;2;6.0;z_Highly Rural/ Rural;05/02/2022 05:34;dev_integral;300 - 400
+1000698;M;88;Non;Non;150k - 200k;400k - 500k;Private;Minivan;2;14.0;Highly Urban/ Urban;01/03/2022 11:59;dev_integral;200 - 300
+1000699;M;63;Non;Non;0 - 10k;Non renseigné;Private;Sports Car;2;20.0;z_Highly Rural/ Rural;14/02/2022 22:46;dev_premium;400 - 500
+1000700;F;29;Non;Oui;75k - 100k;0 - 100k;Commercial;Pickup;7;7.0;Highly Urban/ Urban;13/02/2022 06:18;dev_integral;200 - 300
+1000701;M;56;Oui;Oui;Non renseigné;100k - 200k;Commercial;Pickup;2;1.0;z_Highly Rural/ Rural;11/03/2022 21:23;dev_premium;300 - 400
+1000702;M;58;Oui;Oui;75k - 100k;200k - 300k;Commercial;z_SUV;1;13.0;Highly Urban/ Urban;12/01/2022 21:51;dev_express;200 - 300
+1000703;F;60;Oui;Oui;0 - 10k;0 - 100k;Private;Minivan;0;13.0;Highly Urban/ Urban;10/03/2022 05:03;dev_integral;300 - 400
+1000704;M;64;Non;Non;200k +;500k +;Commercial;Panel Truck;0;6.0;Highly Urban/ Urban;10/05/2022 21:14;dev_express;200 - 300
+1000705;F;10;Non;Non;75k - 100k;200k - 300k;Commercial;z_SUV;3;1.0;Highly Urban/ Urban;11/01/2022 06:26;dev_premium;400 - 500
+1000706;M;31;Non;Non;Non renseigné;100k - 200k;Private;Sports Car;0;7.0;z_Highly Rural/ Rural;05/05/2022 14:13;dev_premium;400 - 500
+1000707;F;57;Non;Oui;50k - 75k;200k - 300k;Private;Minivan;1;15.0;Highly Urban/ Urban;21/02/2022 10:07;dev_integral;300 - 400
+1000708;M;52;Non;Non;50k - 75k;200k - 300k;Commercial;Van;0;13.0;Highly Urban/ Urban;07/04/2022 18:39;dev_premium;400 - 500
+1000709;M;69;Non;Non;50k - 75k;0 - 100k;Commercial;Minivan;2;7.0;Highly Urban/ Urban;07/02/2022 05:05;dev_integral;200 - 300
+1000710;F;4;Non;Oui;25k - 50k;0 - 100k;Commercial;z_SUV;0;7.0;z_Highly Rural/ Rural;28/05/2022 05:50;dev_express;200 - 300
+1000711;M;64;Non;Non;75k - 100k;300k - 400k;Private;Minivan;0;7.0;Highly Urban/ Urban;03/03/2022 11:24;dev_integral;300 - 400
+1000712;M;23;Non;Oui;100k - 150k;0 - 100k;Private;Minivan;0;16.0;Highly Urban/ Urban;07/02/2022 03:36;dev_integral;300 - 400
+1000713;F;36;Non;Non;75k - 100k;200k - 300k;Private;z_SUV;0;15.0;z_Highly Rural/ Rural;07/01/2022 05:37;dev_premium;300 - 400
+1000714;M;6;Non;Non;25k - 50k;100k - 200k;Commercial;Minivan;0;7.0;Highly Urban/ Urban;26/02/2022 03:44;dev_premium;400 - 500
+1000715;M;15;Non;Non;150k - 200k;400k - 500k;Private;Van;0;18.0;Highly Urban/ Urban;07/04/2022 19:50;dev_integral;300 - 400
+1000716;F;71;Non;Non;150k - 200k;0 - 100k;Private;Sports Car;4;21.0;Highly Urban/ Urban;22/03/2022 11:12;dev_express;200 - 300
+1000717;F;13;Non;Non;75k - 100k;0 - 100k;Private;z_SUV;1;13.0;z_Highly Rural/ Rural;12/01/2022 10:58;dev_integral;300 - 400
+1000718;M;54;Oui;Oui;25k - 50k;0 - 100k;Private;Sports Car;0;11.0;Highly Urban/ Urban;10/03/2022 08:37;dev_integral;300 - 400
+1000719;F;5;Non;Non;25k - 50k;Non renseigné;Commercial;Sports Car;2;;Highly Urban/ Urban;11/02/2022 07:56;dev_integral;200 - 300
+1000720;F;29;Non;Non;75k - 100k;0 - 100k;Private;Minivan;2;;z_Highly Rural/ Rural;17/04/2022 04:32;dev_express;200 - 300
+1000721;M;69;Non;Oui;Non renseigné;200k - 300k;Private;Minivan;3;5.0;Highly Urban/ Urban;20/05/2022 14:45;dev_integral;300 - 400
+1000722;F;18;Non;Non;150k - 200k;0 - 100k;Commercial;Panel Truck;0;17.0;z_Highly Rural/ Rural;08/01/2022 16:09;dev_express;200 - 300
+1000723;M;18;Non;Non;75k - 100k;0 - 100k;Private;Sports Car;3;14.0;Highly Urban/ Urban;14/03/2022 14:20;dev_express;200 - 300
+1000724;M;20;Non;Non;100k - 150k;200k - 300k;Private;Pickup;0;10.0;Highly Urban/ Urban;23/05/2022 23:35;dev_integral;200 - 300
+1000725;M;19;Non;Non;50k - 75k;100k - 200k;Commercial;Sports Car;1;11.0;Highly Urban/ Urban;09/04/2022 21:55;dev_integral;300 - 400
+1000726;M;17;Non;Non;25k - 50k;100k - 200k;Private;Van;0;18.0;Highly Urban/ Urban;28/04/2022 17:36;dev_integral;300 - 400
+1000727;M;15;Non;Non;25k - 50k;100k - 200k;Private;Pickup;3;1.0;z_Highly Rural/ Rural;17/02/2022 09:12;dev_premium;500 - 600
+1000728;F;63;Non;Non;100k - 150k;300k - 400k;Private;Minivan;2;11.0;Highly Urban/ Urban;16/04/2022 00:49;dev_express;200 - 300
+1000729;M;11;Non;Non;200k +;500k +;Private;Minivan;0;13.0;Highly Urban/ Urban;14/04/2022 05:42;dev_express;200 - 300
+1000730;M;37;Non;Non;75k - 100k;200k - 300k;Commercial;Minivan;0;9.0;Highly Urban/ Urban;26/04/2022 08:50;dev_premium;400 - 500
+1000731;M;45;Non;Non;25k - 50k;200k - 300k;Private;Sports Car;4;1.0;Highly Urban/ Urban;24/04/2022 02:36;dev_integral;200 - 300
+1000732;M;18;Non;Non;50k - 75k;Non renseigné;Private;Pickup;0;8.0;Highly Urban/ Urban;03/03/2022 12:44;dev_integral;300 - 400
+1000733;M;3;Non;Non;100k - 150k;300k - 400k;Private;Minivan;1;15.0;Highly Urban/ Urban;18/03/2022 03:03;dev_integral;300 - 400
+1000734;F;92;Non;Non;50k - 75k;200k - 300k;Private;Sports Car;2;8.0;Highly Urban/ Urban;28/04/2022 02:43;dev_integral;200 - 300
+1000735;F;16;Non;Oui;75k - 100k;200k - 300k;Commercial;Van;1;7.0;Highly Urban/ Urban;22/03/2022 08:53;dev_express;200 - 300
+1000736;F;20;Oui;Oui;50k - 75k;Non renseigné;Commercial;Pickup;4;10.0;Highly Urban/ Urban;08/02/2022 19:17;dev_integral;300 - 400
+1000737;F;26;Non;Non;75k - 100k;200k - 300k;Commercial;Panel Truck;0;;z_Highly Rural/ Rural;08/02/2022 07:38;dev_integral;300 - 400
+1000738;F;66;Non;Non;25k - 50k;0 - 100k;Private;z_SUV;0;1.0;z_Highly Rural/ Rural;07/02/2022 21:25;dev_integral;200 - 300
+1000739;F;72;Non;Oui;50k - 75k;100k - 200k;Commercial;Pickup;2;1.0;Highly Urban/ Urban;22/03/2022 09:48;dev_express;200 - 300
+1000740;F;83;Non;Non;25k - 50k;100k - 200k;Commercial;Pickup;1;1.0;Highly Urban/ Urban;13/04/2022 20:56;dev_premium;300 - 400
+1000741;M;67;Oui;Oui;0 - 10k;Non renseigné;Private;Sports Car;4;1.0;Highly Urban/ Urban;16/02/2022 18:11;dev_premium;400 - 500
+1000742;F;15;Non;Non;0 - 10k;0 - 100k;Private;Minivan;0;7.0;Highly Urban/ Urban;01/03/2022 17:16;dev_integral;300 - 400
+1000743;F;30;Non;Non;25k - 50k;100k - 200k;Private;z_SUV;0;1.0;z_Highly Rural/ Rural;17/01/2022 23:45;dev_integral;200 - 300
+1000744;M;56;Oui;Oui;0 - 10k;0 - 100k;Private;Minivan;2;7.0;z_Highly Rural/ Rural;21/05/2022 16:11;dev_integral;300 - 400
+1000745;F;47;Non;Non;150k - 200k;0 - 100k;Private;Minivan;6;17.0;Highly Urban/ Urban;17/04/2022 06:36;dev_premium;300 - 400
+1000746;F;18;Non;Non;75k - 100k;200k - 300k;Private;z_SUV;0;1.0;Highly Urban/ Urban;13/02/2022 20:08;dev_integral;300 - 400
+1000747;M;72;Non;Oui;100k - 150k;300k - 400k;Private;Minivan;0;25.0;Highly Urban/ Urban;08/03/2022 23:49;dev_express;200 - 300
+1000748;M;57;Non;Non;75k - 100k;200k - 300k;Commercial;Minivan;1;9.0;z_Highly Rural/ Rural;01/05/2022 01:21;dev_integral;300 - 400
+1000749;M;27;Non;Non;150k - 200k;500k +;Commercial;Pickup;0;16.0;Highly Urban/ Urban;10/02/2022 01:30;dev_integral;300 - 400
+1000750;F;29;Non;Oui;75k - 100k;200k - 300k;Private;Sports Car;0;;Highly Urban/ Urban;17/03/2022 21:10;dev_integral;300 - 400
+1000751;M;63;Non;Non;25k - 50k;0 - 100k;Commercial;z_SUV;1;8.0;z_Highly Rural/ Rural;10/02/2022 16:25;dev_premium;300 - 400
+1000752;F;58;Non;Non;50k - 75k;100k - 200k;Private;z_SUV;0;1.0;Highly Urban/ Urban;16/01/2022 23:49;dev_integral;300 - 400
+1000753;M;67;Non;Oui;25k - 50k;100k - 200k;Commercial;Minivan;6;1.0;Highly Urban/ Urban;05/01/2022 00:48;dev_integral;200 - 300
+1000754;F;40;Oui;Oui;200k +;500k +;Commercial;Panel Truck;0;18.0;Highly Urban/ Urban;11/01/2022 17:35;dev_vip;800 - 900
+1000755;M;55;Non;Oui;50k - 75k;200k - 300k;Commercial;z_SUV;0;1.0;Highly Urban/ Urban;11/03/2022 05:31;dev_integral;300 - 400
+1000756;F;76;Non;Non;10k - 25k;100k - 200k;Private;z_SUV;0;1.0;z_Highly Rural/ Rural;10/01/2022 23:47;dev_integral;300 - 400
+1000757;M;54;Oui;Oui;25k - 50k;100k - 200k;Commercial;Van;1;1.0;Highly Urban/ Urban;15/05/2022 02:01;dev_integral;200 - 300
+1000758;F;70;Oui;Oui;Non renseigné;100k - 200k;Private;z_SUV;2;6.0;z_Highly Rural/ Rural;03/01/2022 03:03;dev_integral;300 - 400
+1000759;F;72;Non;Non;100k - 150k;0 - 100k;Private;Minivan;1;11.0;Highly Urban/ Urban;22/01/2022 15:37;dev_integral;300 - 400
+1000760;F;78;Non;Non;10k - 25k;Non renseigné;Commercial;Pickup;1;4.0;Highly Urban/ Urban;03/04/2022 02:13;dev_premium;300 - 400
+1000761;F;26;Non;Non;25k - 50k;100k - 200k;Commercial;Pickup;4;14.0;z_Highly Rural/ Rural;15/03/2022 03:15;dev_integral;300 - 400
+1000762;M;74;Non;Non;0 - 10k;0 - 100k;Private;Van;2;22.0;z_Highly Rural/ Rural;11/05/2022 04:46;dev_vip;900 - 1000
+1000763;M;52;Non;Oui;50k - 75k;0 - 100k;Private;Minivan;5;16.0;Highly Urban/ Urban;20/02/2022 07:23;dev_premium;500 - 600
+1000764;M;44;Non;Non;25k - 50k;100k - 200k;Private;Sports Car;0;6.0;Highly Urban/ Urban;07/03/2022 13:13;dev_integral;300 - 400
+1000765;M;42;Oui;Oui;100k - 150k;300k - 400k;Commercial;Pickup;4;18.0;Highly Urban/ Urban;11/04/2022 09:32;dev_integral;300 - 400
+1000766;M;75;Oui;Oui;0 - 10k;0 - 100k;Private;z_SUV;0;1.0;Highly Urban/ Urban;21/01/2022 11:49;dev_premium;500 - 600
+1000767;M;5;Non;Non;50k - 75k;0 - 100k;Private;Minivan;0;12.0;Highly Urban/ Urban;22/03/2022 17:47;dev_integral;300 - 400
+1000768;F;51;Non;Non;25k - 50k;0 - 100k;Commercial;Minivan;4;13.0;Highly Urban/ Urban;11/04/2022 05:16;dev_integral;300 - 400
+1000769;F;9;Non;Non;25k - 50k;100k - 200k;Private;z_SUV;2;1.0;Highly Urban/ Urban;17/01/2022 13:39;dev_integral;300 - 400
+1000770;M;22;Oui;Oui;100k - 150k;300k - 400k;Private;z_SUV;4;15.0;Highly Urban/ Urban;08/04/2022 10:46;dev_integral;300 - 400
+1000771;F;20;Non;Oui;10k - 25k;0 - 100k;Commercial;z_SUV;3;8.0;z_Highly Rural/ Rural;10/05/2022 07:15;dev_express;200 - 300
+1000772;M;37;Non;Oui;10k - 25k;0 - 100k;Private;z_SUV;1;1.0;z_Highly Rural/ Rural;23/02/2022 18:30;dev_integral;200 - 300
+1000773;M;67;Non;Oui;50k - 75k;200k - 300k;Private;Pickup;1;1.0;z_Highly Rural/ Rural;02/04/2022 18:10;dev_express;200 - 300
+1000774;F;44;Non;Non;50k - 75k;100k - 200k;Commercial;Pickup;1;6.0;Highly Urban/ Urban;15/02/2022 10:36;dev_integral;200 - 300
+1000775;M;79;Non;Non;10k - 25k;0 - 100k;Commercial;Minivan;0;1.0;z_Highly Rural/ Rural;08/01/2022 08:43;dev_express;200 - 300
+1000776;M;85;Non;Oui;75k - 100k;200k - 300k;Commercial;Pickup;4;16.0;Highly Urban/ Urban;24/03/2022 03:47;dev_integral;300 - 400
+1000777;F;64;Non;Oui;50k - 75k;200k - 300k;Commercial;z_SUV;5;11.0;Highly Urban/ Urban;24/05/2022 19:47;dev_integral;200 - 300
+1000778;F;32;Non;Non;50k - 75k;200k - 300k;Private;Minivan;5;15.0;Highly Urban/ Urban;17/01/2022 11:38;dev_integral;200 - 300
+1000779;M;69;Oui;Oui;50k - 75k;0 - 100k;Commercial;z_SUV;3;1.0;Highly Urban/ Urban;17/03/2022 13:43;dev_integral;200 - 300
+1000780;M;25;Non;Non;50k - 75k;0 - 100k;Private;Minivan;0;1.0;z_Highly Rural/ Rural;18/03/2022 08:18;dev_integral;300 - 400
+1000781;F;10;Oui;Oui;25k - 50k;0 - 100k;Commercial;Van;1;5.0;Highly Urban/ Urban;05/01/2022 16:14;dev_express;200 - 300
+1000782;M;21;Non;Non;100k - 150k;300k - 400k;Commercial;Van;0;5.0;Highly Urban/ Urban;13/05/2022 22:19;dev_premium;300 - 400
+1000783;M;70;Non;Non;25k - 50k;100k - 200k;Private;z_SUV;0;8.0;z_Highly Rural/ Rural;14/01/2022 17:48;dev_express;200 - 300
+1000784;F;68;Non;Non;25k - 50k;100k - 200k;Private;Minivan;1;1.0;Highly Urban/ Urban;16/01/2022 03:47;dev_premium;400 - 500
+1000785;F;35;Non;Oui;25k - 50k;0 - 100k;Commercial;z_SUV;1;6.0;Highly Urban/ Urban;13/04/2022 12:18;dev_integral;300 - 400
+1000786;F;3;Non;Non;75k - 100k;200k - 300k;Private;z_SUV;0;11.0;Highly Urban/ Urban;09/03/2022 00:05;dev_express;200 - 300
+1000787;M;66;Non;Non;100k - 150k;300k - 400k;Private;Minivan;0;1.0;Highly Urban/ Urban;15/03/2022 22:50;dev_express;200 - 300
+1000788;M;64;Non;Non;75k - 100k;200k - 300k;Commercial;Van;2;8.0;z_Highly Rural/ Rural;07/02/2022 07:14;dev_integral;300 - 400
+1000789;M;78;Non;Non;50k - 75k;200k - 300k;Commercial;Minivan;0;3.0;Highly Urban/ Urban;08/03/2022 11:24;dev_express;200 - 300
+1000790;F;27;Non;Oui;0 - 10k;0 - 100k;Commercial;Pickup;0;5.0;Highly Urban/ Urban;07/01/2022 08:04;dev_premium;400 - 500
+1000791;M;46;Non;Non;25k - 50k;0 - 100k;Private;Minivan;0;15.0;Highly Urban/ Urban;13/04/2022 05:45;dev_premium;400 - 500
+1000792;M;79;Non;Non;10k - 25k;100k - 200k;Private;Minivan;0;20.0;Highly Urban/ Urban;30/05/2022 04:03;dev_integral;300 - 400
+1000793;F;5;Non;Non;50k - 75k;0 - 100k;Commercial;Pickup;4;8.0;Highly Urban/ Urban;10/03/2022 05:51;dev_premium;400 - 500
+1000794;F;40;Non;Non;75k - 100k;200k - 300k;Private;z_SUV;1;8.0;Highly Urban/ Urban;02/05/2022 04:51;dev_express;200 - 300
+1000795;F;50;Non;Non;25k - 50k;200k - 300k;Private;Pickup;2;1.0;Highly Urban/ Urban;04/05/2022 19:49;dev_express;200 - 300
+1000796;M;6;Non;Non;0 - 10k;0 - 100k;Private;Minivan;2;12.0;Highly Urban/ Urban;17/05/2022 09:44;dev_express;200 - 300
+1000797;M;51;Non;Non;50k - 75k;0 - 100k;Private;Minivan;0;11.0;Highly Urban/ Urban;25/04/2022 12:32;dev_express;200 - 300
+1000798;M;34;Non;Non;100k - 150k;300k - 400k;Private;Minivan;1;10.0;z_Highly Rural/ Rural;11/05/2022 08:01;dev_express;200 - 300
+1000799;M;50;Non;Oui;50k - 75k;0 - 100k;Private;z_SUV;1;12.0;Highly Urban/ Urban;05/02/2022 16:47;dev_integral;200 - 300
+1000800;F;60;Non;Oui;0 - 10k;0 - 100k;Private;Minivan;6;1.0;z_Highly Rural/ Rural;03/03/2022 08:35;dev_express;200 - 300
+1000801;M;59;Oui;Oui;25k - 50k;0 - 100k;Private;z_SUV;0;5.0;z_Highly Rural/ Rural;18/05/2022 20:23;dev_integral;300 - 400
+1000802;F;41;Non;Non;50k - 75k;100k - 200k;Commercial;Minivan;0;9.0;z_Highly Rural/ Rural;25/02/2022 18:38;dev_integral;300 - 400
+1000803;M;78;Non;Non;25k - 50k;100k - 200k;Commercial;Panel Truck;5;5.0;Highly Urban/ Urban;18/01/2022 19:21;dev_vip;600 - 700
+1000804;F;56;Non;Non;10k - 25k;0 - 100k;Private;Minivan;3;7.0;Highly Urban/ Urban;08/05/2022 19:44;dev_premium;500 - 600
+1000805;M;65;Non;Oui;25k - 50k;100k - 200k;Private;z_SUV;0;5.0;Highly Urban/ Urban;19/02/2022 06:28;dev_express;200 - 300
+1000806;F;5;Non;Non;Non renseigné;200k - 300k;Commercial;Pickup;6;3.0;Highly Urban/ Urban;10/01/2022 07:16;dev_express;200 - 300
+1000807;F;70;Non;Non;50k - 75k;200k - 300k;Commercial;Minivan;1;1.0;z_Highly Rural/ Rural;30/03/2022 01:16;dev_express;200 - 300
+1000808;F;20;Oui;Oui;50k - 75k;100k - 200k;Private;Van;1;;Highly Urban/ Urban;07/05/2022 20:16;dev_express;200 - 300
+1000809;F;11;Non;Non;10k - 25k;100k - 200k;Private;Minivan;0;1.0;Highly Urban/ Urban;20/05/2022 20:22;dev_express;200 - 300
+1000810;F;50;Non;Non;25k - 50k;100k - 200k;Commercial;Van;3;21.0;Highly Urban/ Urban;07/05/2022 13:12;dev_integral;300 - 400
+1000811;M;70;Non;Non;25k - 50k;200k - 300k;Commercial;z_SUV;0;1.0;Highly Urban/ Urban;04/04/2022 10:38;dev_premium;400 - 500
+1000812;F;15;Non;Non;50k - 75k;200k - 300k;Private;Sports Car;0;10.0;Highly Urban/ Urban;04/03/2022 16:27;dev_express;200 - 300
+1000813;M;69;Non;Non;Non renseigné;Non renseigné;Commercial;Panel Truck;1;;Highly Urban/ Urban;11/02/2022 02:39;dev_integral;200 - 300
+1000814;F;84;Oui;Oui;0 - 10k;0 - 100k;Commercial;z_SUV;0;7.0;Highly Urban/ Urban;31/03/2022 21:08;dev_premium;400 - 500
+1000815;F;68;Non;Non;100k - 150k;0 - 100k;Private;Van;0;1.0;Highly Urban/ Urban;26/01/2022 05:48;dev_express;200 - 300
+1000816;M;80;Oui;Oui;Non renseigné;0 - 100k;Commercial;Sports Car;2;1.0;Highly Urban/ Urban;13/02/2022 02:19;dev_integral;300 - 400
+1000817;M;5;Non;Non;75k - 100k;300k - 400k;Private;Pickup;0;17.0;Highly Urban/ Urban;15/01/2022 14:58;dev_premium;400 - 500
+1000818;M;23;Non;Non;50k - 75k;200k - 300k;Commercial;Panel Truck;0;9.0;Highly Urban/ Urban;23/02/2022 06:59;dev_integral;300 - 400
+1000819;F;22;Non;Oui;75k - 100k;200k - 300k;Private;z_SUV;0;15.0;Highly Urban/ Urban;21/03/2022 16:57;dev_integral;300 - 400
+1000820;M;29;Non;Non;100k - 150k;300k - 400k;Private;Sports Car;0;11.0;Highly Urban/ Urban;29/04/2022 21:33;dev_integral;200 - 300
+1000821;M;58;Non;Non;0 - 10k;0 - 100k;Private;z_SUV;0;9.0;z_Highly Rural/ Rural;07/03/2022 01:05;dev_express;200 - 300
+1000822;M;72;Non;Oui;10k - 25k;0 - 100k;Private;z_SUV;0;5.0;Highly Urban/ Urban;29/05/2022 02:01;dev_express;200 - 300
+1000823;M;53;Non;Oui;Non renseigné;100k - 200k;Private;Minivan;2;1.0;Highly Urban/ Urban;10/03/2022 20:21;dev_express;200 - 300
+1000824;M;60;Non;Oui;0 - 10k;Non renseigné;Private;Minivan;2;11.0;Highly Urban/ Urban;08/02/2022 03:10;dev_express;200 - 300
+1000825;F;17;Non;Non;50k - 75k;200k - 300k;Commercial;Van;8;11.0;Highly Urban/ Urban;11/04/2022 13:50;dev_integral;300 - 400
+1000826;M;85;Non;Non;Non renseigné;200k - 300k;Private;Van;0;9.0;Highly Urban/ Urban;26/05/2022 21:07;dev_integral;200 - 300
+1000827;M;2;Oui;Oui;75k - 100k;200k - 300k;Commercial;z_SUV;4;6.0;Highly Urban/ Urban;18/04/2022 15:10;dev_express;200 - 300
+1000828;F;2;Non;Non;50k - 75k;200k - 300k;Commercial;Pickup;0;17.0;Highly Urban/ Urban;19/02/2022 13:54;dev_express;200 - 300
+1000829;F;29;Non;Non;50k - 75k;200k - 300k;Commercial;Sports Car;3;9.0;Highly Urban/ Urban;12/04/2022 01:15;dev_integral;300 - 400
+1000830;M;64;Non;Oui;25k - 50k;100k - 200k;Commercial;Pickup;0;3.0;z_Highly Rural/ Rural;17/04/2022 18:55;dev_integral;300 - 400
+1000831;M;67;Non;Oui;Non renseigné;100k - 200k;Private;Minivan;4;7.0;Highly Urban/ Urban;23/03/2022 15:44;dev_integral;300 - 400
+1000832;M;38;Non;Non;50k - 75k;0 - 100k;Private;z_SUV;4;14.0;Highly Urban/ Urban;05/02/2022 20:30;dev_integral;200 - 300
+1000833;F;60;Non;Oui;25k - 50k;100k - 200k;Private;Minivan;0;;Highly Urban/ Urban;26/03/2022 22:33;dev_premium;300 - 400
+1000834;F;40;Non;Non;100k - 150k;300k - 400k;Commercial;Van;3;10.0;Highly Urban/ Urban;18/04/2022 16:02;dev_integral;300 - 400
+1000835;M;15;Non;Non;Non renseigné;100k - 200k;Private;Minivan;1;1.0;Highly Urban/ Urban;01/03/2022 15:06;dev_integral;200 - 300
+1000836;M;15;Non;Non;50k - 75k;0 - 100k;Commercial;Sports Car;0;1.0;Highly Urban/ Urban;30/01/2022 08:56;dev_integral;200 - 300
+1000837;F;9;Non;Oui;10k - 25k;100k - 200k;Private;z_SUV;6;1.0;z_Highly Rural/ Rural;02/02/2022 16:00;dev_express;200 - 300
+1000838;M;56;Oui;Oui;75k - 100k;200k - 300k;Commercial;Minivan;0;6.0;Highly Urban/ Urban;08/04/2022 12:42;dev_integral;300 - 400
+1000839;F;64;Non;Non;50k - 75k;200k - 300k;Commercial;Panel Truck;4;1.0;Highly Urban/ Urban;01/04/2022 19:14;dev_express;200 - 300
+1000840;M;20;Non;Non;25k - 50k;100k - 200k;Private;z_SUV;0;1.0;Highly Urban/ Urban;07/01/2022 22:44;dev_premium;300 - 400
+1000841;F;60;Non;Oui;100k - 150k;0 - 100k;Private;z_SUV;3;14.0;Highly Urban/ Urban;06/05/2022 19:34;dev_integral;200 - 300
+1000842;M;17;Non;Non;75k - 100k;200k - 300k;Private;Van;2;9.0;Highly Urban/ Urban;26/05/2022 22:28;dev_premium;500 - 600
+1000843;M;64;Non;Oui;0 - 10k;0 - 100k;Private;z_SUV;0;1.0;z_Highly Rural/ Rural;09/03/2022 14:05;dev_integral;300 - 400
+1000844;M;56;Oui;Oui;50k - 75k;200k - 300k;Private;Van;3;10.0;Highly Urban/ Urban;04/02/2022 19:11;dev_integral;300 - 400
+1000845;M;66;Non;Oui;75k - 100k;200k - 300k;Commercial;Minivan;3;9.0;z_Highly Rural/ Rural;30/03/2022 17:53;dev_express;200 - 300
+1000846;M;53;Non;Non;25k - 50k;200k - 300k;Private;Minivan;0;1.0;z_Highly Rural/ Rural;05/01/2022 01:49;dev_integral;300 - 400
+1000847;M;63;Non;Non;50k - 75k;200k - 300k;Commercial;Minivan;0;8.0;Highly Urban/ Urban;13/03/2022 10:35;dev_express;200 - 300
+1000848;M;66;Non;Oui;0 - 10k;0 - 100k;Commercial;z_SUV;0;12.0;z_Highly Rural/ Rural;13/04/2022 11:44;dev_integral;300 - 400
+1000849;M;67;Non;Oui;100k - 150k;300k - 400k;Private;Minivan;1;14.0;Highly Urban/ Urban;03/05/2022 02:56;dev_express;200 - 300
+1000850;F;73;Non;Non;75k - 100k;200k - 300k;Private;z_SUV;5;5.0;Highly Urban/ Urban;10/03/2022 06:59;dev_express;200 - 300
+1000851;M;28;Non;Non;100k - 150k;300k - 400k;Commercial;z_SUV;0;8.0;Highly Urban/ Urban;19/03/2022 08:30;dev_integral;300 - 400
+1000852;M;3;Oui;Oui;10k - 25k;100k - 200k;Commercial;Pickup;3;9.0;Highly Urban/ Urban;12/05/2022 21:36;dev_integral;300 - 400
+1000853;M;73;Non;Non;25k - 50k;200k - 300k;Private;z_SUV;4;3.0;Highly Urban/ Urban;19/04/2022 01:39;dev_express;200 - 300
+1000854;F;28;Non;Non;50k - 75k;200k - 300k;Private;Minivan;0;20.0;Highly Urban/ Urban;09/03/2022 04:34;dev_express;200 - 300
+1000855;M;56;Non;Non;200k +;Non renseigné;Commercial;Panel Truck;1;9.0;Highly Urban/ Urban;30/03/2022 06:16;dev_integral;200 - 300
+1000856;M;38;Non;Non;25k - 50k;100k - 200k;Private;Pickup;2;6.0;Highly Urban/ Urban;17/01/2022 09:47;dev_integral;300 - 400
+1000857;F;52;Non;Oui;25k - 50k;0 - 100k;Commercial;Pickup;7;1.0;Highly Urban/ Urban;14/04/2022 13:13;dev_express;200 - 300
+1000858;M;59;Non;Non;0 - 10k;100k - 200k;Private;Sports Car;1;8.0;Highly Urban/ Urban;07/04/2022 23:39;dev_premium;300 - 400
+1000859;F;27;Non;Non;50k - 75k;200k - 300k;Private;Sports Car;1;10.0;Highly Urban/ Urban;26/01/2022 06:42;dev_integral;300 - 400
+1000860;M;16;Non;Oui;100k - 150k;200k - 300k;Private;Minivan;2;16.0;Highly Urban/ Urban;26/01/2022 18:39;dev_integral;200 - 300
+1000861;F;41;Non;Non;100k - 150k;200k - 300k;Private;z_SUV;2;11.0;Highly Urban/ Urban;15/03/2022 15:42;dev_integral;300 - 400
+1000862;F;53;Non;Non;75k - 100k;200k - 300k;Private;z_SUV;0;17.0;Highly Urban/ Urban;30/05/2022 14:54;dev_integral;300 - 400
+1000863;M;6;Oui;Oui;0 - 10k;0 - 100k;Commercial;Pickup;2;1.0;Highly Urban/ Urban;09/04/2022 00:17;dev_express;200 - 300
+1000864;F;47;Non;Non;25k - 50k;200k - 300k;Private;Minivan;0;8.0;Highly Urban/ Urban;21/05/2022 17:50;dev_premium;300 - 400
+1000865;M;7;Non;Oui;75k - 100k;200k - 300k;Commercial;Pickup;0;10.0;Highly Urban/ Urban;01/01/2022 05:44;dev_integral;300 - 400
+1000866;M;91;Non;Non;75k - 100k;200k - 300k;Private;z_SUV;2;15.0;Highly Urban/ Urban;24/02/2022 00:48;dev_express;200 - 300
+1000867;F;26;Non;Non;100k - 150k;300k - 400k;Private;Pickup;2;10.0;Highly Urban/ Urban;12/01/2022 00:48;dev_integral;300 - 400
+1000868;M;71;Oui;Oui;10k - 25k;Non renseigné;Private;Sports Car;0;1.0;Highly Urban/ Urban;14/01/2022 11:52;dev_integral;300 - 400
+1000869;F;59;Non;Oui;10k - 25k;0 - 100k;Commercial;Pickup;1;7.0;z_Highly Rural/ Rural;02/02/2022 05:11;dev_integral;300 - 400
+1000870;M;49;Non;Non;75k - 100k;100k - 200k;Private;Minivan;2;14.0;Highly Urban/ Urban;10/04/2022 20:24;dev_integral;300 - 400
+1000871;M;14;Non;Non;75k - 100k;200k - 300k;Private;z_SUV;4;5.0;Highly Urban/ Urban;28/05/2022 19:58;dev_integral;300 - 400
+1000872;M;35;Non;Non;50k - 75k;200k - 300k;Commercial;Minivan;1;1.0;Highly Urban/ Urban;19/05/2022 06:35;dev_integral;300 - 400
+1000873;F;51;Non;Non;50k - 75k;Non renseigné;Private;Minivan;0;9.0;Highly Urban/ Urban;05/03/2022 18:04;dev_integral;200 - 300
+1000874;M;70;Non;Non;50k - 75k;100k - 200k;Commercial;Pickup;3;16.0;Highly Urban/ Urban;04/01/2022 08:53;dev_express;200 - 300
+1000875;M;27;Non;Non;50k - 75k;100k - 200k;Commercial;Van;2;9.0;Highly Urban/ Urban;23/04/2022 00:38;dev_integral;200 - 300
+1000876;M;69;Non;Non;25k - 50k;100k - 200k;Private;z_SUV;2;16.0;Highly Urban/ Urban;19/01/2022 08:22;dev_integral;300 - 400
+1000877;M;60;Non;Non;50k - 75k;Non renseigné;Commercial;Pickup;0;19.0;Highly Urban/ Urban;14/05/2022 21:13;dev_integral;200 - 300
+1000878;M;65;Non;Non;50k - 75k;Non renseigné;Commercial;Pickup;4;4.0;Highly Urban/ Urban;22/02/2022 09:35;dev_integral;300 - 400
+1000879;F;29;Non;Non;75k - 100k;200k - 300k;Commercial;Panel Truck;0;17.0;Highly Urban/ Urban;24/02/2022 12:40;dev_integral;300 - 400
+1000880;M;64;Non;Oui;Non renseigné;300k - 400k;Commercial;Panel Truck;0;12.0;Highly Urban/ Urban;26/05/2022 12:01;dev_express;200 - 300
+1000881;F;41;Non;Oui;100k - 150k;300k - 400k;Commercial;z_SUV;1;1.0;z_Highly Rural/ Rural;14/01/2022 18:54;dev_integral;200 - 300
+1000882;M;63;Non;Non;50k - 75k;200k - 300k;Private;Minivan;1;16.0;z_Highly Rural/ Rural;06/01/2022 06:03;dev_premium;400 - 500
+1000883;F;5;Oui;Oui;75k - 100k;200k - 300k;Private;z_SUV;3;22.0;Highly Urban/ Urban;21/01/2022 20:55;dev_integral;200 - 300
+1000884;M;45;Non;Non;150k - 200k;400k - 500k;Private;Minivan;2;12.0;Highly Urban/ Urban;12/04/2022 15:22;dev_integral;200 - 300
+1000885;M;50;Non;Non;150k - 200k;400k - 500k;Private;Minivan;1;15.0;Highly Urban/ Urban;05/01/2022 05:59;dev_premium;400 - 500
+1000886;M;63;Non;Non;0 - 10k;100k - 200k;Commercial;Pickup;1;11.0;Highly Urban/ Urban;10/01/2022 06:19;dev_integral;300 - 400
+1000887;F;61;Non;Non;50k - 75k;200k - 300k;Commercial;Minivan;0;1.0;z_Highly Rural/ Rural;08/04/2022 06:27;dev_premium;300 - 400
+1000888;M;61;Non;Non;75k - 100k;200k - 300k;Private;Pickup;3;15.0;Highly Urban/ Urban;30/03/2022 15:14;dev_integral;200 - 300
+1000889;M;77;Non;Non;50k - 75k;100k - 200k;Commercial;Panel Truck;0;16.0;Highly Urban/ Urban;12/04/2022 05:10;dev_express;200 - 300
+1000890;F;81;Non;Non;50k - 75k;100k - 200k;Private;Minivan;1;1.0;Highly Urban/ Urban;15/03/2022 08:34;dev_integral;300 - 400
+1000891;F;82;Non;Oui;0 - 10k;0 - 100k;Private;z_SUV;4;1.0;Highly Urban/ Urban;12/03/2022 10:18;dev_integral;300 - 400
+1000892;M;64;Non;Non;50k - 75k;0 - 100k;Commercial;Pickup;1;17.0;Highly Urban/ Urban;14/03/2022 14:38;dev_integral;200 - 300
+1000893;M;85;Non;Oui;25k - 50k;100k - 200k;Commercial;Van;0;13.0;Highly Urban/ Urban;09/01/2022 22:09;dev_integral;300 - 400
+1000894;M;55;Non;Non;Non renseigné;200k - 300k;Commercial;z_SUV;1;7.0;Highly Urban/ Urban;27/02/2022 16:55;dev_express;200 - 300
+1000895;F;68;Oui;Oui;10k - 25k;0 - 100k;Private;z_SUV;0;10.0;Highly Urban/ Urban;02/02/2022 08:14;dev_premium;400 - 500
+1000896;M;69;Non;Non;75k - 100k;200k - 300k;Commercial;Sports Car;0;1.0;Highly Urban/ Urban;06/03/2022 16:17;dev_express;200 - 300
+1000897;M;57;Non;Non;50k - 75k;100k - 200k;Private;Minivan;0;12.0;Highly Urban/ Urban;06/01/2022 06:25;dev_express;200 - 300
+1000898;F;36;Non;Non;10k - 25k;100k - 200k;Private;z_SUV;0;9.0;Highly Urban/ Urban;03/04/2022 02:20;dev_integral;300 - 400
+1000899;F;59;Non;Oui;100k - 150k;300k - 400k;Private;Minivan;0;10.0;Highly Urban/ Urban;30/04/2022 23:07;dev_integral;200 - 300
+1000900;M;84;Non;Non;75k - 100k;200k - 300k;Private;Pickup;0;13.0;Highly Urban/ Urban;19/03/2022 17:09;dev_integral;300 - 400
+1000901;F;87;Non;Non;25k - 50k;200k - 300k;Private;Minivan;0;9.0;z_Highly Rural/ Rural;24/01/2022 05:53;dev_express;200 - 300
+1000902;F;60;Non;Oui;0 - 10k;0 - 100k;Private;Minivan;0;1.0;Highly Urban/ Urban;23/02/2022 04:42;dev_integral;300 - 400
+1000903;M;62;Non;Oui;0 - 10k;0 - 100k;Commercial;Sports Car;7;8.0;Highly Urban/ Urban;17/05/2022 10:24;dev_integral;200 - 300
+1000904;F;26;Non;Non;Non renseigné;100k - 200k;Private;Van;4;1.0;Highly Urban/ Urban;06/03/2022 00:45;dev_express;200 - 300
+1000905;F;11;Non;Non;0 - 10k;100k - 200k;Private;Pickup;1;1.0;Highly Urban/ Urban;13/03/2022 16:07;dev_integral;300 - 400
+1000906;M;4;Non;Oui;Non renseigné;0 - 100k;Commercial;z_SUV;0;10.0;Highly Urban/ Urban;10/02/2022 20:24;dev_premium;400 - 500
+1000907;F;65;Non;Non;Non renseigné;300k - 400k;Private;z_SUV;0;16.0;Highly Urban/ Urban;16/01/2022 04:07;dev_integral;300 - 400
+1000908;M;54;Non;Non;25k - 50k;0 - 100k;Commercial;Panel Truck;6;11.0;Highly Urban/ Urban;19/05/2022 17:14;dev_express;200 - 300
+1000909;M;73;Non;Oui;150k - 200k;400k - 500k;Private;z_SUV;2;18.0;Highly Urban/ Urban;18/04/2022 02:22;dev_express;200 - 300
+1000910;M;64;Non;Oui;10k - 25k;Non renseigné;Commercial;z_SUV;2;5.0;z_Highly Rural/ Rural;13/01/2022 09:31;dev_integral;300 - 400
+1000911;M;50;Non;Non;50k - 75k;Non renseigné;Commercial;Panel Truck;0;1.0;Highly Urban/ Urban;28/05/2022 06:19;dev_integral;300 - 400
+1000912;F;45;Non;Non;50k - 75k;200k - 300k;Commercial;Panel Truck;0;15.0;Highly Urban/ Urban;28/03/2022 01:51;dev_express;200 - 300
+1000913;F;80;Non;Oui;25k - 50k;0 - 100k;Private;Minivan;1;3.0;Highly Urban/ Urban;15/03/2022 17:21;dev_integral;300 - 400
+1000914;M;60;Non;Oui;0 - 10k;0 - 100k;Private;Pickup;0;7.0;Highly Urban/ Urban;10/03/2022 08:41;dev_integral;300 - 400
+1000915;M;73;Non;Oui;50k - 75k;200k - 300k;Private;z_SUV;4;5.0;z_Highly Rural/ Rural;20/01/2022 06:27;dev_express;200 - 300
+1000916;F;59;Non;Non;50k - 75k;100k - 200k;Private;Minivan;0;22.0;Highly Urban/ Urban;09/04/2022 17:10;dev_integral;300 - 400
+1000917;M;29;Non;Non;75k - 100k;200k - 300k;Commercial;Pickup;1;21.0;Highly Urban/ Urban;05/03/2022 15:27;dev_premium;400 - 500
+1000918;M;12;Oui;Oui;75k - 100k;200k - 300k;Commercial;Van;0;14.0;Highly Urban/ Urban;09/04/2022 10:34;dev_premium;400 - 500
+1000919;F;57;Oui;Oui;25k - 50k;0 - 100k;Private;Pickup;5;1.0;Highly Urban/ Urban;16/02/2022 13:50;dev_integral;200 - 300
+1000920;M;75;Non;Oui;10k - 25k;100k - 200k;Commercial;Minivan;6;10.0;Highly Urban/ Urban;06/04/2022 17:34;dev_integral;300 - 400
+1000921;F;66;Non;Non;75k - 100k;0 - 100k;Private;Van;4;11.0;Highly Urban/ Urban;23/03/2022 08:12;dev_express;200 - 300
+1000922;F;73;Non;Oui;25k - 50k;100k - 200k;Private;z_SUV;3;1.0;Highly Urban/ Urban;25/01/2022 03:27;dev_express;200 - 300
+1000923;F;22;Non;Oui;0 - 10k;0 - 100k;Commercial;z_SUV;1;7.0;Highly Urban/ Urban;21/01/2022 09:35;dev_express;200 - 300
+1000924;M;68;Non;Oui;100k - 150k;300k - 400k;Private;Minivan;8;15.0;Highly Urban/ Urban;27/01/2022 16:51;dev_integral;300 - 400
+1000925;M;76;Non;Oui;0 - 10k;0 - 100k;Commercial;z_SUV;9;1.0;Highly Urban/ Urban;22/04/2022 14:21;dev_integral;300 - 400
+1000926;M;66;Non;Non;100k - 150k;300k - 400k;Private;z_SUV;0;17.0;Highly Urban/ Urban;13/03/2022 23:40;dev_express;200 - 300
+1000927;F;60;Non;Non;150k - 200k;400k - 500k;Commercial;Van;4;8.0;Highly Urban/ Urban;15/01/2022 03:03;dev_premium;300 - 400
+1000928;F;1;Non;Non;Non renseigné;200k - 300k;Private;Minivan;3;15.0;Highly Urban/ Urban;24/02/2022 23:09;dev_express;200 - 300
+1000929;F;57;Non;Non;75k - 100k;300k - 400k;Private;Minivan;0;1.0;Highly Urban/ Urban;27/03/2022 17:51;dev_integral;300 - 400
+1000930;M;60;Non;Non;25k - 50k;200k - 300k;Commercial;Van;0;10.0;Highly Urban/ Urban;02/04/2022 07:37;dev_express;200 - 300
+1000931;F;22;Non;Non;25k - 50k;0 - 100k;Private;Minivan;1;1.0;Highly Urban/ Urban;18/02/2022 07:19;dev_integral;200 - 300
+1000932;M;77;Oui;Oui;50k - 75k;0 - 100k;Private;z_SUV;2;7.0;Highly Urban/ Urban;17/04/2022 09:27;dev_integral;200 - 300
+1000933;F;40;Non;Non;25k - 50k;0 - 100k;Commercial;Pickup;3;;z_Highly Rural/ Rural;20/05/2022 03:29;dev_express;200 - 300
+1000934;F;14;Non;Non;10k - 25k;0 - 100k;Private;z_SUV;0;1.0;z_Highly Rural/ Rural;29/01/2022 23:20;dev_integral;300 - 400
+1000935;M;41;Non;Non;Non renseigné;Non renseigné;Private;z_SUV;3;7.0;Highly Urban/ Urban;01/05/2022 19:40;dev_express;200 - 300
+1000936;M;16;Non;Non;0 - 10k;0 - 100k;Private;z_SUV;4;1.0;Highly Urban/ Urban;02/05/2022 20:32;dev_premium;400 - 500
+1000937;F;62;Non;Non;75k - 100k;0 - 100k;Commercial;Van;4;17.0;Highly Urban/ Urban;22/04/2022 21:23;dev_express;200 - 300
+1000938;M;67;Non;Non;75k - 100k;200k - 300k;Private;z_SUV;7;18.0;Highly Urban/ Urban;24/01/2022 10:55;dev_integral;200 - 300
+1000939;M;16;Non;Non;150k - 200k;400k - 500k;Private;Pickup;0;9.0;Highly Urban/ Urban;23/02/2022 01:41;dev_premium;500 - 600
+1000940;F;62;Non;Non;50k - 75k;200k - 300k;Commercial;Van;4;1.0;Highly Urban/ Urban;22/05/2022 10:59;dev_premium;400 - 500
+1000941;F;45;Oui;Oui;10k - 25k;0 - 100k;Private;z_SUV;0;1.0;Highly Urban/ Urban;17/03/2022 14:31;dev_vip;900 - 1000
+1000942;F;11;Non;Non;75k - 100k;Non renseigné;Commercial;Panel Truck;0;10.0;Highly Urban/ Urban;04/04/2022 00:54;dev_express;200 - 300
+1000943;M;22;Non;Non;10k - 25k;0 - 100k;Private;Minivan;4;4.0;z_Highly Rural/ Rural;01/05/2022 00:26;dev_integral;300 - 400
+1000944;F;86;Non;Oui;10k - 25k;100k - 200k;Commercial;Panel Truck;4;6.0;Highly Urban/ Urban;02/05/2022 17:11;dev_integral;200 - 300
+1000945;F;25;Oui;Oui;100k - 150k;0 - 100k;Commercial;Pickup;0;7.0;z_Highly Rural/ Rural;28/03/2022 12:11;dev_integral;200 - 300
+1000946;F;42;Non;Non;150k - 200k;0 - 100k;Commercial;Panel Truck;1;12.0;Highly Urban/ Urban;19/05/2022 17:35;dev_integral;300 - 400
+1000947;M;54;Non;Non;25k - 50k;100k - 200k;Private;Van;0;6.0;Highly Urban/ Urban;14/05/2022 09:17;dev_express;200 - 300
+1000948;F;81;Non;Oui;100k - 150k;0 - 100k;Private;z_SUV;0;13.0;Highly Urban/ Urban;06/05/2022 04:55;dev_premium;500 - 600
+1000949;M;59;Non;Non;25k - 50k;100k - 200k;Commercial;Pickup;2;10.0;Highly Urban/ Urban;25/04/2022 02:13;dev_premium;400 - 500
+1000950;F;32;Non;Non;25k - 50k;100k - 200k;Private;z_SUV;6;13.0;Highly Urban/ Urban;18/03/2022 15:22;dev_premium;400 - 500
+1000951;F;37;Non;Non;200k +;500k +;Private;Minivan;0;17.0;Highly Urban/ Urban;15/04/2022 20:51;dev_integral;300 - 400
+1000952;F;68;Non;Non;100k - 150k;300k - 400k;Commercial;Pickup;0;9.0;Highly Urban/ Urban;20/01/2022 21:33;dev_premium;400 - 500
+1000953;F;14;Non;Non;Non renseigné;Non renseigné;Commercial;z_SUV;4;9.0;Highly Urban/ Urban;14/03/2022 05:31;dev_vip;700 - 800
+1000954;M;90;Non;Non;50k - 75k;100k - 200k;Private;Sports Car;3;12.0;Highly Urban/ Urban;08/01/2022 07:30;dev_express;200 - 300
+1000955;F;76;Non;Oui;0 - 10k;0 - 100k;Private;Sports Car;0;6.0;Highly Urban/ Urban;21/04/2022 14:09;dev_integral;200 - 300
+1000956;F;87;Non;Non;25k - 50k;100k - 200k;Private;z_SUV;4;;Highly Urban/ Urban;19/02/2022 17:32;dev_premium;500 - 600
+1000957;M;88;Non;Oui;50k - 75k;0 - 100k;Commercial;Panel Truck;2;8.0;Highly Urban/ Urban;04/04/2022 09:50;dev_integral;300 - 400
+1000958;M;40;Oui;Oui;100k - 150k;200k - 300k;Private;z_SUV;4;6.0;z_Highly Rural/ Rural;17/01/2022 08:07;dev_premium;300 - 400
+1000959;F;41;Non;Non;150k - 200k;0 - 100k;Commercial;Panel Truck;5;12.0;Highly Urban/ Urban;14/01/2022 22:35;dev_express;200 - 300
+1000960;M;57;Non;Non;100k - 150k;300k - 400k;Commercial;Van;4;13.0;Highly Urban/ Urban;01/02/2022 10:47;dev_integral;300 - 400
+1000961;F;62;Non;Non;50k - 75k;0 - 100k;Private;z_SUV;0;1.0;Highly Urban/ Urban;03/04/2022 06:07;dev_integral;300 - 400
+1000962;F;62;Non;Non;25k - 50k;0 - 100k;Private;Minivan;5;15.0;z_Highly Rural/ Rural;25/02/2022 19:43;dev_integral;300 - 400
+1000963;M;10;Oui;Oui;10k - 25k;0 - 100k;Private;z_SUV;0;5.0;Highly Urban/ Urban;14/05/2022 23:10;dev_express;200 - 300
+1000964;M;43;Non;Non;10k - 25k;0 - 100k;Private;Pickup;2;1.0;Highly Urban/ Urban;01/02/2022 20:17;dev_express;200 - 300
+1000965;F;7;Non;Non;150k - 200k;0 - 100k;Private;Minivan;1;16.0;Highly Urban/ Urban;09/02/2022 10:27;dev_premium;400 - 500
+1000966;M;79;Non;Oui;50k - 75k;200k - 300k;Private;Pickup;3;9.0;Highly Urban/ Urban;13/01/2022 10:00;dev_integral;300 - 400
+1000967;M;51;Non;Non;50k - 75k;Non renseigné;Private;z_SUV;0;8.0;Highly Urban/ Urban;14/05/2022 03:38;dev_express;200 - 300
+1000968;F;54;Non;Non;75k - 100k;200k - 300k;Private;z_SUV;3;;Highly Urban/ Urban;27/01/2022 11:04;dev_premium;400 - 500
+1000969;M;48;Non;Non;50k - 75k;200k - 300k;Commercial;Van;0;7.0;Highly Urban/ Urban;03/01/2022 08:30;dev_integral;300 - 400
+1000970;M;82;Non;Non;0 - 10k;0 - 100k;Commercial;Pickup;4;7.0;Highly Urban/ Urban;26/03/2022 11:54;dev_integral;300 - 400
+1000971;F;90;Non;Oui;25k - 50k;0 - 100k;Private;Minivan;0;10.0;Highly Urban/ Urban;07/03/2022 22:55;dev_integral;300 - 400
+1000972;M;63;Non;Non;10k - 25k;Non renseigné;Commercial;z_SUV;0;7.0;Highly Urban/ Urban;01/03/2022 05:37;dev_integral;200 - 300
+1000973;M;66;Non;Non;75k - 100k;200k - 300k;Commercial;z_SUV;0;13.0;Highly Urban/ Urban;04/05/2022 07:09;dev_integral;300 - 400
+1000974;F;10;Non;Non;50k - 75k;0 - 100k;Commercial;z_SUV;0;12.0;Highly Urban/ Urban;04/02/2022 19:41;dev_express;200 - 300
+1000975;M;88;Non;Non;25k - 50k;100k - 200k;Commercial;Pickup;6;9.0;Highly Urban/ Urban;26/04/2022 10:16;dev_premium;300 - 400
+1000976;F;53;Non;Non;75k - 100k;0 - 100k;Private;Minivan;1;7.0;Highly Urban/ Urban;02/01/2022 05:31;dev_integral;300 - 400
+1000977;M;59;Non;Non;100k - 150k;300k - 400k;Private;Minivan;7;22.0;Highly Urban/ Urban;26/03/2022 09:04;dev_integral;300 - 400
+1000978;M;53;Non;Non;10k - 25k;0 - 100k;Private;Van;3;1.0;Highly Urban/ Urban;16/01/2022 22:31;dev_integral;300 - 400
+1000979;F;81;Non;Oui;50k - 75k;200k - 300k;Private;Sports Car;0;;Highly Urban/ Urban;26/05/2022 01:56;dev_integral;300 - 400
+1000980;M;87;Non;Non;50k - 75k;100k - 200k;Commercial;Pickup;0;1.0;Highly Urban/ Urban;24/03/2022 15:49;dev_express;200 - 300
+1000981;M;53;Oui;Oui;25k - 50k;100k - 200k;Private;Sports Car;2;1.0;z_Highly Rural/ Rural;20/04/2022 06:44;dev_express;200 - 300
+1000982;M;47;Non;Non;75k - 100k;0 - 100k;Private;Pickup;0;9.0;Highly Urban/ Urban;11/05/2022 12:25;dev_integral;300 - 400
+1000983;M;54;Non;Non;25k - 50k;100k - 200k;Commercial;Minivan;0;10.0;Highly Urban/ Urban;13/01/2022 05:16;dev_express;200 - 300
+1000984;F;52;Non;Non;75k - 100k;300k - 400k;Private;Minivan;2;9.0;Highly Urban/ Urban;21/03/2022 21:34;dev_express;200 - 300
+1000985;F;41;Non;Non;100k - 150k;300k - 400k;Private;Minivan;0;11.0;z_Highly Rural/ Rural;18/01/2022 19:42;dev_express;200 - 300
+1000986;F;66;Non;Non;50k - 75k;100k - 200k;Commercial;z_SUV;1;1.0;Highly Urban/ Urban;13/04/2022 16:21;dev_express;200 - 300
+1000987;F;76;Non;Non;Non renseigné;200k - 300k;Commercial;Pickup;0;15.0;Highly Urban/ Urban;24/04/2022 13:56;dev_express;200 - 300
+1000988;M;62;Non;Non;0 - 10k;0 - 100k;Commercial;Pickup;4;7.0;Highly Urban/ Urban;10/02/2022 20:57;dev_premium;500 - 600
+1000989;F;73;Non;Non;0 - 10k;0 - 100k;Private;Minivan;0;1.0;z_Highly Rural/ Rural;28/02/2022 13:38;dev_integral;200 - 300
+1000990;M;65;Non;Oui;0 - 10k;0 - 100k;Private;Pickup;0;8.0;z_Highly Rural/ Rural;05/02/2022 23:52;dev_express;200 - 300
+1000991;M;78;Non;Non;75k - 100k;200k - 300k;Private;Pickup;1;9.0;Highly Urban/ Urban;27/03/2022 09:37;dev_express;200 - 300
+1000992;F;36;Non;Non;Non renseigné;0 - 100k;Private;z_SUV;2;7.0;z_Highly Rural/ Rural;05/01/2022 09:36;dev_express;200 - 300
+1000993;M;55;Non;Non;50k - 75k;200k - 300k;Private;Minivan;2;14.0;Highly Urban/ Urban;03/05/2022 13:03;dev_express;200 - 300
+1000994;M;25;Non;Non;25k - 50k;200k - 300k;Commercial;z_SUV;0;1.0;Highly Urban/ Urban;26/03/2022 15:22;dev_express;200 - 300
+1000995;F;80;Non;Non;25k - 50k;100k - 200k;Commercial;Panel Truck;1;15.0;Highly Urban/ Urban;31/01/2022 22:44;dev_express;200 - 300
+1000996;F;62;Non;Non;100k - 150k;300k - 400k;Private;Minivan;1;20.0;Highly Urban/ Urban;30/04/2022 07:11;dev_express;200 - 300
+1000997;F;1;Non;Oui;75k - 100k;0 - 100k;Commercial;Panel Truck;0;13.0;Highly Urban/ Urban;04/02/2022 16:10;dev_premium;500 - 600
+1000998;M;80;Non;Oui;25k - 50k;0 - 100k;Private;Sports Car;4;9.0;z_Highly Rural/ Rural;20/01/2022 00:18;dev_integral;300 - 400
+1000999;F;59;Non;Non;100k - 150k;400k - 500k;Private;Minivan;0;19.0;Highly Urban/ Urban;22/03/2022 00:59;dev_integral;300 - 400
+1001000;M;72;Non;Oui;0 - 10k;100k - 200k;Private;Sports Car;0;13.0;Highly Urban/ Urban;31/05/2022 06:29;dev_premium;400 - 500
+1001001;M;41;Non;Non;Non renseigné;200k - 300k;Commercial;Sports Car;4;1.0;Highly Urban/ Urban;05/01/2022 05:06;dev_integral;200 - 300
+1001002;F;50;Non;Oui;0 - 10k;0 - 100k;Private;Sports Car;10;0.0;Highly Urban/ Urban;23/04/2022 05:49;dev_express;200 - 300
+1001003;F;31;Non;Non;75k - 100k;300k - 400k;Private;z_SUV;0;1.0;z_Highly Rural/ Rural;02/05/2022 13:16;dev_express;200 - 300
+1001004;F;11;Oui;Oui;25k - 50k;100k - 200k;Commercial;Minivan;0;10.0;Highly Urban/ Urban;11/04/2022 11:41;dev_integral;200 - 300
+1001005;M;33;Non;Non;75k - 100k;200k - 300k;Private;z_SUV;4;1.0;Highly Urban/ Urban;04/02/2022 15:17;dev_express;200 - 300
+1001006;F;51;Non;Non;25k - 50k;100k - 200k;Private;Minivan;0;1.0;z_Highly Rural/ Rural;22/01/2022 15:31;dev_vip;700 - 800
+1001007;M;40;Non;Non;75k - 100k;200k - 300k;Private;Minivan;2;11.0;Highly Urban/ Urban;18/03/2022 16:21;dev_express;200 - 300
+1001008;F;53;Non;Oui;0 - 10k;0 - 100k;Private;Pickup;0;6.0;Highly Urban/ Urban;08/02/2022 16:14;dev_integral;300 - 400
+1001009;M;24;Oui;Oui;0 - 10k;0 - 100k;Commercial;z_SUV;0;8.0;z_Highly Rural/ Rural;21/02/2022 08:59;dev_express;200 - 300
+1001010;F;25;Non;Non;100k - 150k;200k - 300k;Commercial;Van;2;;Highly Urban/ Urban;13/01/2022 01:41;dev_integral;300 - 400
+1001011;F;29;Oui;Oui;50k - 75k;200k - 300k;Private;Pickup;0;11.0;Highly Urban/ Urban;20/05/2022 20:26;dev_express;200 - 300
+1001012;M;72;Non;Oui;25k - 50k;100k - 200k;Commercial;Pickup;2;1.0;Highly Urban/ Urban;19/02/2022 12:40;dev_express;200 - 300
+1001013;F;14;Non;Oui;50k - 75k;200k - 300k;Commercial;Pickup;0;1.0;Highly Urban/ Urban;13/04/2022 06:07;dev_premium;500 - 600
+1001014;F;52;Non;Non;50k - 75k;0 - 100k;Commercial;z_SUV;0;8.0;z_Highly Rural/ Rural;25/03/2022 10:32;dev_integral;300 - 400
+1001015;F;24;Non;Non;75k - 100k;200k - 300k;Private;Sports Car;1;17.0;Highly Urban/ Urban;08/05/2022 03:44;dev_express;200 - 300
+1001016;M;68;Non;Oui;0 - 10k;0 - 100k;Commercial;z_SUV;3;8.0;Highly Urban/ Urban;08/01/2022 09:26;dev_express;200 - 300
+1001017;F;81;Non;Non;0 - 10k;0 - 100k;Commercial;Pickup;2;1.0;z_Highly Rural/ Rural;20/02/2022 21:02;dev_integral;200 - 300
+1001018;F;43;Non;Non;100k - 150k;300k - 400k;Commercial;Sports Car;1;6.0;Highly Urban/ Urban;17/02/2022 13:28;dev_integral;300 - 400
+1001019;M;52;Non;Oui;50k - 75k;0 - 100k;Private;Minivan;0;9.0;Highly Urban/ Urban;24/01/2022 09:56;dev_integral;300 - 400
+1001020;F;76;Oui;Oui;50k - 75k;200k - 300k;Private;Sports Car;4;14.0;Highly Urban/ Urban;23/05/2022 04:04;dev_integral;300 - 400
+1001021;M;68;Non;Non;50k - 75k;0 - 100k;Commercial;z_SUV;0;11.0;Highly Urban/ Urban;12/05/2022 14:06;dev_express;200 - 300
+1001022;M;82;Oui;Oui;50k - 75k;200k - 300k;Private;z_SUV;0;6.0;Highly Urban/ Urban;25/02/2022 05:46;dev_integral;200 - 300
+1001023;F;60;Oui;Oui;0 - 10k;0 - 100k;Private;Minivan;0;;Highly Urban/ Urban;20/05/2022 20:57;dev_express;200 - 300
+1001024;F;72;Non;Oui;150k - 200k;0 - 100k;Commercial;Panel Truck;0;7.0;Highly Urban/ Urban;22/02/2022 03:31;dev_premium;300 - 400
+1001025;F;22;Oui;Oui;25k - 50k;100k - 200k;Private;Minivan;0;6.0;Highly Urban/ Urban;23/02/2022 09:01;dev_express;200 - 300
+1001026;M;4;Non;Oui;50k - 75k;200k - 300k;Private;z_SUV;1;1.0;Highly Urban/ Urban;28/03/2022 01:18;dev_premium;500 - 600
+1001027;F;51;Non;Non;0 - 10k;Non renseigné;Commercial;z_SUV;0;7.0;z_Highly Rural/ Rural;02/05/2022 08:14;dev_express;200 - 300
+1001028;F;54;Non;Oui;10k - 25k;0 - 100k;Private;Sports Car;6;4.0;Highly Urban/ Urban;20/03/2022 06:02;dev_integral;300 - 400
+1001029;M;12;Non;Oui;0 - 10k;100k - 200k;Commercial;z_SUV;4;10.0;Highly Urban/ Urban;23/04/2022 18:46;dev_integral;300 - 400
+1001030;M;76;Non;Non;75k - 100k;Non renseigné;Commercial;Minivan;11;7.0;Highly Urban/ Urban;11/04/2022 13:58;dev_express;200 - 300
+1001031;M;46;Non;Non;25k - 50k;200k - 300k;Commercial;Van;1;12.0;Highly Urban/ Urban;23/04/2022 16:15;dev_premium;300 - 400
+1001032;M;50;Non;Non;10k - 25k;100k - 200k;Commercial;Panel Truck;0;1.0;z_Highly Rural/ Rural;13/04/2022 06:30;dev_express;200 - 300
+1001033;M;8;Non;Non;50k - 75k;200k - 300k;Commercial;Pickup;2;10.0;z_Highly Rural/ Rural;26/03/2022 17:10;dev_integral;200 - 300
+1001034;F;48;Non;Non;75k - 100k;200k - 300k;Commercial;Panel Truck;0;6.0;Highly Urban/ Urban;28/02/2022 13:20;dev_integral;200 - 300
+1001035;F;72;Non;Non;150k - 200k;0 - 100k;Private;Minivan;0;;Highly Urban/ Urban;18/03/2022 02:48;dev_integral;300 - 400
+1001036;M;55;Oui;Oui;75k - 100k;0 - 100k;Commercial;Minivan;4;1.0;Highly Urban/ Urban;17/02/2022 04:34;dev_express;200 - 300
+1001037;M;78;Non;Non;50k - 75k;200k - 300k;Commercial;Minivan;4;10.0;Highly Urban/ Urban;23/02/2022 14:57;dev_premium;300 - 400
+1001038;F;73;Non;Non;50k - 75k;100k - 200k;Private;Minivan;0;;Highly Urban/ Urban;23/01/2022 05:09;dev_integral;200 - 300
+1001039;M;25;Non;Oui;10k - 25k;100k - 200k;Private;Minivan;0;;Highly Urban/ Urban;03/05/2022 10:57;dev_integral;200 - 300
+1001040;M;65;Non;Non;25k - 50k;100k - 200k;Private;Van;1;12.0;Highly Urban/ Urban;17/01/2022 12:09;dev_premium;500 - 600
+1001041;M;45;Non;Non;100k - 150k;300k - 400k;Commercial;z_SUV;1;1.0;Highly Urban/ Urban;17/05/2022 21:52;dev_integral;300 - 400
+1001042;F;14;Oui;Oui;100k - 150k;300k - 400k;Commercial;Panel Truck;3;1.0;Highly Urban/ Urban;08/02/2022 17:21;dev_premium;400 - 500
+1001043;M;54;Non;Oui;25k - 50k;200k - 300k;Private;z_SUV;0;8.0;Highly Urban/ Urban;06/01/2022 07:34;dev_express;200 - 300
+1001044;F;63;Non;Non;150k - 200k;0 - 100k;Commercial;Pickup;0;;Highly Urban/ Urban;18/03/2022 04:48;dev_express;200 - 300
+1001045;F;88;Non;Non;50k - 75k;0 - 100k;Private;Sports Car;4;8.0;Highly Urban/ Urban;20/04/2022 00:32;dev_express;200 - 300
+1001046;F;4;Non;Non;50k - 75k;0 - 100k;Private;z_SUV;6;16.0;Highly Urban/ Urban;05/01/2022 23:57;dev_integral;300 - 400
+1001047;F;15;Non;Oui;Non renseigné;0 - 100k;Private;Minivan;1;8.0;Highly Urban/ Urban;07/03/2022 13:17;dev_express;200 - 300
+1001048;M;32;Non;Non;50k - 75k;100k - 200k;Private;Minivan;0;10.0;Highly Urban/ Urban;08/04/2022 06:36;dev_premium;400 - 500
+1001049;F;66;Non;Non;100k - 150k;300k - 400k;Commercial;Panel Truck;3;13.0;Highly Urban/ Urban;13/01/2022 13:58;dev_integral;300 - 400
+1001050;M;50;Non;Non;100k - 150k;300k - 400k;Private;Minivan;0;19.0;Highly Urban/ Urban;22/01/2022 04:31;dev_integral;200 - 300
+1001051;M;70;Oui;Oui;100k - 150k;300k - 400k;Private;z_SUV;1;11.0;Highly Urban/ Urban;13/05/2022 07:42;dev_premium;400 - 500
+1001052;F;83;Oui;Oui;25k - 50k;100k - 200k;Private;z_SUV;2;19.0;Highly Urban/ Urban;01/03/2022 00:11;dev_express;200 - 300
+1001053;M;34;Non;Non;0 - 10k;0 - 100k;Private;Sports Car;2;5.0;z_Highly Rural/ Rural;17/05/2022 00:52;dev_integral;300 - 400
+1001054;M;76;Non;Non;200k +;0 - 100k;Private;Minivan;2;19.0;Highly Urban/ Urban;27/02/2022 06:06;dev_integral;300 - 400
+1001055;M;2;Non;Oui;10k - 25k;0 - 100k;Private;z_SUV;2;8.0;Highly Urban/ Urban;14/01/2022 18:08;dev_express;200 - 300
+1001056;M;38;Oui;Oui;0 - 10k;100k - 200k;Private;z_SUV;4;11.0;z_Highly Rural/ Rural;12/04/2022 03:39;dev_vip;500 - 600
+1001057;F;59;Non;Non;Non renseigné;0 - 100k;Private;z_SUV;0;12.0;Highly Urban/ Urban;03/04/2022 21:09;dev_integral;300 - 400
+1001058;M;68;Oui;Oui;25k - 50k;100k - 200k;Commercial;Pickup;0;7.0;Highly Urban/ Urban;15/02/2022 06:50;dev_premium;300 - 400
+1001059;F;51;Non;Non;50k - 75k;200k - 300k;Commercial;Panel Truck;0;15.0;Highly Urban/ Urban;21/04/2022 08:04;dev_express;200 - 300
+1001060;M;16;Non;Oui;0 - 10k;100k - 200k;Private;Sports Car;0;1.0;z_Highly Rural/ Rural;13/04/2022 17:06;dev_premium;400 - 500
+1001061;M;61;Non;Non;10k - 25k;100k - 200k;Commercial;Minivan;2;8.0;Highly Urban/ Urban;11/02/2022 09:08;dev_premium;400 - 500
+1001062;F;64;Non;Non;25k - 50k;Non renseigné;Commercial;Pickup;6;1.0;Highly Urban/ Urban;13/02/2022 07:43;dev_premium;300 - 400
+1001063;M;70;Non;Non;100k - 150k;0 - 100k;Private;z_SUV;1;15.0;Highly Urban/ Urban;16/05/2022 04:25;dev_premium;300 - 400
+1001064;F;55;Oui;Oui;150k - 200k;400k - 500k;Private;Minivan;0;20.0;Highly Urban/ Urban;18/03/2022 14:59;dev_integral;300 - 400
+1001065;F;67;Non;Non;50k - 75k;200k - 300k;Private;Minivan;5;;Highly Urban/ Urban;18/01/2022 16:49;dev_express;200 - 300
+1001066;F;14;Non;Non;150k - 200k;400k - 500k;Commercial;Panel Truck;1;12.0;Highly Urban/ Urban;23/05/2022 10:42;dev_express;200 - 300
+1001067;M;70;Non;Non;150k - 200k;400k - 500k;Private;z_SUV;0;16.0;Highly Urban/ Urban;16/03/2022 01:51;dev_express;200 - 300
+1001068;M;16;Non;Non;150k - 200k;400k - 500k;Private;Sports Car;0;;Highly Urban/ Urban;04/04/2022 23:29;dev_integral;300 - 400
+1001069;M;46;Non;Oui;25k - 50k;Non renseigné;Private;Sports Car;0;1.0;Highly Urban/ Urban;31/03/2022 19:33;dev_integral;200 - 300
+1001070;F;48;Non;Non;50k - 75k;200k - 300k;Private;Minivan;1;22.0;Highly Urban/ Urban;28/02/2022 17:00;dev_express;200 - 300
+1001071;M;58;Non;Non;25k - 50k;100k - 200k;Private;Minivan;0;1.0;z_Highly Rural/ Rural;16/04/2022 11:32;dev_premium;400 - 500
+1001072;F;45;Non;Non;25k - 50k;0 - 100k;Private;z_SUV;4;15.0;Highly Urban/ Urban;12/02/2022 15:16;dev_premium;400 - 500
+1001073;M;49;Non;Non;0 - 10k;0 - 100k;Private;z_SUV;0;13.0;z_Highly Rural/ Rural;29/01/2022 14:32;dev_express;200 - 300
+1001074;F;51;Non;Non;10k - 25k;100k - 200k;Private;z_SUV;0;1.0;Highly Urban/ Urban;30/04/2022 23:46;dev_express;200 - 300
+1001075;F;73;Non;Non;75k - 100k;0 - 100k;Commercial;Van;0;18.0;Highly Urban/ Urban;25/02/2022 17:52;dev_integral;300 - 400
+1001076;M;14;Non;Oui;25k - 50k;100k - 200k;Private;Pickup;3;1.0;Highly Urban/ Urban;30/04/2022 20:11;dev_express;200 - 300
+1001077;F;79;Non;Non;75k - 100k;200k - 300k;Private;Minivan;2;17.0;Highly Urban/ Urban;25/02/2022 11:45;dev_express;200 - 300
+1001078;F;54;Non;Non;25k - 50k;0 - 100k;Private;Minivan;1;1.0;z_Highly Rural/ Rural;06/05/2022 12:51;dev_integral;300 - 400
+1001079;F;57;Oui;Oui;10k - 25k;100k - 200k;Private;Pickup;2;1.0;Highly Urban/ Urban;16/03/2022 23:26;dev_integral;300 - 400
+1001080;F;37;Non;Non;25k - 50k;100k - 200k;Private;Minivan;0;7.0;Highly Urban/ Urban;06/04/2022 16:10;dev_integral;300 - 400
+1001081;F;65;Non;Non;50k - 75k;0 - 100k;Private;Minivan;5;13.0;Highly Urban/ Urban;06/03/2022 01:34;dev_integral;300 - 400
+1001082;M;90;Non;Non;200k +;Non renseigné;Private;Minivan;0;16.0;Highly Urban/ Urban;04/03/2022 02:26;dev_express;200 - 300
+1001083;F;69;Non;Non;50k - 75k;100k - 200k;Private;Sports Car;0;10.0;Highly Urban/ Urban;06/05/2022 07:53;dev_express;200 - 300
+1001084;F;13;Non;Oui;50k - 75k;100k - 200k;Private;Pickup;3;21.0;Highly Urban/ Urban;01/02/2022 02:51;dev_integral;300 - 400
+1001085;M;61;Non;Oui;100k - 150k;300k - 400k;Commercial;Panel Truck;1;23.0;Highly Urban/ Urban;16/03/2022 12:50;dev_express;200 - 300
+1001086;F;57;Non;Non;50k - 75k;200k - 300k;Commercial;Panel Truck;2;8.0;Highly Urban/ Urban;13/03/2022 03:20;dev_premium;300 - 400
+1001087;M;2;Non;Non;75k - 100k;200k - 300k;Commercial;Pickup;0;1.0;Highly Urban/ Urban;16/04/2022 09:07;dev_integral;300 - 400
+1001088;M;39;Non;Non;50k - 75k;200k - 300k;Commercial;Panel Truck;3;1.0;Highly Urban/ Urban;05/03/2022 10:49;dev_express;200 - 300
+1001089;M;60;Non;Non;100k - 150k;0 - 100k;Private;Minivan;6;17.0;Highly Urban/ Urban;19/03/2022 05:51;dev_express;200 - 300
+1001090;F;38;Non;Oui;0 - 10k;0 - 100k;Commercial;Pickup;0;1.0;z_Highly Rural/ Rural;01/05/2022 13:37;dev_premium;400 - 500
+1001091;M;13;Non;Non;25k - 50k;100k - 200k;Commercial;Sports Car;5;9.0;Highly Urban/ Urban;19/01/2022 12:58;dev_integral;300 - 400
+1001092;F;8;Non;Non;25k - 50k;100k - 200k;Private;Pickup;3;11.0;Highly Urban/ Urban;23/01/2022 02:06;dev_integral;200 - 300
+1001093;F;57;Non;Non;Non renseigné;100k - 200k;Private;Minivan;0;1.0;Highly Urban/ Urban;15/03/2022 01:06;dev_integral;200 - 300
+1001094;F;10;Non;Non;25k - 50k;100k - 200k;Commercial;Sports Car;0;1.0;Highly Urban/ Urban;14/01/2022 13:28;dev_integral;300 - 400
+1001095;M;79;Non;Non;25k - 50k;0 - 100k;Private;Sports Car;3;1.0;Highly Urban/ Urban;22/01/2022 06:26;dev_express;200 - 300
+1001096;F;61;Non;Non;75k - 100k;0 - 100k;Private;Sports Car;0;15.0;Highly Urban/ Urban;03/03/2022 16:50;dev_integral;200 - 300
+1001097;M;27;Non;Oui;Non renseigné;0 - 100k;Private;z_SUV;1;8.0;z_Highly Rural/ Rural;01/04/2022 06:27;dev_integral;300 - 400
+1001098;M;67;Non;Non;50k - 75k;Non renseigné;Commercial;Van;2;1.0;Highly Urban/ Urban;06/04/2022 11:25;dev_integral;300 - 400
+1001099;M;67;Non;Non;100k - 150k;Non renseigné;Commercial;Pickup;0;16.0;Highly Urban/ Urban;16/05/2022 07:44;dev_express;200 - 300
+1001100;M;15;Non;Non;50k - 75k;0 - 100k;Private;z_SUV;0;11.0;Highly Urban/ Urban;15/02/2022 05:03;dev_express;200 - 300
+1001101;F;86;Non;Non;10k - 25k;0 - 100k;Private;z_SUV;2;4.0;z_Highly Rural/ Rural;16/02/2022 20:38;dev_integral;300 - 400
+1001102;F;58;Non;Non;50k - 75k;0 - 100k;Private;z_SUV;7;6.0;Highly Urban/ Urban;14/03/2022 19:17;dev_express;200 - 300
+1001103;F;81;Non;Non;Non renseigné;100k - 200k;Private;z_SUV;0;5.0;z_Highly Rural/ Rural;22/04/2022 23:48;dev_integral;300 - 400
+1001104;M;39;Non;Non;25k - 50k;100k - 200k;Private;Minivan;2;14.0;Highly Urban/ Urban;31/05/2022 09:26;dev_integral;300 - 400
+1001105;F;42;Non;Non;0 - 10k;100k - 200k;Private;z_SUV;0;;Highly Urban/ Urban;25/02/2022 10:22;dev_integral;300 - 400
+1001106;F;20;Non;Non;10k - 25k;0 - 100k;Private;Minivan;0;4.0;Highly Urban/ Urban;12/03/2022 18:17;dev_express;200 - 300
+1001107;M;50;Non;Non;0 - 10k;100k - 200k;Private;z_SUV;0;1.0;z_Highly Rural/ Rural;25/05/2022 17:39;dev_express;200 - 300
+1001108;F;48;Non;Oui;10k - 25k;100k - 200k;Private;z_SUV;3;1.0;Highly Urban/ Urban;11/02/2022 11:55;dev_express;200 - 300
+1001109;M;59;Oui;Oui;50k - 75k;200k - 300k;Commercial;Panel Truck;0;12.0;Highly Urban/ Urban;09/02/2022 03:38;dev_express;200 - 300
+1001110;F;57;Non;Oui;25k - 50k;0 - 100k;Private;z_SUV;0;12.0;Highly Urban/ Urban;23/04/2022 08:07;dev_integral;200 - 300
+1001111;F;57;Non;Non;50k - 75k;200k - 300k;Private;z_SUV;2;10.0;Highly Urban/ Urban;06/03/2022 05:04;dev_integral;300 - 400
+1001112;M;28;Non;Oui;25k - 50k;100k - 200k;Private;z_SUV;2;1.0;Highly Urban/ Urban;18/03/2022 00:31;dev_express;200 - 300
+1001113;F;70;Non;Oui;25k - 50k;0 - 100k;Private;Pickup;10;1.0;Highly Urban/ Urban;29/03/2022 15:07;dev_express;200 - 300
+1001114;M;15;Non;Non;25k - 50k;100k - 200k;Commercial;Pickup;0;1.0;z_Highly Rural/ Rural;30/03/2022 05:03;dev_express;200 - 300
+1001115;M;67;Non;Oui;100k - 150k;300k - 400k;Private;Minivan;0;1.0;Highly Urban/ Urban;18/05/2022 15:04;dev_express;200 - 300
+1001116;M;58;Oui;Oui;50k - 75k;200k - 300k;Private;Minivan;6;9.0;Highly Urban/ Urban;01/05/2022 13:54;dev_integral;200 - 300
+1001117;M;84;Non;Non;100k - 150k;0 - 100k;Private;Minivan;0;18.0;z_Highly Rural/ Rural;04/03/2022 08:26;dev_express;200 - 300
+1001118;M;43;Oui;Oui;100k - 150k;300k - 400k;Private;Minivan;0;14.0;Highly Urban/ Urban;12/03/2022 22:34;dev_premium;500 - 600
+1001119;M;56;Non;Non;10k - 25k;100k - 200k;Commercial;Minivan;3;10.0;Highly Urban/ Urban;14/03/2022 18:09;dev_express;200 - 300
+1001120;F;22;Non;Non;50k - 75k;200k - 300k;Private;Minivan;5;18.0;Highly Urban/ Urban;29/01/2022 04:45;dev_premium;300 - 400
+1001121;F;72;Non;Non;10k - 25k;0 - 100k;Private;Sports Car;3;7.0;z_Highly Rural/ Rural;09/05/2022 20:08;dev_premium;500 - 600
+1001122;F;47;Non;Non;100k - 150k;300k - 400k;Private;Sports Car;0;18.0;Highly Urban/ Urban;15/01/2022 15:51;dev_premium;400 - 500
+1001123;M;14;Non;Non;25k - 50k;100k - 200k;Private;Minivan;1;1.0;z_Highly Rural/ Rural;11/05/2022 19:20;dev_express;200 - 300
+1001124;M;57;Non;Oui;75k - 100k;200k - 300k;Private;z_SUV;0;;Highly Urban/ Urban;22/05/2022 23:11;dev_integral;300 - 400
+1001125;M;57;Non;Oui;25k - 50k;100k - 200k;Private;Sports Car;0;15.0;Highly Urban/ Urban;16/03/2022 05:57;dev_premium;500 - 600
+1001126;F;80;Non;Non;100k - 150k;200k - 300k;Private;z_SUV;4;15.0;Highly Urban/ Urban;10/02/2022 06:27;dev_express;200 - 300
+1001127;F;41;Non;Oui;0 - 10k;0 - 100k;Private;z_SUV;4;6.0;Highly Urban/ Urban;30/05/2022 19:20;dev_express;200 - 300
+1001128;M;3;Non;Non;0 - 10k;0 - 100k;Commercial;z_SUV;1;11.0;Highly Urban/ Urban;10/01/2022 18:50;dev_integral;300 - 400
+1001129;M;27;Oui;Oui;10k - 25k;0 - 100k;Private;z_SUV;2;6.0;Highly Urban/ Urban;21/05/2022 14:48;dev_integral;200 - 300
+1001130;M;34;Non;Non;100k - 150k;300k - 400k;Private;Van;4;1.0;Highly Urban/ Urban;09/04/2022 07:59;dev_express;200 - 300
+1001131;F;61;Non;Oui;50k - 75k;100k - 200k;Commercial;Pickup;5;11.0;Highly Urban/ Urban;13/02/2022 15:50;dev_vip;800 - 900
+1001132;M;45;Non;Non;10k - 25k;0 - 100k;Private;z_SUV;7;6.0;z_Highly Rural/ Rural;25/02/2022 01:50;dev_integral;200 - 300
+1001133;F;71;Oui;Oui;75k - 100k;200k - 300k;Private;Minivan;6;12.0;Highly Urban/ Urban;02/01/2022 16:50;dev_integral;300 - 400
+1001134;M;56;Non;Oui;50k - 75k;200k - 300k;Private;Sports Car;0;;Highly Urban/ Urban;02/04/2022 01:41;dev_express;200 - 300
+1001135;M;50;Non;Oui;Non renseigné;Non renseigné;Private;Pickup;2;1.0;z_Highly Rural/ Rural;03/05/2022 20:04;dev_premium;400 - 500
+1001136;M;55;Non;Non;Non renseigné;200k - 300k;Private;Van;1;14.0;Highly Urban/ Urban;25/04/2022 17:47;dev_express;200 - 300
+1001137;F;41;Non;Non;0 - 10k;100k - 200k;Private;Pickup;4;16.0;z_Highly Rural/ Rural;08/03/2022 01:20;dev_integral;300 - 400
+1001138;F;28;Non;Oui;25k - 50k;0 - 100k;Commercial;Minivan;6;;Highly Urban/ Urban;31/05/2022 07:38;dev_integral;300 - 400
+1001139;M;43;Non;Oui;Non renseigné;0 - 100k;Commercial;Pickup;0;8.0;z_Highly Rural/ Rural;21/01/2022 17:55;dev_integral;200 - 300
+1001140;M;73;Non;Non;10k - 25k;100k - 200k;Private;z_SUV;1;1.0;Highly Urban/ Urban;27/04/2022 00:55;dev_integral;300 - 400
+1001141;F;31;Non;Oui;25k - 50k;100k - 200k;Private;Minivan;0;1.0;Highly Urban/ Urban;25/04/2022 21:28;dev_integral;200 - 300
+1001142;M;84;Non;Oui;100k - 150k;300k - 400k;Private;z_SUV;0;15.0;Highly Urban/ Urban;05/03/2022 04:31;dev_integral;200 - 300
+1001143;F;2;Non;Non;0 - 10k;0 - 100k;Private;z_SUV;0;1.0;Highly Urban/ Urban;21/01/2022 20:31;dev_integral;200 - 300
+1001144;M;29;Non;Non;50k - 75k;200k - 300k;Commercial;Panel Truck;4;15.0;Highly Urban/ Urban;25/04/2022 02:27;dev_integral;300 - 400
+1001145;M;79;Non;Non;10k - 25k;100k - 200k;Private;Minivan;1;14.0;Highly Urban/ Urban;29/03/2022 10:10;dev_integral;200 - 300
+1001146;M;45;Non;Non;0 - 10k;0 - 100k;Commercial;Sports Car;6;10.0;Highly Urban/ Urban;13/02/2022 12:49;dev_integral;200 - 300
+1001147;M;35;Non;Non;10k - 25k;0 - 100k;Private;Sports Car;0;1.0;z_Highly Rural/ Rural;11/02/2022 19:49;dev_express;200 - 300
+1001148;F;37;Non;Non;0 - 10k;0 - 100k;Commercial;Panel Truck;0;9.0;z_Highly Rural/ Rural;28/05/2022 14:51;dev_integral;200 - 300
+1001149;M;55;Non;Non;50k - 75k;100k - 200k;Private;Minivan;4;8.0;Highly Urban/ Urban;03/04/2022 10:24;dev_integral;300 - 400
+1001150;F;34;Non;Non;10k - 25k;100k - 200k;Private;z_SUV;3;9.0;z_Highly Rural/ Rural;20/05/2022 00:54;dev_integral;300 - 400
+1001151;M;70;Non;Non;75k - 100k;200k - 300k;Private;Minivan;0;6.0;Highly Urban/ Urban;22/04/2022 07:51;dev_express;200 - 300
+1001152;M;88;Non;Non;50k - 75k;200k - 300k;Commercial;z_SUV;0;8.0;Highly Urban/ Urban;29/01/2022 23:53;dev_integral;300 - 400
+1001153;M;22;Non;Oui;10k - 25k;0 - 100k;Private;Minivan;3;1.0;Highly Urban/ Urban;21/05/2022 16:52;dev_integral;300 - 400
+1001154;M;24;Non;Non;Non renseigné;Non renseigné;Commercial;Minivan;0;8.0;Highly Urban/ Urban;04/05/2022 21:53;dev_integral;300 - 400
+1001155;F;68;Non;Non;25k - 50k;0 - 100k;Private;Minivan;4;12.0;Highly Urban/ Urban;25/01/2022 02:36;dev_premium;400 - 500
+1001156;M;73;Non;Non;50k - 75k;100k - 200k;Commercial;Panel Truck;0;1.0;Highly Urban/ Urban;27/01/2022 10:59;dev_integral;300 - 400
+1001157;M;91;Non;Non;75k - 100k;0 - 100k;Private;Pickup;2;17.0;Highly Urban/ Urban;11/03/2022 17:06;dev_integral;300 - 400
+1001158;F;65;Non;Oui;50k - 75k;100k - 200k;Commercial;Minivan;0;1.0;z_Highly Rural/ Rural;25/05/2022 04:29;dev_integral;300 - 400
+1001159;F;77;Non;Oui;50k - 75k;200k - 300k;Commercial;Minivan;1;5.0;Highly Urban/ Urban;20/01/2022 13:19;dev_premium;500 - 600
+1001160;F;15;Non;Non;50k - 75k;100k - 200k;Commercial;Pickup;0;1.0;Highly Urban/ Urban;22/04/2022 03:55;dev_integral;300 - 400
+1001161;F;70;Non;Non;50k - 75k;0 - 100k;Commercial;Panel Truck;7;15.0;Highly Urban/ Urban;10/02/2022 11:43;dev_integral;200 - 300
+1001162;M;52;Non;Non;150k - 200k;500k +;Commercial;Panel Truck;4;15.0;Highly Urban/ Urban;24/02/2022 22:38;dev_express;200 - 300
+1001163;F;70;Non;Non;25k - 50k;100k - 200k;Private;Sports Car;2;12.0;Highly Urban/ Urban;17/03/2022 13:01;dev_express;200 - 300
+1001164;F;21;Oui;Non;100k - 150k;300k - 400k;Private;z_SUV;4;;Highly Urban/ Urban;04/03/2022 23:01;dev_express;200 - 300
+1001165;M;39;Non;Non;10k - 25k;100k - 200k;Private;z_SUV;0;1.0;z_Highly Rural/ Rural;20/04/2022 21:31;dev_express;200 - 300
+1001166;F;62;Non;Non;50k - 75k;200k - 300k;Private;Van;4;12.0;Highly Urban/ Urban;30/01/2022 10:23;dev_express;200 - 300
+1001167;M;55;Non;Non;10k - 25k;100k - 200k;Private;Minivan;3;17.0;Highly Urban/ Urban;11/02/2022 03:05;dev_integral;200 - 300
+1001168;F;69;Non;Oui;50k - 75k;100k - 200k;Private;Sports Car;0;1.0;Highly Urban/ Urban;05/03/2022 22:31;dev_integral;200 - 300
+1001169;F;78;Non;Non;25k - 50k;100k - 200k;Commercial;Van;7;1.0;Highly Urban/ Urban;16/02/2022 21:11;dev_express;200 - 300
+1001170;F;8;Non;Non;100k - 150k;300k - 400k;Private;Van;0;12.0;Highly Urban/ Urban;25/01/2022 22:15;dev_integral;300 - 400
+1001171;F;49;Oui;Oui;100k - 150k;300k - 400k;Commercial;Pickup;0;1.0;z_Highly Rural/ Rural;06/03/2022 06:46;dev_express;200 - 300
+1001172;F;45;Oui;Oui;25k - 50k;200k - 300k;Commercial;Van;0;1.0;Highly Urban/ Urban;15/04/2022 19:54;dev_express;200 - 300
+1001173;M;48;Oui;Oui;100k - 150k;300k - 400k;Commercial;Van;0;11.0;z_Highly Rural/ Rural;24/03/2022 05:03;dev_integral;300 - 400
+1001174;F;36;Non;Non;150k - 200k;0 - 100k;Commercial;Panel Truck;3;19.0;Highly Urban/ Urban;06/02/2022 04:58;dev_integral;300 - 400
+1001175;F;67;Non;Non;50k - 75k;100k - 200k;Commercial;Pickup;1;12.0;Highly Urban/ Urban;27/03/2022 09:03;dev_integral;300 - 400
+1001176;F;71;Oui;Oui;25k - 50k;0 - 100k;Private;Van;0;;Highly Urban/ Urban;28/02/2022 04:43;dev_express;200 - 300
+1001177;F;47;Oui;Oui;25k - 50k;0 - 100k;Private;Pickup;0;7.0;Highly Urban/ Urban;17/02/2022 12:07;dev_express;200 - 300
+1001178;F;56;Non;Non;50k - 75k;Non renseigné;Private;z_SUV;3;8.0;Highly Urban/ Urban;21/03/2022 04:50;dev_integral;300 - 400
+1001179;F;52;Non;Non;25k - 50k;0 - 100k;Commercial;Panel Truck;0;1.0;Highly Urban/ Urban;29/04/2022 13:22;dev_express;200 - 300
+1001180;M;20;Non;Non;50k - 75k;0 - 100k;Private;Minivan;5;10.0;Highly Urban/ Urban;21/04/2022 12:08;dev_express;200 - 300
+1001181;F;25;Non;Non;100k - 150k;300k - 400k;Commercial;Panel Truck;2;1.0;Highly Urban/ Urban;19/01/2022 11:20;dev_integral;300 - 400
+1001182;M;73;Non;Oui;100k - 150k;300k - 400k;Private;Minivan;0;15.0;Highly Urban/ Urban;09/03/2022 20:30;dev_integral;300 - 400
+1001183;M;36;Non;Non;75k - 100k;200k - 300k;Private;Sports Car;3;17.0;Highly Urban/ Urban;01/03/2022 14:18;dev_express;200 - 300
+1001184;M;17;Non;Non;50k - 75k;0 - 100k;Private;z_SUV;0;18.0;Highly Urban/ Urban;25/02/2022 19:38;dev_express;200 - 300
+1001185;F;18;Non;Oui;75k - 100k;300k - 400k;Commercial;Minivan;0;1.0;Highly Urban/ Urban;06/04/2022 01:42;dev_integral;300 - 400
+1001186;F;70;Oui;Oui;10k - 25k;Non renseigné;Private;Sports Car;4;4.0;Highly Urban/ Urban;04/04/2022 10:25;dev_express;200 - 300
+1001187;F;36;Oui;Oui;25k - 50k;100k - 200k;Private;Minivan;5;1.0;Highly Urban/ Urban;04/02/2022 21:07;dev_express;200 - 300
+1001188;M;80;Non;Non;Non renseigné;300k - 400k;Commercial;Van;2;8.0;Highly Urban/ Urban;06/01/2022 03:31;dev_express;200 - 300
+1001189;F;20;Non;Non;25k - 50k;100k - 200k;Private;z_SUV;0;14.0;Highly Urban/ Urban;15/03/2022 18:00;dev_integral;300 - 400
+1001190;M;53;Non;Oui;75k - 100k;200k - 300k;Commercial;Van;3;1.0;Highly Urban/ Urban;23/01/2022 03:10;dev_express;200 - 300
+1001191;M;65;Non;Non;25k - 50k;0 - 100k;Private;Pickup;0;1.0;Highly Urban/ Urban;18/02/2022 02:05;dev_integral;300 - 400
+1001192;F;58;Non;Oui;10k - 25k;100k - 200k;Private;Sports Car;8;6.0;Highly Urban/ Urban;09/02/2022 05:52;dev_integral;200 - 300
+1001193;F;45;Non;Oui;50k - 75k;200k - 300k;Commercial;Pickup;0;6.0;z_Highly Rural/ Rural;07/04/2022 03:39;dev_integral;300 - 400
+1001194;F;42;Non;Non;75k - 100k;Non renseigné;Commercial;Panel Truck;0;16.0;z_Highly Rural/ Rural;03/04/2022 15:51;dev_integral;300 - 400
+1001195;F;6;Oui;Oui;0 - 10k;0 - 100k;Commercial;Pickup;0;19.0;Highly Urban/ Urban;01/03/2022 20:07;dev_integral;300 - 400
+1001196;F;54;Oui;Oui;75k - 100k;0 - 100k;Private;Minivan;5;13.0;Highly Urban/ Urban;31/03/2022 06:34;dev_premium;300 - 400
+1001197;F;46;Non;Oui;0 - 10k;0 - 100k;Private;Minivan;4;8.0;Highly Urban/ Urban;24/01/2022 07:06;dev_express;200 - 300
+1001198;F;58;Non;Non;100k - 150k;300k - 400k;Commercial;Panel Truck;1;;z_Highly Rural/ Rural;24/02/2022 16:14;dev_integral;200 - 300
+1001199;M;3;Non;Non;100k - 150k;200k - 300k;Commercial;Minivan;4;12.0;Highly Urban/ Urban;26/01/2022 07:50;dev_express;200 - 300
+1001200;M;76;Oui;Oui;Non renseigné;200k - 300k;Commercial;z_SUV;3;9.0;Highly Urban/ Urban;07/02/2022 09:30;dev_express;200 - 300
+1001201;M;38;Non;Oui;150k - 200k;400k - 500k;Private;Van;0;13.0;Highly Urban/ Urban;11/03/2022 02:37;dev_vip;900 - 1000
+1001202;F;69;Non;Non;25k - 50k;0 - 100k;Private;Minivan;2;9.0;z_Highly Rural/ Rural;08/03/2022 10:38;dev_integral;300 - 400
+1001203;M;37;Non;Non;100k - 150k;0 - 100k;Private;Minivan;1;8.0;Highly Urban/ Urban;15/04/2022 09:55;dev_express;200 - 300
+1001204;F;56;Non;Non;75k - 100k;0 - 100k;Commercial;z_SUV;0;9.0;Highly Urban/ Urban;29/05/2022 18:16;dev_integral;300 - 400
+1001205;M;14;Non;Non;100k - 150k;300k - 400k;Private;Minivan;0;1.0;z_Highly Rural/ Rural;16/04/2022 13:39;dev_express;200 - 300
+1001206;M;6;Oui;Oui;100k - 150k;300k - 400k;Commercial;Panel Truck;9;16.0;Highly Urban/ Urban;22/01/2022 05:58;dev_express;200 - 300
+1001207;M;8;Non;Non;50k - 75k;200k - 300k;Commercial;Panel Truck;0;12.0;Highly Urban/ Urban;27/03/2022 20:38;dev_premium;300 - 400
+1001208;M;4;Non;Oui;25k - 50k;200k - 300k;Private;z_SUV;0;10.0;Highly Urban/ Urban;04/01/2022 05:01;dev_integral;200 - 300
+1001209;F;63;Non;Non;75k - 100k;200k - 300k;Commercial;Van;8;8.0;Highly Urban/ Urban;13/02/2022 15:16;dev_integral;300 - 400
+1001210;M;36;Non;Oui;100k - 150k;300k - 400k;Private;z_SUV;5;14.0;Highly Urban/ Urban;19/03/2022 20:36;dev_premium;300 - 400
+1001211;M;62;Non;Non;10k - 25k;100k - 200k;Commercial;Pickup;1;1.0;Highly Urban/ Urban;23/03/2022 12:55;dev_integral;300 - 400
+1001212;M;32;Non;Non;50k - 75k;100k - 200k;Private;Sports Car;0;21.0;Highly Urban/ Urban;24/02/2022 13:26;dev_express;200 - 300
+1001213;M;72;Non;Non;0 - 10k;100k - 200k;Private;Sports Car;1;1.0;Highly Urban/ Urban;30/05/2022 19:44;dev_integral;300 - 400
+1001214;M;65;Non;Non;25k - 50k;100k - 200k;Private;Van;3;4.0;Highly Urban/ Urban;02/03/2022 11:38;dev_express;200 - 300
+1001215;F;64;Non;Non;25k - 50k;0 - 100k;Private;Minivan;0;16.0;Highly Urban/ Urban;20/05/2022 22:56;dev_integral;300 - 400
+1001216;F;46;Non;Non;50k - 75k;200k - 300k;Private;Pickup;0;10.0;Highly Urban/ Urban;29/04/2022 03:01;dev_integral;300 - 400
+1001217;M;16;Non;Oui;25k - 50k;Non renseigné;Private;Pickup;1;7.0;Highly Urban/ Urban;25/01/2022 05:05;dev_express;200 - 300
+1001218;F;39;Non;Non;25k - 50k;100k - 200k;Commercial;Pickup;1;1.0;Highly Urban/ Urban;03/03/2022 19:35;dev_integral;300 - 400
+1001219;M;80;Non;Non;50k - 75k;200k - 300k;Private;Minivan;0;9.0;Highly Urban/ Urban;16/02/2022 23:56;dev_express;200 - 300
+1001220;F;30;Non;Non;75k - 100k;200k - 300k;Private;Minivan;1;12.0;Highly Urban/ Urban;08/04/2022 12:32;dev_integral;300 - 400
+1001221;M;20;Non;Non;75k - 100k;0 - 100k;Private;Sports Car;0;9.0;Highly Urban/ Urban;24/05/2022 09:52;dev_integral;300 - 400
+1001222;F;57;Non;Non;100k - 150k;300k - 400k;Commercial;Panel Truck;1;15.0;Highly Urban/ Urban;02/03/2022 00:49;dev_integral;300 - 400
+1001223;F;79;Non;Non;100k - 150k;300k - 400k;Commercial;Panel Truck;1;12.0;Highly Urban/ Urban;09/02/2022 22:53;dev_premium;300 - 400
+1001224;M;18;Oui;Oui;25k - 50k;100k - 200k;Commercial;Minivan;2;4.0;Highly Urban/ Urban;24/01/2022 05:37;dev_integral;300 - 400
+1001225;F;4;Non;Oui;50k - 75k;200k - 300k;Commercial;Pickup;0;11.0;z_Highly Rural/ Rural;20/03/2022 04:45;dev_express;200 - 300
+1001226;M;8;Non;Non;50k - 75k;Non renseigné;Private;Pickup;1;12.0;Highly Urban/ Urban;16/03/2022 09:04;dev_integral;300 - 400
+1001227;M;17;Non;Non;0 - 10k;0 - 100k;Commercial;Minivan;0;11.0;z_Highly Rural/ Rural;15/03/2022 13:46;dev_express;200 - 300
+1001228;F;8;Non;Non;50k - 75k;200k - 300k;Private;z_SUV;0;8.0;z_Highly Rural/ Rural;24/05/2022 16:03;dev_integral;300 - 400
+1001229;M;9;Non;Non;100k - 150k;300k - 400k;Private;z_SUV;4;7.0;Highly Urban/ Urban;26/03/2022 03:48;dev_integral;300 - 400
+1001230;F;7;Non;Non;50k - 75k;200k - 300k;Private;z_SUV;5;4.0;Highly Urban/ Urban;28/05/2022 19:05;dev_integral;300 - 400
+1001231;F;71;Non;Non;150k - 200k;300k - 400k;Private;z_SUV;1;12.0;Highly Urban/ Urban;19/04/2022 21:51;dev_integral;300 - 400
+1001232;F;34;Non;Non;10k - 25k;Non renseigné;Private;Minivan;0;1.0;Highly Urban/ Urban;04/04/2022 05:24;dev_express;200 - 300
+1001233;F;43;Non;Oui;50k - 75k;200k - 300k;Private;Minivan;3;8.0;Highly Urban/ Urban;25/01/2022 05:14;dev_express;200 - 300
+1001234;F;87;Non;Non;25k - 50k;100k - 200k;Private;z_SUV;1;10.0;z_Highly Rural/ Rural;25/02/2022 17:41;dev_integral;300 - 400
+1001235;M;29;Non;Oui;50k - 75k;100k - 200k;Private;z_SUV;0;7.0;Highly Urban/ Urban;07/03/2022 18:50;dev_integral;200 - 300
+1001236;F;89;Non;Oui;25k - 50k;100k - 200k;Private;z_SUV;0;12.0;Highly Urban/ Urban;11/05/2022 19:57;dev_integral;300 - 400
+1001237;F;64;Non;Non;25k - 50k;100k - 200k;Private;z_SUV;3;;Highly Urban/ Urban;25/05/2022 05:18;dev_express;200 - 300
+1001238;F;13;Non;Non;10k - 25k;0 - 100k;Private;Sports Car;10;2.0;Highly Urban/ Urban;07/02/2022 06:33;dev_integral;300 - 400
+1001239;F;49;Non;Non;25k - 50k;0 - 100k;Private;z_SUV;0;10.0;Highly Urban/ Urban;02/03/2022 22:19;dev_express;200 - 300
+1001240;M;3;Non;Non;25k - 50k;100k - 200k;Private;Pickup;3;1.0;Highly Urban/ Urban;29/04/2022 09:55;dev_integral;300 - 400
+1001241;M;70;Oui;Oui;0 - 10k;0 - 100k;Private;Sports Car;0;12.0;z_Highly Rural/ Rural;27/02/2022 08:10;dev_integral;200 - 300
+1001242;F;71;Non;Non;10k - 25k;100k - 200k;Commercial;Pickup;2;7.0;z_Highly Rural/ Rural;10/02/2022 16:53;dev_express;200 - 300
+1001243;F;66;Non;Non;100k - 150k;300k - 400k;Private;Pickup;4;22.0;Highly Urban/ Urban;07/05/2022 12:19;dev_integral;300 - 400
+1001244;F;82;Oui;Oui;75k - 100k;200k - 300k;Commercial;Panel Truck;0;;z_Highly Rural/ Rural;19/05/2022 09:28;dev_integral;200 - 300
+1001245;M;69;Non;Oui;0 - 10k;Non renseigné;Private;Sports Car;2;7.0;Highly Urban/ Urban;24/03/2022 21:00;dev_express;200 - 300
+1001246;M;50;Non;Non;75k - 100k;0 - 100k;Private;Minivan;3;21.0;Highly Urban/ Urban;18/01/2022 09:50;dev_express;200 - 300
+1001247;M;76;Non;Oui;50k - 75k;0 - 100k;Private;z_SUV;7;1.0;Highly Urban/ Urban;14/03/2022 09:34;dev_integral;200 - 300
+1001248;F;81;Non;Non;25k - 50k;100k - 200k;Private;z_SUV;0;6.0;z_Highly Rural/ Rural;25/01/2022 07:45;dev_express;200 - 300
+1001249;F;7;Non;Non;50k - 75k;100k - 200k;Private;Minivan;0;7.0;Highly Urban/ Urban;02/05/2022 07:04;dev_premium;500 - 600
+1001250;M;69;Non;Non;75k - 100k;200k - 300k;Commercial;Minivan;7;10.0;Highly Urban/ Urban;08/04/2022 04:34;dev_express;200 - 300
+1001251;M;61;Oui;Oui;10k - 25k;100k - 200k;Commercial;Pickup;3;9.0;Highly Urban/ Urban;17/05/2022 12:05;dev_express;200 - 300
+1001252;M;65;Non;Non;100k - 150k;0 - 100k;Commercial;Panel Truck;5;20.0;Highly Urban/ Urban;20/02/2022 04:37;dev_integral;300 - 400
+1001253;M;83;Non;Non;10k - 25k;100k - 200k;Private;z_SUV;1;8.0;z_Highly Rural/ Rural;03/01/2022 02:02;dev_integral;300 - 400
+1001254;F;63;Non;Non;100k - 150k;300k - 400k;Private;Minivan;2;20.0;Highly Urban/ Urban;27/05/2022 05:18;dev_express;200 - 300
+1001255;M;10;Non;Non;25k - 50k;100k - 200k;Private;Minivan;2;1.0;z_Highly Rural/ Rural;22/05/2022 15:08;dev_express;200 - 300
+1001256;F;62;Non;Non;50k - 75k;200k - 300k;Private;Minivan;3;1.0;Highly Urban/ Urban;23/01/2022 01:08;dev_integral;300 - 400
+1001257;F;72;Non;Non;75k - 100k;200k - 300k;Commercial;Van;6;4.0;Highly Urban/ Urban;19/01/2022 20:37;dev_premium;400 - 500
+1001258;M;89;Oui;Non;25k - 50k;0 - 100k;Private;Minivan;0;1.0;z_Highly Rural/ Rural;08/05/2022 18:08;dev_integral;300 - 400
